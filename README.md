@@ -7,4 +7,7 @@ Actividades del módulo de servicios de red e internet
 | ---------- |  -----------  |
 | placeholder practica1 | Documentación de la práctica |
 
-## Texto de prueba
+## Tema 0
+| Ejercicio  |  Descripción  |
+| ---------- |  -----------  |
+| [actividad0](/Tema_0/Actividad_0.1.md) | Caso de ejemplo |
