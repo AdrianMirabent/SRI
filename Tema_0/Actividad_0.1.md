@@ -6,6 +6,7 @@ Fue creado por el físico e informático británico Tim Berners-Lee en 1990, en 
 ## ¿Qué pila de protocolos es usada por HTTP?
 HTTP es un protocolo que opera en la capa de aplicación, y utiliza la pila de protocolos TCP/IP. 
 ![Protocolos](/Imagenes/protocolos_TCP_IP.jpg)
+<img src="/Imagenes/protocolos_TCP_IP.jpg" width="300">
 
 ## ¿Cuáles son los componentes de una URL?
 
