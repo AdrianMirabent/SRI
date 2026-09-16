@@ -1,12 +1,6 @@
 # SRI - Índice
 Actividades del módulo de servicios de red e internet.
 
-## Prácticas Trimestrales
-
-| Ejercicio  |  Descripción  |
-| ---------- |  -----------  |
-| placeholder practica1 | Documentación de la práctica |
-
 ## Tema 0 - Introducción
 | Ejercicio  |  Descripción  |
 | ---------- |  -----------  |
