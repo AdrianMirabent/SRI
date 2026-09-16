@@ -4,7 +4,7 @@
 Fue creado por el físico e informático británico Tim Berners-Lee en 1990, en el CERN (Consejo Europeo para la Investigación Nuclear), situado en Suiza. 
 
 ## ¿Qué pila de protocolos es usada por HTTP?
-HTTP es un protocolo que opera en la capa de aplicación, y utiliza la pila de protocolos TCP/IP. 
+HTTP (HyperText Transfer Protocol) es un protocolo que opera en la capa de aplicación, y utiliza la pila de protocolos TCP/IP. 
 
 <img src="/Imagenes/protocolos_TCP_IP.jpg" width="350">
 
@@ -36,6 +36,8 @@ Cuando se introduce una URL en el navegador y se pulsa ENTER, se realizan los si
 ## ¿Cómo usar telnet para acceder a un servidor web?
 
 ## Request. Métodos principales.
+Un mensaje HTTP consta de 3 principales: La línea de inicio (Start line) , los encabezados (Headers) y el cuerpo (Body). La información contenido de cada parte varía si el mensaje HTTP es una solicitud (Request) o una respuesta (Response).
+
 
 ## Response. Códigos.
 
