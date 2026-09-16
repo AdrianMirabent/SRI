@@ -12,5 +12,3 @@ Actividades del módulo de servicios de red e internet
 | ---------- |  -----------  |
 | [actividad0](/Tema_0/Actividad_0.1.md) | Caso de ejemplo |
 
-# prueba
-prueba de github
