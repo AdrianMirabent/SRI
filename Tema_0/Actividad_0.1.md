@@ -20,6 +20,8 @@ Una URL (Uniform Resource Locator) es la dirección estándar que se utiliza en 
 * query_string (parámetros o consulta): Parámetros que se envían el servidor para búsquedas o filtros dinámicos.
 * fragment_id (fragmento o ancla): Identificador para que el navegador salte directamente a una sección concreta dentro del recurso descargado.
 
+Las partes obligatorias son el esquema y el dominio. Las demás partes son opcionales.
+
 ## ¿Cuáles son los pasos en la recuperación de una página web mediante HTTP?
 Cuando se introduce una URL en el navegador y se pulsa ENTER, se realizan los siguientes pasos.
 1. El navegador consulta la caché local, el router o los servidores DNS para obtener la IP del dominio.
