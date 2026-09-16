@@ -2,7 +2,7 @@
 
 ## Diferencias entre UDP y TCP.
 
-## ¿Qué aplicaciones usan TCP? HTTP, SMTP, POP, IMAP, SSH
+## ¿Qué aplicaciones usan TCP?
 
 ## ¿Qué aplicaciones usan UDP?
 
