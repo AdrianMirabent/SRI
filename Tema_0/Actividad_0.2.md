@@ -1,6 +1,6 @@
 # Actividad 0.2 - UDP and TCP: Comparison of Transport Protocols
 
-## Diferencias entre UDP y TCP?
+## Diferencias entre UDP y TCP.
 
 ## ¿Qué aplicaciones usan TCP? HTTP, SMTP, POP, IMAP, SSH
 
