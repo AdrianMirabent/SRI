@@ -1,7 +1,7 @@
 # SRI - Índice
-Actividades del módulo de servicios de red e internet
+Actividades del módulo de servicios de red e internet.
 
-## Practicas Trimestrales
+## Prácticas Trimestrales
 
 | Ejercicio  |  Descripción  |
 | ---------- |  -----------  |
