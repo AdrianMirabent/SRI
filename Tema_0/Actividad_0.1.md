@@ -10,6 +10,8 @@
 
 ## Diferencias entre páginas dinámicas y estáticas.
 
+## ¿Cómo usar telnet para acceder a un servidor web?
+
 ## Request. Métodos principales.
 
 ## Response. Códigos.
