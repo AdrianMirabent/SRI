@@ -29,6 +29,8 @@ Cuando se introduce una URL en el navegador y se pulsa ENTER, se realizan los si
 5. El navegador recibe la respuesta y procesa los datos para transformarlos en una imagen, gráfico o video que el usuario puede interpretar (renderizado). Si durante el proceso necesita más recursos, hará nuevas peticiones HTTP para descargarlos.
 6. Se cierra la conexión TCP con el servidor.
 
+<img src="/Imagenes/cliente_servidor_http.jpg" width="350">
+
 ## Diferencias entre páginas dinámicas y estáticas.
 * En una página web estática cuando un navegador pide la página, el servidor se limita a enviar exactamente el archivo tal y como está guardado, sin hacerle ninguna modificación. Ejemplo: Una página web de una pequeña empresa que muestra sus servicios, horarios, teléfono y ubicación. 
 * En cambio, en una página web dinámica cuando un navegador pide la página, en el servidor se ejecuta un lenguaje de programación y suele consultar una base de datos, creando una página en tiempo real con lo que el usuario necesita. Ejemplo: Instagram, página web que cuando entras en ella te construye un muro de publicaciones totalmente adaptado a los gustos del usuario. 
