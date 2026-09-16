@@ -63,3 +63,5 @@ Primera cabecera | Segunda cabecera
 ------------ | -------------
 Contenido de la primera celda | Contenido de la segunda celda
 Contenido de la primera columna | Content de la segunda columna
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
