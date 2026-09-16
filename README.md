@@ -65,3 +65,12 @@ Contenido de la primera celda | Contenido de la segunda celda
 Contenido de la primera columna | Content de la segunda columna
 
 ![Imagen de prueba insertado en Markdown de la mascota de github.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+# Inserción de un grafico atractivo visual
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
