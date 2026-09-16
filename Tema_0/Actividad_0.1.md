@@ -11,8 +11,7 @@ HTTP es un protocolo que opera en la capa de aplicación, y utiliza la pila de p
 ## ¿Cuáles son los componentes de una URL?
 Una URL (Uniform Resource Locator) es la dirección estándar que se utiliza en Internet para encontrar y acceder a un recurso específico. Está compuesta de las siguiente partes:
 
-*scheme:://domain:port/path?query_string#fragment_id*
-
+**scheme:://domain:port/path?query_string#fragment_id**
 
 * scheme (esquema): Esquema o protocolo que debe de utilizar el navegador para comunicarse con el servidor.
 * domain (dominio) : Es la dirección legible del servidor en Internet.
