@@ -18,6 +18,4 @@ curl -i """ pagina web """: Nos muestra la página web incluyendo los headers
 <img width="1444" height="272" alt="image" src="https://github.com/user-attachments/assets/4d8a7290-32c0-4b05-98b2-784669887048" />
 
 curl -o archivo.html """ pagina web """: Descarga la página web y la guarda con ese nombre.
-<img width="1191" height="1078" alt="image" src="https://github.com/user-attachments/assets/ccbeb26b-3f9a-4348-9b01-6e41c50a1960" />
-
 <img width="726" height="287" alt="image" src="https://github.com/user-attachments/assets/001ac4cc-78f1-4570-86ca-08c5c41982d1" />
