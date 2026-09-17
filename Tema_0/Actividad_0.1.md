@@ -10,6 +10,8 @@ HTTP (HyperText Transfer Protocol) es un protocolo que opera en la capa de aplic
 
 <img src="/Imagenes/protocolos_TCP_IP.jpg" width="350">
 
+En la actualidad conviven 3 versiones del protocolo HTTP: HTTP/1.1, HTTP/2 y HTTP/3. Los navegadores y los servidores negocian automáticamente la mejor versión compatible al establecer una conexión. HTTP/1.1 y HTTP/2 operan sobre el protocolo TCP.  HTTP/3 utiliza el protocolo QUIC, que opera sobre el protocolo UDP. 
+
 ## ¿Cuáles son los componentes de una URL?
 Una URL (Uniform Resource Locator) es la dirección estándar que se utiliza en Internet para encontrar y acceder a un recurso específico. Está compuesta de las siguiente partes:
 
@@ -25,7 +27,7 @@ Una URL (Uniform Resource Locator) es la dirección estándar que se utiliza en 
 Las partes obligatorias son el esquema y el dominio. Las demás partes son opcionales.
 
 ## ¿Cuáles son los pasos en la recuperación de una página web mediante HTTP?
-Cuando se introduce una URL en el navegador y se pulsa ENTER, se realizan los siguientes pasos.
+Cuando se introduce una URL en el navegador y se pulsa ENTER, se realizan los siguientes pasos:
 1. El navegador consulta la caché local, el router o los servidores DNS para obtener la IP del dominio.
 2. Se establece una conexión TCP con el servidor.
 3. El navegador envía una solicitud HTTP pidiéndole el recurso que se desea.
