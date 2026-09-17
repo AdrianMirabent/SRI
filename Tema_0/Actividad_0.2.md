@@ -1,7 +1,7 @@
 # Actividad 0.2 - UDP and TCP: Comparison of Transport Protocols
 
 ## Diferencias entre UDP y TCP.
-
+UDP (User Datagram Protocol) y TCP (Transmission Control Protocol) son dos protocolos de la capa de transporte. Permiten la comunicación extremo a extremo (host a host) en la red.
 Esta tabla relata las diferencias entre TCP y UDP.
 | Característica | TCP | UDP |
 | :--- | :--- | :--- |
