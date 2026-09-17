@@ -29,11 +29,11 @@ Las partes obligatorias son el esquema y el dominio. Las demás partes son opcio
 ## ¿Cuáles son los pasos en la recuperación de una página web mediante HTTP?
 Cuando se introduce una URL en el navegador y se pulsa ENTER, se realizan los siguientes pasos:
 1. El navegador consulta la caché local, el router o los servidores DNS para obtener la IP del dominio.
-2. Se establece una conexión TCP con el servidor.
+2. Se establece una conexión TCP o QUIC con el servidor, según la versión de HTTP.
 3. El navegador envía una solicitud HTTP pidiéndole el recurso que se desea.
 4. El servidor recibe la petición, la interpreta, busca los recursos necesarios y genera una respuesta. Y devuelve al navegador una respuesta HTTP. 
 5. El navegador recibe la respuesta y procesa los datos para transformarlos en una imagen, gráfico o video que el usuario puede interpretar (renderizado). Si durante el proceso necesita más recursos, hará nuevas peticiones HTTP para descargarlos.
-6. Se cierra la conexión TCP con el servidor.
+6. Se cierra la conexión TCP o QUIC con el servidor, según la versión HTTP.
 
 <img src="/Imagenes/cliente_servidor_http.jpg" width="350">
 
