@@ -46,16 +46,14 @@ Cuando se introduce una URL en el navegador y se pulsa ENTER, se realizan los si
 ## Request. Métodos principales.
 Un mensaje HTTP consta de 3 partes principales: La línea de inicio (Start line) , los encabezados (Headers) y el cuerpo (Body). La información contenido de cada parte varía si el mensaje HTTP es una solicitud (Request) o una respuesta (Response).
 
-<img src="/Imagenes/typical_http_message.jpg" width="200">
-
 Vamos a hablar de una solicitud HTTP. Su contenido es el siguiente:
 
-<img src="/Imagenes/request_http_message.jpg" width="250">
+<img src="/Imagenes/request_http_message.jpg" width="350">
 
 
 ## Response. Códigos.
 Vamos a hablar ahora de una respuesta HTTP. Su contenido es el siguiente:
 
-<img src="/Imagenes/response_http_message.jpg" width="250">
+<img src="/Imagenes/response_http_message.jpg" width="350">
 
 ## Content type. Tipos principales.
