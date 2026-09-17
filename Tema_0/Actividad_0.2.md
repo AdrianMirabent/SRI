@@ -1,8 +1,14 @@
 # Actividad 0.2 - UDP and TCP: Comparison of Transport Protocols
 
 ## Diferencias entre UDP y TCP.
+Vamos a analizar las principales diferencias entre los 2 protocolos:
+* Establecimiento de la conexión: TCP es un protocolo a la conexión y requiere el 3-way handshake, para sincronizar los dispositivos antes de retransmitir datos. En cambio, el protocolo UDP es sin conexión y envía los datos directamente al receptor sin previo aviso.
+* Fiabilidad: TCP garantiza la entrega de los paquetes mediante acuses de recibo. Si un paquete se pierde, se vuelve a enviar de forma automática. En cambio,  el protocolo UDP no comprueba si la información llega al receptor, los paquetes perdidos se descartan.
+* Ordenación de datos: TCP numera cada paquete y lo reordena en el destino para reconstruir la información original a la perfección. En cambio, UDP entrega los paquetes en el orden en el que van llegando al destino.
+* Velocidad: TCP realiza controles de gestión de red, ajustando la velocidad de envío de paquetes para evitar que la red o los dispositivos se saturen o colapsen. Estos ajustes hacen que el protocolo sea mas lento. En cambio, UDP no tiene esos ajustes, lo que permite una transmisión casi instantánea. 
 
 ## ¿Qué aplicaciones usan TCP?
+
 
 ## ¿Qué aplicaciones usan UDP?
 
