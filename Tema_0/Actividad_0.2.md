@@ -5,7 +5,7 @@ UDP (User Datagram Protocol) y TCP (Transmission Control Protocol) son dos proto
 Esta tabla relata las diferencias entre TCP y UDP.
 | Característica | TCP | UDP |
 | :--- | :--- | :--- |
-| Conexión | Orientado a la conexión (usa apretón de manos o handshake) | Sin conexión (envía datos directamente sin previo aviso) |
+| Conexión | Orientado a la conexión, es decir, se establece conexión entre emisor y receptor antes de comenzar la transmisión de datos (usa apretón de manos o handshake) | Sin conexión (envía datos directamente sin previo aviso) |
 | Fiabilidad | Alta; garantiza que los datos no se pierdan ni se corrompan | Baja; no garantiza la recepción ni avisa si un paquete se pierde |
 | Velocidad | Más lento debido a las verificaciones constantes y retransmisiones | Muy rápido y eficiente al no requerir confirmaciones |
 | Orden de datos | Los paquetes se entregan y ordenan secuencialmente | Los paquetes pueden llegar desordenados o no llegar |
