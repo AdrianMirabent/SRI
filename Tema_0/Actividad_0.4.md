@@ -1,1 +1,15 @@
+# Actividad 0.4 - Usando cUrl
+
+Busque información sobre el comando cUrl y mostraré en este documento cinco ejemplos de su uso. 
+
+El comando cURL, acrónimo de "Client URL" es una herramienta de 
+software de línea de comandos diseñada para transferir datos utilizando
+diversos protocolos. Es ampliamente utilizado por desarrolladores y
+administradores de sistemas para automatizar el proceso de comunicación con servidores web y realizar tareas como la descarga de archivos, la interacción con API y el monitoreo de la salud de los sitios web. Su flexibilidad y potencia lo convierten en indispensable en la caja de herramientas de cualquier profesional de IT. 
+
+## Ejemplos de uso
+
+curl """ pagina web """: Nos muestra la página web en formato HTML en salida estándar. 
+
+<img width="1035" height="565" alt="image" src="https://github.com/user-attachments/assets/72933899-6e5c-4833-8536-f464c9c2c9d1" />
 
