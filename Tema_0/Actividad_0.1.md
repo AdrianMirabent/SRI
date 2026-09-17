@@ -90,6 +90,20 @@ Los códigos mas comunes son:
 * 404 Not Found: El recurso solicitado no existe en el servidor.
 * 500 Internal Server Error: Fallo interno en el servidor.
   
-
-
 ## Content type. Tipos principales.
+La cabecera Content-Type (también conocida como MIME) se incluye en las cabeceras tanto de los mensajes HTTP de petición como de respuesta. Su función es indicar el tipo de formato de los datos contenidos en el cuerpo del mensaje.
+La estructura de un Content-Type se compone de un tipo principal y un subtipo. Los tipos principales y sus subtipos más comunes son: 
+* text/*: contenido de texto plano.
+  * text/html: documento html.
+  * text/plain: texto plano sin formato(.txt)
+  * text/css: hoja de estilo CSS.
+* aplication/*: datos de aplicaciones.
+  * aplication/json: datos en formato JSON.
+  * aplication/xml: datos en formato XML.
+* image/*: imágenes y gráficos.
+  * image/jpg.
+  * image/png.
+  * image/gif.
+* audio/* y video/*: contenido multimedia.
+  * audio/mpg.
+  * video/mp4.
