@@ -27,3 +27,5 @@ curl -d "username=777aml777&password=Mirabent1234" www.nintendo.com: El formato 
 curl -O https://tse3.mm.bing.net/th/id/OIP.G3MBgMIAKrjIco8WKVBDWgHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3: La imagen descargada estaba en una página externa en la cual he extraido el enlace URL y lo que he hecho ha sido extraer la información de las especificaciones
 <img width="1252" height="469" alt="image" src="https://github.com/user-attachments/assets/66e65489-d819-47a9-b16e-93699d7733e8" />
 
+<img width="888" height="737" alt="image" src="https://github.com/user-attachments/assets/bde07e54-a104-4673-b92f-9a1d0b246ae1" />
+
