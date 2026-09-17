@@ -56,6 +56,14 @@ Vamos a hablar de una solicitud HTTP. Su contenido es el siguiente:
     
 <img src="/Imagenes/request_http_message.jpg" width="600">
 
+Los métodos principales usados en la línea de inicio de un mensaje HTTP de petición son:
+* GET: solicita al servidor que devuelva un recurso específico (ejemplo: solicitar una página web, una imagen, etc)
+* HEAD: funciona exactamente igual que GET, pero el servidor solo devuelve las cabeceras y no envía el cuerpo en su respuesta.
+* POST: envía datos al servidor para crear un nuevo recurso (ejemplo: enviar un formulario o publicar un comentario).
+* PUT: actualiza por completo un recurso existente o lo creas si no existe.
+* PATCH: aplica modificaciones parciales a un recurso.
+* DELETE: elimina el recurso que se especifica.
+
 
 ## Response. Códigos.
 Vamos a hablar ahora de una respuesta HTTP. Su contenido es el siguiente:
