@@ -8,7 +8,13 @@ Vamos a analizar las principales diferencias entre los 2 protocolos:
 * Velocidad: TCP realiza controles de gestión de red, ajustando la velocidad de envío de paquetes para evitar que la red o los dispositivos se saturen o colapsen. Estos ajustes hacen que el protocolo sea mas lento. En cambio, UDP no tiene esos ajustes, lo que permite una transmisión casi instantánea. 
 
 ## ¿Qué aplicaciones usan TCP?
-
+Las aplicaciones que usan TCP son de estos tipos:
+* Aplicaciones para navegación web: HTTP, HTTPS. El protocolo TCP garantiza que el código HTML, las imágenes y los estilos de una página carguen por completo y sin errores.
+* Aplicaciones para correo electrónico: SMTP (para el envío) y IMAP y POP3 (para la recepción y sincronización). El protocolo TCP asegura que el texto del mensaje y los archivos adjuntos llegan íntegros a la bandeja de entrada.
+* Aplicaciones para transferencia de archivos: FTP, SFTP y SMB. El protocolo TCP/IP permite subir o descargar documentos, programas o copias de seguridad garantizando una precisión bit a bit.
+* Aplicaciones para acceso remoto y administración: SSH y Telnet. El protocolo TCP garantiza  que las instrucciones y comandos de consola enviados a un servidor distante se reciban en el orden exacto que se teclearon.
+* Aplicaciones para la gestión de bases de datos: TDS (Microsoft SQL Server), y los protocolos nativos de MySQL. El protocolo TCP garantiza la fiabilidad absoluta para procesar transacciones sin duplicar información ni perder registros de usuarios durante la comunicación entre la aplicación y la base de datos.
+* Aplicaciones para la mensajería instantánea y notificaciones: XMPP, IRC y MQTT. El protocolo TCP garantiza la entrega de textos, estados de conexión y confirmaciones de lectura de forma exacta. 
 
 ## ¿Qué aplicaciones usan UDP?
 
