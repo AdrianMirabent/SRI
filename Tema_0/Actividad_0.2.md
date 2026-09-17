@@ -20,5 +20,7 @@ En cambio, el protocolo TCP es un protocolo orientado a la conexión. Es decir, 
 2. SYN-ACK (Sincronización y Acuse de recibo): El servidor que ha recibido el paquete, envía un paquete al cliente confirmando que recibió la petición (ACK) y además envía un número de secuencia para la sincronización (SYN).
 3. ACK (Acuse de recibo): El cliente recibe la respuesta del servidor y envía un nuevo paquete para confirmar que el mensaje de sincronización ha sido recibido correctamente.
 
+<img src="/Imagenes/Tim_Berners_Lee.jpg" width="300">
+
 Una vez finalizado el 3er paso, las máquinas están sincronizadas y la conexión TCP queda establecida. A partir de este momento puede comenzar la transferencia segura de información. 
 
