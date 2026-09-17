@@ -7,6 +7,9 @@
 | Velocidad | Más lento debido a las verificaciones constantes y retransmisiones | Muy rápido y eficiente al no requerir confirmaciones |
 | Orden de datos | Los paquetes se entregan y ordenan secuencialmente | Los paquetes pueden llegar desordenados o no llegar |
 | Control de flujo | Incluye control de flujo y congestión de red | Carece de control de flujo o congestión nativos |
+
+| **Caracteristica** | **TCP** | **UDP** |
+| Conexión | Orientado a la conexión (usa apretón de manos o handshake) | Sin conexión (envía datos directamente sin previo aviso) |
 ## ¿Qué aplicaciones usan TCP?
 
 ## ¿Qué aplicaciones usan UDP?
