@@ -67,7 +67,29 @@ Los métodos principales usados en la línea de inicio de un mensaje HTTP de pet
 
 ## Response. Códigos.
 Vamos a hablar ahora de una respuesta HTTP. Su contenido es el siguiente:
+* Línea de inicio: Contiene 2 elementos:
+  * La versión del protocolo.
+  * El código del estado, que el servidor devuelve al navegador para indicar el resultado de la petición realizada. El código lleva asociado un mensaje    descriptivo (OK, Not Found, etc).
+* Cabeceras: Metadatos clave-valor sobre el contenido enviado que aporten información como el tipo de contenido enviado (Content-Type)
+* Cuerpo: Contiene el recurso solicitado.
 
 <img src="/Imagenes/response_http_message.jpg" width="600">
+
+Los códigos de estado usados en la línea de inicio de un mensaje HTTP de respuesta se dividen en 5 categorías:
+* 1xx: Informativo. Indica que el servidor ha recibido la petición y está procesándola.
+* 2xx: Éxito. Indica que el servidor ha recibido la petición y fue procesada correctamente.
+* 3xx: Redirección. Indica que el navegador debe realizar acciones adicionales para completar la petición.
+* 4xx: Error del cliente. Indica que hay un error en la petición enviada por el navegador.
+* 5xx: Error del servidor. Indica que el servidor falló al intentar procesar una petición.
+
+Los códigos mas comunes son:
+* 200 OK: El servidor devuelve el recurso solicitado.
+* 201 Created: El recurso creado correctamente.
+* 301 Moved Permanently: El recurso se ha movido a una nueva URL.
+* 400 Bad Request: La petición tiene una sintaxis incorrecta y el servidor no la entiende.
+* 404 Not Found: El recurso solicitado no existe en el servidor.
+* 500 Internal Server Error: Fallo interno en el servidor.
+  
+
 
 ## Content type. Tipos principales.
