@@ -48,12 +48,12 @@ Un mensaje HTTP consta de 3 partes principales: La línea de inicio (Start line)
 
 Vamos a hablar de una solicitud HTTP. Su contenido es el siguiente:
 
-<img src="/Imagenes/request_http_message.jpg" width="350">
+<img src="/Imagenes/request_http_message.jpg" width="500">
 
 
 ## Response. Códigos.
 Vamos a hablar ahora de una respuesta HTTP. Su contenido es el siguiente:
 
-<img src="/Imagenes/response_http_message.jpg" width="350">
+<img src="/Imagenes/response_http_message.jpg" width="500">
 
 ## Content type. Tipos principales.
