@@ -12,7 +12,7 @@ Esta tabla relata las diferencias entre TCP y UDP:
 | Control de flujo | Incluye control de flujo y congestión de red. | Carece de control de flujo o congestión nativos. |
 
 ## ¿Qué aplicaciones usan TCP?
-Las aplicaciones que suelen usar TCP normalmente la mayoria de las veces son las siguientes:
+Las aplicaciones que suelen usar TCP son las siguientes:
 * Navegación Web: Cada vez que entras a una página web o usas una plataforma en la nube, tu navegador web utiliza los protocolos HTTP o HTTPS, los cuales corren sobre TCP.
 * Mensajería Instantánea y Redes Sociales: Aunque algunas llamadas de voz usan UDP, el envío de mensajes de texto, imágenes, estados y confirmaciones de lectura requiere una entrega exacta que solo TCP puede proporcionar. Protocolos como XMPP e IRC usan TCP.
 * Correo Electrónico: Si un correo electrónico perdiera datos en el camino, el mensaje llegaría incompleto o los archivos adjuntos se romperían. Protocolos como SMTP, POP e IMAP usan TCP.
@@ -21,8 +21,7 @@ Las aplicaciones que suelen usar TCP normalmente la mayoria de las veces son las
 * Bases de Datos y Herramientas de Desarrollo: Las conexiones entre una aplicación y su base de datos deben ser 100% fiables para evitar que la información de los usuarios se duplique o se pierda. Los protocolos de MySQL o TDS (Microsoft SQL Server) usan TCP.
 
 ## ¿Qué aplicaciones usan UDP?
-Las aplicaciones que usan el protocolo UDP (User Datagram Protocol) son aquellas que necesitan máxima velocidad y baja latencia, y que pueden tolerar la pérdida de algunos paquetes de datos.
-
+Las aplicaciones que usan UDP son las siguientes:
 * Transmitir contenido en tiempo real como YouTube donde es mejor perder un fotograma que sufrir un retraso.
 * Jugar en línea en títulos multijugador para enviar la posición de los jugadores al instante.
 * Realizar llamadas de voz y videollamadas  mediante aplicaciones como Zoom o Skype para mantener la conversación fluida.
