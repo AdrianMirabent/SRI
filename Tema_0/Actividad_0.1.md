@@ -47,7 +47,13 @@ Cuando se introduce una URL en el navegador y se pulsa ENTER, se realizan los si
 Un mensaje HTTP consta de 3 partes principales: La línea de inicio (Start line) , los encabezados (Headers) y el cuerpo (Body). La información contenido de cada parte varía si el mensaje HTTP es una solicitud (Request) o una respuesta (Response).
 
 Vamos a hablar de una solicitud HTTP. Su contenido es el siguiente:
-
+* Linea de inicio: Contiene 3 elementos:
+  * El método, que indica al servidor la acción que se desea realizarse sobre el recurso solicitado.
+  * La ruta del recurso solicitado.
+  * La versión del protocolo utilizado.
+* Cabeceras: Metadatos clave-valor que aportan información extra como el dominio (host), el tipo de contenido enviado (Content-Type) o el tipo de contenido que acepta el navegador (Accept).
+* Cuerpo: Es opcional y contiene los datos que se envían al servidor, por ejemplo los datos de un formulario. 
+    
 <img src="/Imagenes/request_http_message.jpg" width="600">
 
 
