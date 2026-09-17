@@ -10,7 +10,7 @@
 Se almacena en la capa de transporte en el modelo TCP/IP. 
 
 ## ¿Qué capa almacena la dirección IP?
-Se almacena en la capa de internet en el modelo TCP/IP. 
+Se almacena en la capa de internet en el modelo TCP/IP. <br/>
 La capa de internet utiliza las direcciones IP para asegurar que el paquete enviado llega a la máquina correcta. La capa de transporte utiliza los puertos para entregar la información a la aplicación correcta dentro de la máquina.
 
 ## ¿Qué es three-way handshake?
