@@ -14,5 +14,5 @@ curl """ pagina web """: Nos muestra la página web en formato HTML en salida es
 <img width="1035" height="365" alt="image" src="https://github.com/user-attachments/assets/72933899-6e5c-4833-8536-f464c9c2c9d1" />
 
 curl -i """ pagina web """: Nos muestra la página web incluyendo los headers 
-<img width="1844" height="272" alt="image" src="https://github.com/user-attachments/assets/4d8a7290-32c0-4b05-98b2-784669887048" />
+<img width="1044" height="272" alt="image" src="https://github.com/user-attachments/assets/4d8a7290-32c0-4b05-98b2-784669887048" />
 
