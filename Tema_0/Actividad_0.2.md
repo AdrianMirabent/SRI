@@ -17,6 +17,12 @@ Las aplicaciones que usan TCP son de estos tipos:
 * Aplicaciones para la mensajería instantánea y notificaciones: XMPP, IRC y MQTT. El protocolo TCP garantiza la entrega de textos, estados de conexión y confirmaciones de lectura de forma exacta. 
 
 ## ¿Qué aplicaciones usan UDP?
+Las aplicaciones que usan UDP son de estos tipos:
+* Aplicaciones para la transmisión de contenido en tiempo real: QUIC (Base de HTTP/3 usado por YouTube). El protocolo UDP permite que el vídeo y el audio fluya de manera constante.
+* Aplicaciones para llamadas de voz y videollamadas (VoIP): RTP. El protocolo UDP permite la inmediatez de la conversación en aplicaciones como Zoom, Discord y WhatsApp.
+* Aplicaciones para la resolución de nombres de dominio: DNS. El protocolo UDP permite a tu navegador preguntar que IP corresponde a una web de forma instantánea.
+* Aplicaciones para los servicios de infraestructura de red local: DHCP, NTP y SNMP. El protocolo UDP permite que tareas automáticas del sistema sean extremadamente ligeras y rápidas.
+* Aplicaciones para redes privadas virtuales (VPN): OpenVPN. El protocolo UDP permite el encapsulado del tráfico dentro de túneles UDP para mantener altas velocidades de navegación.  
 
 ## ¿Qué capa almacena el puerto?
 Se almacena en la capa de transporte en el modelo TCP/IP. 
