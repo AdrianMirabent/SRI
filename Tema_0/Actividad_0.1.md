@@ -109,6 +109,3 @@ La estructura de un Content-Type se compone de un tipo principal y un subtipo. L
 * audio/* y video/*: contenido multimedia.
   * audio/mpg.
   * video/mp4.
-
- 
-
