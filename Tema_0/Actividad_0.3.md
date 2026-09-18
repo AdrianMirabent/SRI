@@ -1,6 +1,7 @@
 # Actividad 0.3 - Practica telnet/http
 
 Telnet es uno de los protocolos de acceso remoto más veteranos que existen.
+
 Trabaja sobre TCP y desde el lado remoto se queda escuchando conexiones entrantes. Una vez escuchada la conexión, Telnet transmite los datos en texto plano en ambos sentidos. Es un protocolo en desuso al ser mas inseguro. Esto lo he probado desde mi equipo de casa, y estos son los resultados. 
 
 Primero ejecutamos el conjunto de comandos que se muestra aqui abajo: la estructura es: El nombre del software --> El nombre del dominio --> El puerto
