@@ -1,5 +1,5 @@
 # Actividad 0.1 - HTTP Introduction
-<br/>
+</br>
 ## ¿Quién, dónde y cuándo se crea el primer servidor web?
 Fue creado por el físico e informático británico Tim Berners-Lee en 1990, en el CERN (Consejo Europeo para la Investigación Nuclear), situado en Suiza. 
 
