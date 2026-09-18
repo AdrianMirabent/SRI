@@ -1,5 +1,3 @@
-<p align="justify">
- 
 # Actividad 0.1 - HTTP Introduction
 
 ## ¿Quién, dónde y cuándo se crea el primer servidor web?
@@ -112,4 +110,4 @@ La estructura de un Content-Type se compone de un tipo principal y un subtipo. L
   * audio/mpg.
   * video/mp4.
  
- </p>
+
