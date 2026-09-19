@@ -1,8 +1,8 @@
 # Actividad 0.4 - Usando cUrl
 
-El comando cURL, acrónimo de "Client URL" es una herramienta de software de línea de comandos diseñada para transferir datos utilizandodiversos protocolos (funciona con los protocolos HTTP,HTTPS, FTP, SFTP y muchos otros). 
-Es ampliamente utilizado por desarrolladores y administradores de sistemas para automatizar el proceso de comunicación con servidores web y realizar tareas como la descarga de archivos, la interacción con API y el monitoreo de la salud de los sitios web. 
-Su flexibilidad y potencia lo convierten en indispensable en la caja de herramientas de cualquier profesional de IT. 
+El comando cURL, acrónimo de "Client URL" es una herramienta de software de línea de comandos diseñada para transferir datos utilizandodiversos protocolos (funciona con los protocolos HTTP,HTTPS, FTP, SFTP y muchos otros).<br>
+Es ampliamente utilizado por desarrolladores y administradores de sistemas para automatizar el proceso de comunicación con servidores web y realizar tareas como la descarga de archivos, la interacción con API y el monitoreo de la salud de los sitios web.<br> 
+Su flexibilidad y potencia lo convierten en indispensable en la caja de herramientas de cualquier profesional de IT.<br>
 
 ## Ejemplos de uso
 
