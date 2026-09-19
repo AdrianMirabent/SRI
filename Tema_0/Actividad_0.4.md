@@ -11,7 +11,7 @@ curl """ pagina web """: Nos muestra la página web en formato HTML en salida es
 <img width="1035" height="365" alt="image" src="https://github.com/user-attachments/assets/72933899-6e5c-4833-8536-f464c9c2c9d1" />
 
 <br/>
-curl -I """ pagina web """: Nos muestra la página web incluyendo los headers(CABECERAS).
+curl -I """ pagina web """: Nos muestra las cabeceras HTTP de la página web.
 <img width="1836" height="237" alt="image" src="https://github.com/user-attachments/assets/e982538e-1ff9-4125-a481-40cacb8ed40d" />
 
 
