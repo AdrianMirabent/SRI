@@ -1,7 +1,5 @@
 # Actividad 0.4 - Usando cUrl
 
-Busque información sobre el comando cUrl y mostraré en este documento cinco ejemplos de su uso. 
-
 El comando cURL, acrónimo de "Client URL" es una herramienta de 
 software de línea de comandos diseñada para transferir datos utilizando
 diversos protocolos. Es ampliamente utilizado por desarrolladores y
