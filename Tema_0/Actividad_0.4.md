@@ -12,25 +12,25 @@ Su flexibilidad y potencia lo convierten en indispensable en la caja de herramie
 
 <br/><br/>
 
-curl -I """ pagina web """: Nos muestra las cabeceras de la respuesta HTTP de la página web.
+**curl -I """ pagina web """:** Nos muestra las cabeceras de la respuesta HTTP de la página web.
 
 <img width="1836" height="237" alt="image" src="https://github.com/user-attachments/assets/e982538e-1ff9-4125-a481-40cacb8ed40d" />
 
 <br/><br/>
 
-curl -o archivo.html """ pagina web """: Descarga la página web en formato HTML y la guarda con el nombre que le hemos indicado (archivo.html).
+**curl -o archivo.html """ pagina web """:** Descarga la página web en formato HTML y la guarda con el nombre que le hemos indicado (archivo.html).
 
 <img width="726" height="287" alt="image" src="https://github.com/user-attachments/assets/001ac4cc-78f1-4570-86ca-08c5c41982d1" />
 
 <br/><br/>
 
-curl -d "username=777aml777&password=Mirabent1234" www.nintendo.com: Para enviar o publicar algo en la página web. El formato con el que yo me he tenido que logear o iniciar sesión no existe ya de por si, y por este motivo no me ha devuelto un mensaje de confirmación de que he iniciado sesión con éxito. 
+**curl -d "username=777aml777&password=Mirabent1234" www.nintendo.com:** Para enviar o publicar algo en la página web. El formato con el que yo me he tenido que logear o iniciar sesión no existe ya de por si, y por este motivo no me ha devuelto un mensaje de confirmación de que he iniciado sesión con éxito. 
 
 <img width="914" height="26" alt="image" src="https://github.com/user-attachments/assets/0f57b8b4-8524-45b5-ab7e-7c5aa61c263a" />
 
 <br/><br/>
 
-curl -O https://tse3.mm.bing.net/th/id/OIP.G3MBgMIAKrjIco8WKVBDWgHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3: La imagen descargada estaba en una página externa en la cual he extraído el enlace URL y lo que he hecho ha sido extraer la información de las especificaciones. El archivo se guarda con su nombre remoto.
+**curl -O https://tse3.mm.bing.net/th/id/OIP.G3MBgMIAKrjIco8WKVBDWgHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3:** La imagen descargada estaba en una página externa en la cual he extraído el enlace URL y lo que he hecho ha sido extraer la información de las especificaciones. El archivo se guarda con su nombre remoto.
 
 <img width="1252" height="469" alt="image" src="https://github.com/user-attachments/assets/66e65489-d819-47a9-b16e-93699d7733e8" />
 
