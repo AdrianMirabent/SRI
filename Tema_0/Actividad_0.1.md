@@ -41,10 +41,6 @@ Cuando se introduce una URL en el navegador y se pulsa ENTER, se realizan los si
 * En una página web estática cuando un navegador pide la página, el servidor se limita a enviar exactamente el archivo tal y como está guardado, sin hacerle ninguna modificación. Ejemplo: Una página web de una pequeña empresa que muestra sus servicios, horarios, teléfono y ubicación. 
 * En cambio, en una página web dinámica cuando un navegador pide la página, en el servidor se ejecuta un lenguaje de programación y suele consultar una base de datos, creando una página en tiempo real con lo que el usuario necesita. Ejemplo: Instagram, página web que cuando entras en ella te construye un muro de publicaciones totalmente adaptado a los gustos del usuario. 
 
-## ¿Cómo usar telnet para acceder a un servidor web?
-
-
-
 ## Request. Métodos principales.
 Un mensaje HTTP consta de 3 partes principales: La línea de inicio (Start line) , los encabezados (Headers) y el cuerpo (Body). La información contenido de cada parte varía si el mensaje HTTP es una solicitud (Request) o una respuesta (Response).
 
