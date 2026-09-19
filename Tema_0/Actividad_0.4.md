@@ -18,7 +18,7 @@ curl -I """ pagina web """: Nos muestra las cabeceras de la respuesta HTTP de la
 
 <br/><br/>
 
-curl -o archivo.html """ pagina web """: Descarga la página web y la guarda con el nombre archivo.html.
+curl -o archivo.html """ pagina web """: Descarga la página web en formato HTML y la guarda con el nombre que le hemos indicado (archivo.html).
 
 <img width="726" height="287" alt="image" src="https://github.com/user-attachments/assets/001ac4cc-78f1-4570-86ca-08c5c41982d1" />
 
