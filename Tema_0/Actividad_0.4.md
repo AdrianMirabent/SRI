@@ -11,11 +11,11 @@ curl """ pagina web """: Nos muestra la página web en formato HTML en salida es
 <img width="1035" height="365" alt="image" src="https://github.com/user-attachments/assets/72933899-6e5c-4833-8536-f464c9c2c9d1" />
 
 <br/>
-curl -I """ pagina web """: Nos muestra la página web incluyendo los headers(CABECERAS)
+curl -I """ pagina web """: Nos muestra la página web incluyendo los headers(CABECERAS).
 <img width="1836" height="237" alt="image" src="https://github.com/user-attachments/assets/e982538e-1ff9-4125-a481-40cacb8ed40d" />
 
 
-curl -o archivo.html """ pagina web """: Descarga la página web y la guarda con ese nombre.
+curl -o archivo.html """ pagina web """: Descarga la página web y la guarda con el nombre archivo.html.
 <img width="726" height="287" alt="image" src="https://github.com/user-attachments/assets/001ac4cc-78f1-4570-86ca-08c5c41982d1" />
 
 curl -d "username=777aml777&password=Mirabent1234" www.nintendo.com: El formato con el que yo me he tenido que logear o iniciar sesión no existe ya de por si, y por este motivo no me ha devuelto un mensaje de confirmación de que he iniciado sesión con éxito. 
