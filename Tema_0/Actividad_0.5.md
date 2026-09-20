@@ -11,7 +11,7 @@ Vamos a comprobar la versión de Python que tenemos disponible en nuestra máqui
 
 Tenemos instalada la versión 3.10.12. Podemos usar Python. <br/>
 
-## Ejecución de ejemplos mostrados.
+## Ejemplos de http.server de Python.
 
 Python incluye un módulo integrado llamado http.server. http.server es un servidor HTTP estático, simple y ligero que funciona por línea de comandos. Es una herramienta muy popular entre desarrolladores para probar aplicaciones web estáticas de manera local. 
 Vamos a hacer una prueba de su funcionamiento.
