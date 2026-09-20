@@ -53,7 +53,7 @@ En uno de los enlaces tenemos un servidor web simple, que es llamado server.py, 
 
 <img width="1900" height="800" alt="image" src="https://github.com/user-attachments/assets/652f0a2f-6e60-479b-b226-bc56cd23e248" /><br>
 
-Descargamos el archivo de server.py en nuestra carpeta personal y lo ejecutamos. 
+Descargamos el archivo de server.py en nuestra carpeta personal y lo ejecutamos. Hacemos una prueba desde el terminal y vemos que funciona.
 
 <img width="727" height="192" alt="image" src="https://github.com/user-attachments/assets/29a648c9-e934-4f71-bec9-f0bfa618d8e3" />
 
