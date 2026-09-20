@@ -23,4 +23,4 @@ Para poder ver nuestra petición, tenemos que activar el eco local en la consola
 
 Una vez que estamos de nuevo en la sesión activa, hacemos una petición HTTP para obtener la cabecera de la página principal de www.google.com. Escribimos la línea de inicio y ENTER. Luego la cabecera y ENTER. Y por último pulsamos de nuevo ENTER para dar por finalizada la petición (en esta caso no tiene cuerpo). <br/>
 
-<img width="311" alt="image" src="https://github.com/user-attachments/assets/e3c695af-de14-4338-9f10-6f714c75503c" />
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/e3c695af-de14-4338-9f10-6f714c75503c" />
