@@ -38,7 +38,7 @@ Vamos a hacer una prueba de su funcionamiento.
 
 5. Hacemos una segunda prueba desde una terminal, escribimos http://localhost:9000. Saldrá el texto del archivo HTML.
 
-<img width="640" height="152" alt="image" src="https://github.com/user-attachments/assets/37e4b821-60dd-4ea3-857c-4405f31d9406" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/37e4b821-60dd-4ea3-857c-4405f31d9406" />
 
 6. Para apagar el servidor escribimos Ctrl + C.
 
