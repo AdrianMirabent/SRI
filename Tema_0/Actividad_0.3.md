@@ -33,6 +33,9 @@ Ahora vamos a obtener la cabecera de nuestra máquina (localhost) por el puerto 
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/96137de8-1cbc-4e11-af9e-2384670fd07c" />
 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/d5804e27-2936-46bd-8858-1bd7028bdb38" />
+
+
 
 
 
