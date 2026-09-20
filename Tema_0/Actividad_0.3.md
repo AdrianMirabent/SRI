@@ -18,3 +18,5 @@ Para poder ver nuestra petición, tenemos que activar el eco local en la consola
 * Presionamos Ctrl + +, lo que nos lleva a Microsoft Telnet. 
 * Escribimos set localecho y pulsamos ENTER. Nos sale el mensaje de eco local activado.
 * Pulsamos de nuevo ENTER para volver a la sesión activa. <br/>
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/b59977c7-aeb7-4f22-8931-51b0f503e977" />
