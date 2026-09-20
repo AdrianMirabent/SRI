@@ -25,22 +25,22 @@ Vamos a hacer una prueba de su funcionamiento.
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/4856aa1b-8d07-49be-abb3-e35ff0dd9058" />
 
    
-3. Iniciamos el servidor http.server de Python vinculado al localhost, le indicamos el directorio al que debe servir los archivos y el puerto de acceso. 
+2. Iniciamos el servidor http.server de Python vinculado al localhost, le indicamos el directorio al que debe servir los archivos y el puerto de acceso. 
    
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/d24833a1-7358-4949-bc00-43d6738c8d3b" />
 
 
-4. Hacemos una primera prueba desde otro terminal con el comando curl para verificar que responde. Devolverá el código HTML creado.
+3. Hacemos una primera prueba desde otro terminal con el comando curl para verificar que responde. Devolverá el código HTML creado.
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/17bd25e7-89eb-4e36-b0f0-264730d7230a" />
 
 
 
-5. Hacemos una segunda prueba desde una terminal, escribimos http://localhost:9000. Saldrá el texto del archivo HTML.
+4. Hacemos una segunda prueba desde una terminal, escribimos http://localhost:9000. Saldrá el texto del archivo HTML.
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/37e4b821-60dd-4ea3-857c-4405f31d9406" />
 
-6. Para apagar el servidor escribimos Ctrl + C.
+5. Para apagar el servidor escribimos Ctrl + C.
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/7a655c33-a751-44c5-804a-668d15552790" />
 
