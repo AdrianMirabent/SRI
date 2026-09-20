@@ -18,7 +18,7 @@ Vamos a hacer una prueba de su funcionamiento.
 1. Creamos una carpeta y un archivo HTML de prueba dentro de la carpeta creada.
 2. Iniciamos el servidor http.server de Python, dentro de la misma carpeta.
    
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/d4aae33d-250e-4d9a-8cfd-20ad055f3666" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/d4aae33d-250e-4d9a-8cfd-20ad055f3666" />
 
    
 4. Hacemos una primera prueba desde otra terminal con el comando curl para verificar que responde. Devolverá el código HTML creado.
