@@ -49,12 +49,13 @@ Vamos a hacer una prueba de su funcionamiento.
 
 El nombre de archivo server.py es un nombre de archivo común que los desarrolladores le dan a un script personalizado en Python que les permite escribir código propio para personalizar completamente el comportamiento del servidor. 
 
-Se puede crear un archivo llamado server.py utilizando el módulo nativo http.server. Tenemos un ejemplo en uno de los enlaces.
+En uno de los enlaces tenemos un servidor web simple, que es llamado server.py, que utiliza el módulo nativo http.server. 
+
 
 
 
 ## Ejemplos de Dummy web server.
-Un dummy web server(también conocido como mock server o servidor de pruebas) es un servidor web configurado para simular el comportamiento de una API o un servicio web, respondiendo a las peticiones HTTP con datos falsos(dummy data) predefinidos.
+Un dummy web server(también conocido como mock server o servidor de pruebas) es un servidor web configurado para simular el comportamiento de una API o un servicio web, respondiendo a las peticiones HTTP con datos falsos(dummy data) predefinidos. El nombre del archivo depende del creador. 
 
 
 
