@@ -8,4 +8,7 @@ Fue sustituido por SSH (Secure Shell) por su falta de seguridad. Todo lo que se 
  
  Primero vamos  a conectarnos al servidor www.google.com por el puerto 80. Y pulsamos ENTER.
  
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/ec85dc46-4eff-474a-87d5-a6ee6d49eddb" />
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/57e47d87-a62a-4441-9969-5450f364a730" />
+
+
+Nos aparece un cursor parpadeando. Ya estamos conectados, ya tenemos la sesión activa. Ya podemos hacer peticiones al servidor. Vemos que si intentamos escribir, no se ve. 
