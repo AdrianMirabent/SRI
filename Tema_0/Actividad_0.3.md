@@ -8,4 +8,4 @@ Fue sustituido por SSH (Secure Shell) por su falta de seguridad. Todo lo que se 
  
  Primero vamos  a conectarnos al servidor www.google.com por el puerto 80. Y pulsamos ENTER.
  
-<img width="524" height="123" alt="image" src="https://github.com/user-attachments/assets/ec85dc46-4eff-474a-87d5-a6ee6d49eddb" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/ec85dc46-4eff-474a-87d5-a6ee6d49eddb" />
