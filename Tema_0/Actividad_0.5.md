@@ -23,12 +23,12 @@ Vamos a hacer una prueba de su funcionamiento.
    
 4. Hacemos una primera prueba desde otra terminal con el comando curl para verificar que responde. Devolverá el código HTML creado.
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/ea4e52b7-cd5a-468f-9b72-8452408cf10c" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/ea4e52b7-cd5a-468f-9b72-8452408cf10c" />
 
 
 5. Hacemos una segunda prueba desde una terminal, escribimos http://localhost:8000. Saldrá el texto del archivo HTML.
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/74198954-3209-4678-a35a-4dbdc2c20bdf" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/74198954-3209-4678-a35a-4dbdc2c20bdf" />
 
 6. Para apagar el servidor escribimos Ctrl + C.
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/f57d5b09-4879-49bf-879f-6ece79eca0fc" />
