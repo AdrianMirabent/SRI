@@ -31,6 +31,6 @@ Vamos a hacer una prueba de su funcionamiento.
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/74198954-3209-4678-a35a-4dbdc2c20bdf" />
 
 6. Para apagar el servidor escribimos Ctrl + C.
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/f57d5b09-4879-49bf-879f-6ece79eca0fc" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/f57d5b09-4879-49bf-879f-6ece79eca0fc" />
 
    
