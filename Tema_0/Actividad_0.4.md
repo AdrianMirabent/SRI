@@ -7,8 +7,8 @@ Vamos a realizar la práctica desde un terminal en una máquina virtual Ubuntu.<
 
 ## Ejemplos de uso
 
-**curl """ pagina web """:** Nos muestra la página web en formato HTML en salida estándar. <br/>
-Ejemplo:
+**curl """ pagina web """:** Nos muestra la página web en formato HTML en salida estándar. <br/> <br/>
+Ejemplo: curl www.google.com <br/>
 
 <img width="1035" height="365" alt="image" src="https://github.com/user-attachments/assets/72933899-6e5c-4833-8536-f464c9c2c9d1" />
 
