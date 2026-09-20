@@ -22,7 +22,7 @@ Ejemplo: curl -I www.google.com <br/>
 <br/><br/>
 
 **curl -o archivo.html """ pagina web """:** Descarga la página web en formato HTML y la guarda con el nombre que le hemos indicado (archivo.html). <br/> <br/>
-curl -o archivo.html www.google.com <br/>
+Ejemplo: curl -o archivo.html www.google.com <br/>
 
 <img width="726" height="287" alt="image" src="https://github.com/user-attachments/assets/001ac4cc-78f1-4570-86ca-08c5c41982d1" />
 
