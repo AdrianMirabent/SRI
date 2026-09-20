@@ -57,7 +57,7 @@ Descargamos el archivo de server.py en nuestra carpeta personal y lo ejecutamos.
 
 <img width="727" height="192" alt="image" src="https://github.com/user-attachments/assets/29a648c9-e934-4f71-bec9-f0bfa618d8e3" />
 
-<img width="1876" height="658" alt="image" src="https://github.com/user-attachments/assets/768eca6b-287a-40eb-bcf0-af5502f810e9" /><br>
+<img width="1200" alt="image" src="https://github.com/user-attachments/assets/768eca6b-287a-40eb-bcf0-af5502f810e9" /><br>
 
 
 ## Ejemplos de Dummy web server.
@@ -65,7 +65,7 @@ Un dummy web server(también conocido como mock server o servidor de pruebas) es
 
 En uno de los enlaces tenemos un dummy web server.
 
-<img width="1908" height="679" alt="image" src="https://github.com/user-attachments/assets/26230faf-c886-4324-b37c-46cdcc5502cb" />
+<img width="1200" alt="image" src="https://github.com/user-attachments/assets/26230faf-c886-4324-b37c-46cdcc5502cb" />
 
 Descargamos el archivo de server.py en nuestra carpeta personal y lo ejecutamos. Vemos que el archivo tiene un fallo y no se ejecuta.
 
