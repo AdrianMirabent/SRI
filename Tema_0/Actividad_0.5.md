@@ -30,7 +30,7 @@ Vamos a hacer una prueba de su funcionamiento.
 <img width="1035" height="77" alt="image" src="https://github.com/user-attachments/assets/d24833a1-7358-4949-bc00-43d6738c8d3b" />
 
 
-4. Hacemos una primera prueba desde otra terminal con el comando curl para verificar que responde. Devolverá el código HTML creado.
+4. Hacemos una primera prueba desde otro terminal con el comando curl para verificar que responde. Devolverá el código HTML creado.
 
 <img width="679" height="123" alt="image" src="https://github.com/user-attachments/assets/17bd25e7-89eb-4e36-b0f0-264730d7230a" />
 
