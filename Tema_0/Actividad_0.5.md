@@ -65,7 +65,7 @@ Un dummy web server(también conocido como mock server o servidor de pruebas) es
 
 En uno de los enlaces tenemos un dummy web server.
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/26230faf-c886-4324-b37c-46cdcc5502cb" />
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/26230faf-c886-4324-b37c-46cdcc5502cb" /><br>
 
 Descargamos el archivo de server.py en nuestra carpeta personal y lo ejecutamos. Vemos que el archivo tiene un fallo y no se ejecuta.
 
