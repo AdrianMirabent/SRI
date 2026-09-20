@@ -44,4 +44,7 @@ Vamos a hacer una prueba de su funcionamiento.
 
 <img width="1058" height="174" alt="image" src="https://github.com/user-attachments/assets/7a655c33-a751-44c5-804a-668d15552790" />
 
-   
+
+## Ejemplos de server.py.
+
+Python incluye un módulo integrado l
