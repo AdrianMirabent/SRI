@@ -22,7 +22,7 @@ Python incluye un módulo integrado llamado http.server, que es un servidor HTTP
 Vamos a hacer una prueba de su funcionamiento.
 1. Creamos una carpeta y un archivo HTML de prueba dentro de la carpeta creada.
 
-<img width="791" height="154" alt="image" src="https://github.com/user-attachments/assets/4856aa1b-8d07-49be-abb3-e35ff0dd9058" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/4856aa1b-8d07-49be-abb3-e35ff0dd9058" />
 
    
 3. Iniciamos el servidor http.server de Python vinculado al localhost, le indicamos el directorio al que debe servir los archivos y el puerto de acceso. 
