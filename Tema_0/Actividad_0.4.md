@@ -34,7 +34,7 @@ Ejemplo: curl -o archivo.html www.google.com <br/>
 
 <br/><br/>
 
-**curl -O https://tse3.mm.bing.net/th/id/OIP.G3MBgMIAKrjIco8WKVBDWgHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3:** La imagen descargada estaba en una página externa en la cual he extraído el enlace URL y lo que he hecho ha sido extraer la información de las especificaciones. El archivo se guarda con su nombre remoto.
+**curl -O https://tse3.mm.bing.net/th/id/OIP.G3MBgMIAKrjIco8WKVBDWgHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3:** La imagen descargada estaba en una página externa en la cual he extraído el enlace URL y lo que he hecho ha sido extraer la información. El archivo se guarda con su nombre remoto.
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/66e65489-d819-47a9-b16e-93699d7733e8" />
 
