@@ -55,7 +55,7 @@ En uno de los enlaces tenemos un servidor web simple, que es llamado server.py, 
 
 Descargamos el archivo de server.py en nuestra carpeta personal y lo ejecutamos. Hacemos una prueba desde el terminal y vemos que funciona.
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/29a648c9-e934-4f71-bec9-f0bfa618d8e3" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/29a648c9-e934-4f71-bec9-f0bfa618d8e3" />
 
 <img width="1200" alt="image" src="https://github.com/user-attachments/assets/768eca6b-287a-40eb-bcf0-af5502f810e9" /><br>
 
