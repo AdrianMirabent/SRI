@@ -4,7 +4,7 @@ Telnet es uno de los protocolos de acceso remoto más veteranos que existen. Per
 
 Fue sustituido por SSH (Secure Shell) por su falta de seguridad. Todo lo que se envía es en texto plano, es decir, sin ningún tipo de cifrado. Cualquier atacante con acceso al tráfico de la red (mediante técnicas de sniffing) podría interceptar las credenciales, los comandos ejecutados y las respuestas devueltas por el servidor.<br/>
 
- Las pruebas las he realizado desde el terminal de mi equipo de casa con Windows 11. Tenemos XAMPP acticado. <br/>
+ Las pruebas las he realizado desde el terminal de mi equipo de casa con Windows 11. Tenemos XAMPP activado. <br/>
  
  Primero vamos  a conectarnos al servidor www.google.com por el puerto 80. Y pulsamos ENTER.
  
