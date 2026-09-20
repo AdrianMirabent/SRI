@@ -33,7 +33,16 @@ Ahora vamos a obtener la cabecera de nuestra máquina (localhost) por el puerto 
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/96137de8-1cbc-4e11-af9e-2384670fd07c" /> <br/>
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/d5804e27-2936-46bd-8858-1bd7028bdb38" /> <br/>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/d5804e27-2936-46bd-8858-1bd7028bdb38" /> <br/> <br/>
+
+Por último, vamos a hacer telnet a un servidor que no existe. El resultado es este: <br/>
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/7e042d07-7005-45a2-8cf1-f20e2768fc65" />
+
+Esta respuesta se puede interpretar como: 
+* El servidor no existe.
+* El servidor se encuentra fuera de servicio en ese momento
+* El puerto 80 del servidor se encuentra bloqueado. <br/>
 
 
 
