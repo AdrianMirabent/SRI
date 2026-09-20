@@ -29,3 +29,10 @@ Y obtenemos una respuesta HTTP del servidor de www.google.com. Si sigue abierta 
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/7a8d0f24-2730-4cd2-99cc-93c6811f47e8" />
 
+Ahora vamos a obtener la cabecera de nuestra máquina (localhost) por el puerto 80. Nos va a contestar Apache. Seguimos los mismos pasos anteriores. <br/>
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/96137de8-1cbc-4e11-af9e-2384670fd07c" />
+
+
+
+
