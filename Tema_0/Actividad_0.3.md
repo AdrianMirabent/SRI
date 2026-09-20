@@ -12,11 +12,11 @@ Fue sustituido por SSH (Secure Shell) por su falta de seguridad. Todo lo que se 
 
 Nos aparece un cursor parpadeando. Ya estamos conectados, ya tenemos la sesión activa. Ya podemos hacer peticiones al servidor. Vemos que si intentamos escribir, no se ve. <br/>
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/684de281-38e8-48ad-9610-3d146a61c2b2" />
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/684de281-38e8-48ad-9610-3d146a61c2b2" />
 
 Para poder ver nuestra petición, tenemos que activar el eco local en la consola interna de la herramienta TELNET. Procedemos como sigue: 
 * Presionamos Ctrl + +, lo que nos lleva a Microsoft Telnet. 
 * Escribimos set localecho y pulsamos ENTER. Nos sale el mensaje de eco local activado.
 * Pulsamos de nuevo ENTER para volver a la sesión activa. <br/>
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/b59977c7-aeb7-4f22-8931-51b0f503e977" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/b59977c7-aeb7-4f22-8931-51b0f503e977" />
