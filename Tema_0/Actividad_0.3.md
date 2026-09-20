@@ -27,5 +27,5 @@ Una vez que estamos de nuevo en la sesión activa, hacemos una petición HTTP pa
 
 Y obtenemos una respuesta HTTP del servidor de www.google.com. Si sigue abierta la conexión, para salir  escribimos Ctrl++. Volvemos a la consola interna y escribimos q  y pulsamos ENTER.  <br/>
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/7a8d0f24-2730-4cd2-99cc-93c6811f47e8" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/7a8d0f24-2730-4cd2-99cc-93c6811f47e8" />
 
