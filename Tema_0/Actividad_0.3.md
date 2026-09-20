@@ -41,7 +41,7 @@ Por último, vamos a hacer telnet a un servidor que no existe. El resultado es e
 
 Esta respuesta se puede interpretar como: 
 * El servidor no existe.
-* El servidor se encuentra fuera de servicio en ese momento
+* El servidor se encuentra fuera de servicio en ese momento.
 * El puerto 80 del servidor se encuentra bloqueado. <br/>
 
 
