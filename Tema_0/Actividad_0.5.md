@@ -63,5 +63,9 @@ Descargamos el archivo de server.py en nuestra carpeta personal y lo ejecutamos.
 ## Ejemplos de Dummy web server.
 Un dummy web server(también conocido como mock server o servidor de pruebas) es un servidor web configurado para simular el comportamiento de una API o un servicio web, respondiendo a las peticiones HTTP con datos falsos(dummy data) predefinidos. El nombre del archivo depende del creador. 
 
+<img width="1908" height="679" alt="image" src="https://github.com/user-attachments/assets/26230faf-c886-4324-b37c-46cdcc5502cb" />
+
+<img width="1114" height="211" alt="image" src="https://github.com/user-attachments/assets/fbe89e0e-cbcc-4cfd-86be-950e4485ec1e" />
+
 
 
