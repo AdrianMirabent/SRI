@@ -15,9 +15,9 @@ Tenemos instalada la versión 3.10.12. Podemos usar Python. <br/>
 
 Python incluye un módulo integrado llamado http.server, que es un servidor HTTP estático, simple y ligero que funciona por línea de comandos. Es una herramienta muy popular entre desarrolladores para probar aplicaciones web estáticas de manera local. 
 
-* Este servidor escucha el puerto 8000 de forma predeterminada. Este puerto se puede cambiar a la hora de activarlo
-* Este servidor de forma predeterminada se vincula a todas las interfaces. Pero se puede cambiar, podemos vincularlo por ejemplo solo para localhost  con la opción --bind 
-* Podemos también indicarle un directorio al que debe servir los archivos con la opción --directory
+* Este servidor escucha el puerto 8000 de forma predeterminada. Este puerto se puede cambiar a la hora de activarlo.
+* Este servidor de forma predeterminada se vincula a todas las interfaces. Pero se puede cambiar, podemos vincularlo por ejemplo solo para localhost con la opción --bind. 
+* Podemos también indicarle un directorio al que debe servir los archivos con la opción --directory.
 
 Vamos a hacer una prueba de su funcionamiento.
 1. Creamos una carpeta y un archivo HTML de prueba dentro de la carpeta creada.
