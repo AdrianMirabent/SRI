@@ -51,7 +51,13 @@ El nombre de archivo server.py es un nombre de archivo común que los desarrolla
 
 En uno de los enlaces tenemos un servidor web simple, que es llamado server.py, que utiliza el módulo nativo http.server. 
 
+<img width="1900" height="800" alt="image" src="https://github.com/user-attachments/assets/652f0a2f-6e60-479b-b226-bc56cd23e248" />
 
+Descargamos el archivo de server.py en nuestra carpeta personal y lo ejecutamos. 
+
+<img width="727" height="192" alt="image" src="https://github.com/user-attachments/assets/29a648c9-e934-4f71-bec9-f0bfa618d8e3" />
+
+<img width="1876" height="658" alt="image" src="https://github.com/user-attachments/assets/768eca6b-287a-40eb-bcf0-af5502f810e9" />
 
 
 ## Ejemplos de Dummy web server.
