@@ -14,6 +14,8 @@ Tenemos instalada la versión 3.10.12. Podemos usar Python. <br/>
 ## Ejemplos de http.server de Python.
 
 Python incluye un módulo integrado llamado http.server. http.server es un servidor HTTP estático, simple y ligero que funciona por línea de comandos. Es una herramienta muy popular entre desarrolladores para probar aplicaciones web estáticas de manera local. 
+Este servidor escucha el puerto 8000 de forma predeterminada. Este puerto se puede cambiar. 
+Este servidor también de forma predeterminada se vincula a todas las interfaces. Pero se puede cambiar, podemos vincularlo por ejemplo solo para localhost. 
 Vamos a hacer una prueba de su funcionamiento.
 1. Creamos una carpeta y un archivo HTML de prueba dentro de la carpeta creada.
 2. Iniciamos el servidor http.server de Python, dentro de la misma carpeta.
