@@ -30,7 +30,7 @@ Ejemplo: curl -o archivo.html www.google.com <br/>
 
 **curl -d "username=777aml777&password=Mirabent1234" www.nintendo.com:** Para enviar o publicar algo en la página web. El formato con el que yo me he tenido que logear o iniciar sesión no existe ya de por si, y por este motivo no me ha devuelto un mensaje de confirmación de que he iniciado sesión con éxito. 
 
-<img width="914" height="26" alt="image" src="https://github.com/user-attachments/assets/0f57b8b4-8524-45b5-ab7e-7c5aa61c263a" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/0f57b8b4-8524-45b5-ab7e-7c5aa61c263a" />
 
 <br/><br/>
 
