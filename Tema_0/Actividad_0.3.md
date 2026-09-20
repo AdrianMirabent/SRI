@@ -15,6 +15,6 @@ Nos aparece un cursor parpadeando. Ya estamos conectados, ya tenemos la sesión 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/684de281-38e8-48ad-9610-3d146a61c2b2" />
 
 Para poder ver nuestra petición, tenemos que activar el eco local en la consola interna de la herramienta TELNET. Procedemos como sigue: 
-    • Presionamos Ctrl + +, lo que nos lleva a Microsoft Telnet. 
-    • Escribimos set localecho y pulsamos ENTER. Nos sale el mensaje de eco local activado.
-    • Pulsamos de nuevo ENTER para volver a la sesión activa. <br/>
+* Presionamos Ctrl + +, lo que nos lleva a Microsoft Telnet. 
+* Escribimos set localecho y pulsamos ENTER. Nos sale el mensaje de eco local activado.
+* Pulsamos de nuevo ENTER para volver a la sesión activa. <br/>
