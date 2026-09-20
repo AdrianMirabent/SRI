@@ -42,7 +42,7 @@ Vamos a hacer una prueba de su funcionamiento.
 
 6. Para apagar el servidor escribimos Ctrl + C.
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/7a655c33-a751-44c5-804a-668d15552790" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/7a655c33-a751-44c5-804a-668d15552790" />
 
 
 ## Ejemplos de Simple web server.
