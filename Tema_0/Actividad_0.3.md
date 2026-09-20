@@ -10,4 +10,6 @@ Fue sustituido por SSH (Secure Shell) por su falta de seguridad. Todo lo que se 
  
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/da318e35-1834-4ae9-87d8-ad7117932df4" />
 
-Nos aparece un cursor parpadeando. Ya estamos conectados, ya tenemos la sesión activa. Ya podemos hacer peticiones al servidor. Vemos que si intentamos escribir, no se ve. 
+Nos aparece un cursor parpadeando. Ya estamos conectados, ya tenemos la sesión activa. Ya podemos hacer peticiones al servidor. Vemos que si intentamos escribir, no se ve. <br/>
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/684de281-38e8-48ad-9610-3d146a61c2b2" />
