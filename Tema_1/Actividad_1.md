@@ -4,34 +4,27 @@ Una pila LAMP es un conjunto de aplicaciones de software de código abierto que 
 Vamos a proceder a la instalación de la pila Linux, Apache, MySQL y PHP (LAMP) en una máquina ubuntu desktop 22.04.
 
 ## PASO 1. INSTALACIÓN DE APACHE.
-# Actividad 1 - Instalación de apache.
+<img width="697" height="22" alt="image" src="https://github.com/user-attachments/assets/231983c5-2eb3-4e25-ae21-20820f3433ee" />
 
-<img width="542" height="27" alt="image" src="https://github.com/user-attachments/assets/62a92377-1cb1-4a6d-9708-215f887e2ff2" />
+<img width="612" height="16" alt="image" src="https://github.com/user-attachments/assets/d99e50b7-3fe1-4ebf-b8d7-eda3801ee2ba" />
 
-<img width="755" height="153" alt="image" src="https://github.com/user-attachments/assets/62afce27-9089-4987-91a7-fc3de8a969b9" />
-
-<img width="553" height="109" alt="image" src="https://github.com/user-attachments/assets/71f78c67-1189-4fc4-bb03-8061b5380218" />
-
-<img width="628" height="54" alt="image" src="https://github.com/user-attachments/assets/48679ca7-49ef-4992-bbd1-4387b62ea115" />
-
-<img width="534" height="129" alt="image" src="https://github.com/user-attachments/assets/27ddda7e-0fd4-4646-b92c-ea35f6426997" />
-
-METER UN ACCESO DESDE EL NAVEGADOR METIENDO HTTP://LOCALHOST
+<img width="1024" height="714" alt="image" src="https://github.com/user-attachments/assets/bcaf1c1d-6293-4ec6-9f60-5212989a5f89" />
 
 ## PASO 2. INSTALACIÓN DE MYSQL.
-<img width="677" height="23" alt="image" src="https://github.com/user-attachments/assets/20a14326-af1a-4b9f-b3d5-b71df8619ce8" />
+<img width="698" height="20" alt="image" src="https://github.com/user-attachments/assets/aed1e70b-14f3-4265-b61e-c3b72645ef5b" />
 
-<img width="681" height="259" alt="image" src="https://github.com/user-attachments/assets/1f99ad43-bb1d-401f-a755-c099724ddac7" />
+A continuación ejecutamos una secuencia preestablecida de comandos que elimina algunos ajustes predeterminados poco seguros. 
+
+<img width="654" height="18" alt="image" src="https://github.com/user-attachments/assets/bdcb3610-44f3-4e7a-ae76-363e77a38f99" />
+
+<img width="683" height="211" alt="image" src="https://github.com/user-attachments/assets/691785a0-6e7d-42b7-814e-e7bb3f4d36d9" />
+
 
 ## PASO 3. INSTALACIÓN DE PHP.
-<img width="876" height="20" alt="image" src="https://github.com/user-attachments/assets/7592a322-0296-4a3d-83d7-4543c02d62fc" />
 
-<img width="456" height="18" alt="image" src="https://github.com/user-attachments/assets/24b40479-83f8-4729-9203-b65207e8fc7a" />
 
 ## PASO 4. CREACIÓN DE UN HOST VIRTUAL.
-<img width="901" height="110" alt="image" src="https://github.com/user-attachments/assets/49bc6d66-b3cc-4abd-aea8-c201fcb72e24" />
 
-<img width="804" height="180" alt="image" src="https://github.com/user-attachments/assets/06ed651d-c3f8-4332-9320-1739050a8aeb" />
 
 
 ## PASO 5. PROBAR EL PROCESAMIENTO DE PÁGINAS PHP.
