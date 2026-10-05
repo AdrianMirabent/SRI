@@ -13,6 +13,9 @@ Vamos a proceder a la instalación de la pila Linux, Apache, MySQL y PHP (LAMP) 
 ## PASO 2. INSTALACIÓN DE MYSQL.
 <img width="698" height="20" alt="image" src="https://github.com/user-attachments/assets/aed1e70b-14f3-4265-b61e-c3b72645ef5b" />
 
+Si hay algún problema con librerias o paquetes durante la instalación forzar la instalación con sudo apt-get update. Y se intenta de nuevo la instalación con la linea de comandos de la anterior captura.
+
+
 A continuación ejecutamos una secuencia preestablecida de comandos que elimina algunos ajustes predeterminados poco seguros. 
 
 <img width="654" height="18" alt="image" src="https://github.com/user-attachments/assets/bdcb3610-44f3-4e7a-ae76-363e77a38f99" />
