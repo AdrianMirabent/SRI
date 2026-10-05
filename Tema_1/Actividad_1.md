@@ -31,6 +31,8 @@ METER UN ACCESO DESDE EL NAVEGADOR METIENDO HTTP://LOCALHOST
 ## PASO 4. CREACIÓN DE UN HOST VIRTUAL.
 <img width="901" height="110" alt="image" src="https://github.com/user-attachments/assets/49bc6d66-b3cc-4abd-aea8-c201fcb72e24" />
 
+<img width="804" height="180" alt="image" src="https://github.com/user-attachments/assets/06ed651d-c3f8-4332-9320-1739050a8aeb" />
+
 
 ## PASO 5. PROBAR EL PROCESAMIENTO DE PÁGINAS PHP.
 
