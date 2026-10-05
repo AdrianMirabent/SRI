@@ -48,9 +48,25 @@ Vamos a crear un nuevo archivo en sites-available para configurar nuestro domini
 
 <img width="892" height="399" alt="image" src="https://github.com/user-attachments/assets/df1f5563-4e1a-41e3-982a-38ecd4624bbc" />
 
-<img width="641" height="142" alt="image" src="https://github.com/user-attachments/assets/05c28639-64eb-4b36-87c7-f6819577a86d" />
+Ahora vamos a crear un indice para nuestra página asociada al dominio aml.com. 
+
+<img width="716" height="16" alt="image" src="https://github.com/user-attachments/assets/74b87859-4e10-4429-9947-20c1f9c675a1" />
+
+<img width="736" height="176" alt="image" src="https://github.com/user-attachments/assets/387d4e36-03be-4539-bba3-e7c779736bab" />
+Vamos a visualizarla en el navegador web de Firefox.
+
+<img width="894" height="229" alt="image" src="https://github.com/user-attachments/assets/412f6d40-0be6-41dd-9793-54b2cdad529c" />
+Al intentar visualizar la página web con nuestro navegador web con localhost, nos dirigía a la carpeta por defecto de apache. Con a2dissite quitamos el archivo de configuración por defecto que tiene apache en estos momentos.
+
+Al final escribiendo en el navegador web la dirección completa con el protocolo http y localhost, acabamos visualizando el índice ubicado en /var/www. 
 
 ## PASO 5. PROBAR EL PROCESAMIENTO DE PÁGINAS PHP.
+<img width="938" height="19" alt="image" src="https://github.com/user-attachments/assets/8b775985-bb5e-4250-82be-12aacc12ec92" />
+<img width="934" height="163" alt="image" src="https://github.com/user-attachments/assets/3feb8ef0-d68a-4604-9a63-927cd935b7e5" />
+
+
+<img width="1234" height="561" alt="image" src="https://github.com/user-attachments/assets/e89f1685-11f8-435f-bb5e-c9999a97af13" />
+
 
 ## PASO 6. PROBAR LA CONEXIÓN CON LA BASE DE DATOS DESDE PHP.
 
