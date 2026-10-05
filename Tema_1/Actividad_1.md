@@ -24,6 +24,8 @@ A continuación ejecutamos una secuencia preestablecida de comandos que elimina 
 
 <img width="654" height="18" alt="image" src="https://github.com/user-attachments/assets/bdcb3610-44f3-4e7a-ae76-363e77a38f99" />
 
+Solo hemos aceptado que recarguen las tablas de privilegios. Las demás opciones las dejamos en no por comodidad.
+
 <img width="675" height="247" alt="image" src="https://github.com/user-attachments/assets/a6bfc409-abd8-4454-ab82-ab2952124515" />
 
 
