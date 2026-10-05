@@ -23,7 +23,14 @@ METER UN ACCESO DESDE EL NAVEGADOR METIENDO HTTP://LOCALHOST
 
 <img width="681" height="259" alt="image" src="https://github.com/user-attachments/assets/1f99ad43-bb1d-401f-a755-c099724ddac7" />
 
+## PASO 3. INSTALACIÓN DE PHP.
+<img width="876" height="20" alt="image" src="https://github.com/user-attachments/assets/7592a322-0296-4a3d-83d7-4543c02d62fc" />
+
+<img width="456" height="18" alt="image" src="https://github.com/user-attachments/assets/24b40479-83f8-4729-9203-b65207e8fc7a" />
+
 ## PASO 4. CREACIÓN DE UN HOST VIRTUAL.
+<img width="901" height="110" alt="image" src="https://github.com/user-attachments/assets/49bc6d66-b3cc-4abd-aea8-c201fcb72e24" />
+
 
 ## PASO 5. PROBAR EL PROCESAMIENTO DE PÁGINAS PHP.
 
