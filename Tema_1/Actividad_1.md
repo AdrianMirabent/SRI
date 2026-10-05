@@ -84,7 +84,14 @@ Al final escribiendo en el navegador web la dirección completa con el protocolo
 
 <img width="695" height="170" alt="image" src="https://github.com/user-attachments/assets/49847e98-5c24-462d-a64c-11fc62115db1" />
 
+<img width="1062" height="457" alt="image" src="https://github.com/user-attachments/assets/c421265d-71c6-482b-889c-0207b2f37ad9" />
 
-<img width="770" height="324" alt="image" src="https://github.com/user-attachments/assets/6650a871-90e7-4a14-9811-5e7cf4ae75f5" />
+<img width="1136" height="316" alt="image" src="https://github.com/user-attachments/assets/01a9179d-9473-44c9-938b-68c3c930dc84" />
+
+# Pasos extra
+
+<img width="1612" height="414" alt="image" src="https://github.com/user-attachments/assets/49688b8b-3b50-4089-ab14-73c488ee3607" />
+
+
 
 
