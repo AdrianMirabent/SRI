@@ -48,4 +48,4 @@ Hacemos lo mismo para la "prueba2".
 
 <img width="931" height="310" alt="image" src="https://github.com/user-attachments/assets/f5d1e95e-3634-410c-bbfb-719bbcaa3e17" />
 
-## Redirecciona el contenido de la carpeta "prueba" hacia "prueba2"
+## 6. Redirecciona el contenido de la carpeta "prueba" hacia "prueba2"
