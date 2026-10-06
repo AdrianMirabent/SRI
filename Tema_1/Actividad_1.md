@@ -129,7 +129,7 @@ Primero vamos a establecer conexión con la consola de MySQL usando la cuenta ro
 
 <img width="111" height="40" alt="image" src="https://github.com/user-attachments/assets/4f1e8926-909f-47d7-9369-2fdf632abe23" />
 
-
+Podemos verificar si el usuario nuevo tiene los permisos adecuados al volver iniciar sesión de consola de MySQL, pero esta vez con las credenciales del usuario personalizadas.
 
 <img width="854" height="223" alt="image" src="https://github.com/user-attachments/assets/09c3b417-8673-4368-a495-328618380a57" />
 
