@@ -9,6 +9,8 @@ Lo primero que vamos a hacer es actualizar la lista de paquetes locales con las 
 
 <img width="697" height="22" alt="image" src="https://github.com/user-attachments/assets/231983c5-2eb3-4e25-ae21-20820f3433ee" />
 
+A continuación, vamos a instalar Apache. 
+
 <img width="612" height="16" alt="image" src="https://github.com/user-attachments/assets/d99e50b7-3fe1-4ebf-b8d7-eda3801ee2ba" />
 
 <img width="1024" height="714" alt="image" src="https://github.com/user-attachments/assets/bcaf1c1d-6293-4ec6-9f60-5212989a5f89" />
