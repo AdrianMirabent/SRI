@@ -88,7 +88,7 @@ Por último, volvemos a cargar Apache para que activar la nueva configuración, 
 
 <img width="892" height="399" alt="image" src="https://github.com/user-attachments/assets/df1f5563-4e1a-41e3-982a-38ecd4624bbc" />
 
-Ahora vamos a crear un indice para nuestra página asociada al dominio aml.com. 
+Ya tenemos activo nuestro host virtual, pero el directorio /var/www/aml.com está vacío de contenido. Ahora vamos a crear un índice para nuestra página asociada al dominio aml.com. 
 
 <img width="716" height="16" alt="image" src="https://github.com/user-attachments/assets/74b87859-4e10-4429-9947-20c1f9c675a1" />
 
