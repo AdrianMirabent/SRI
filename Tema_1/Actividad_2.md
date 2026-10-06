@@ -5,7 +5,7 @@ Ponemos en marcha el servidor Apache y vamos a llevar a cabo una serie de cambio
 ## 1. Apache utilizará el puerto 81 además del 80.
 
 
-<img width="952" height="128" alt="image" src="https://github.com/user-attachments/assets/8ce65347-a1ad-441d-a44d-6c7835f179f1" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/8ce65347-a1ad-441d-a44d-6c7835f179f1" />
 
 <img width="1123" height="533" alt="image" src="https://github.com/user-attachments/assets/63f64d00-b6f8-4663-8958-8e7989aaea82" />
 
