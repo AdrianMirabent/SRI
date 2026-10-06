@@ -3,3 +3,6 @@
 
 
 <img width="912" height="425" alt="image" src="https://github.com/user-attachments/assets/2f41681e-51e6-43a9-8371-4317ffe9ac4b" />
+
+
+## 2. Crea un script que añada una ip y un nombre de dominio al fichero /hosts. Debemos de comprobar que no existe dicho dominio en el fichero /hosts.
