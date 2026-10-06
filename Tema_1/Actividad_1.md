@@ -141,6 +141,8 @@ Ahora en esta base de datos, vamos a crear una tabla de prueba, que vamos a llam
 
 <img width="695" height="170" alt="image" src="https://github.com/user-attachments/assets/49847e98-5c24-462d-a64c-11fc62115db1" />
 
+Ahora nos vamos a el directorio /var/www/aml.com y creamos una secuencia de comandos PHP que se conecte a MySQL y realice consultas relacionadas con su contenido. Dentro de este directorio, creamos el archivo todo_list.php.
+
 <img width="1062" height="457" alt="image" src="https://github.com/user-attachments/assets/c421265d-71c6-482b-889c-0207b2f37ad9" />
 
 <img width="1136" height="316" alt="image" src="https://github.com/user-attachments/assets/01a9179d-9473-44c9-938b-68c3c930dc84" />
