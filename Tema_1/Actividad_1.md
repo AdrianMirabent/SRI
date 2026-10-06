@@ -78,6 +78,8 @@ Luego, vamos a crear un nuevo archivo de configuración  en el directorio /etc/a
 
 <img width="823" height="142" alt="image" src="https://github.com/user-attachments/assets/e7464525-7ee8-40b7-bc3c-04584247baa4" />
 
+Le añadimos la siguiente configuración básica:
+
 <img width="667" height="162" alt="image" src="https://github.com/user-attachments/assets/7da422e4-5e2b-437a-a88d-6967b6c2fa24" />
 
 <img width="892" height="399" alt="image" src="https://github.com/user-attachments/assets/df1f5563-4e1a-41e3-982a-38ecd4624bbc" />
