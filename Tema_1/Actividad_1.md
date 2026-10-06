@@ -103,12 +103,13 @@ Al final escribiendo en el navegador web la dirección completa con el protocolo
 
 Ahora que disponemos de una ubicación personalizada para alojar los archivos de nuestro host virtual, creamos una secuencia de comandos PHP de prueba para verificar que Apache puede gestionar solicitudes y procesar solicitudes de archivos PHP.
 
-Creamos un archivo llamado info.php dentro de la carpeta /var/www/aml.com.
+Creamos un archivo llamado info.php dentro de la carpeta /var/www/aml.com.E introducimos en comando phpinfo().
 
 <img width="938" height="19" alt="image" src="https://github.com/user-attachments/assets/8b775985-bb5e-4250-82be-12aacc12ec92" />
+
 <img width="934" height="163" alt="image" src="https://github.com/user-attachments/assets/3feb8ef0-d68a-4604-9a63-927cd935b7e5" />
 
-
+Para probarlo, nos vamos a nuestro navegador web y accedemos al archivo info.php.
 <img width="1234" height="561" alt="image" src="https://github.com/user-attachments/assets/e89f1685-11f8-435f-bb5e-c9999a97af13" />
 
 
