@@ -125,8 +125,6 @@ Primero vamos a establecer conexión con la consola de MySQL usando la cuenta ro
 
 <img width="728" height="116" alt="image" src="https://github.com/user-attachments/assets/e4ea166f-9801-4b49-8546-390dfa6c2bcc" />
 
-<img width="350" height="86" alt="image" src="https://github.com/user-attachments/assets/336aecfe-52cd-4946-98ca-890a88d8e794" />
-
 <img width="787" height="155" alt="image" src="https://github.com/user-attachments/assets/68ad4cc8-a43e-41ba-b908-5370e2077d6e" />
 
 <img width="111" height="40" alt="image" src="https://github.com/user-attachments/assets/4f1e8926-909f-47d7-9369-2fdf632abe23" />
