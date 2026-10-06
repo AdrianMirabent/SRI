@@ -8,6 +8,8 @@ Nos situamos en el directorio /etc/apache2. Y abrimos el archivo ports.conf. Y a
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/8ce65347-a1ad-441d-a44d-6c7835f179f1" />
 
+Y añadimos la nueva línea.
+
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/63f64d00-b6f8-4663-8958-8e7989aaea82" />
 
 
