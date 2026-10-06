@@ -99,8 +99,12 @@ Al final escribiendo en el navegador web la dirección completa con el protocolo
 <img width="894" height="229" alt="image" src="https://github.com/user-attachments/assets/412f6d40-0be6-41dd-9793-54b2cdad529c" />
 
 
-
 ## PASO 5. PROBAR EL PROCESAMIENTO DE PÁGINAS PHP.
+
+Ahora que disponemos de una ubicación personalizada para alojar los archivos de nuestro host virtual, creamos una secuencia de comandos PHP de prueba para verificar que Apache puede gestionar solicitudes y procesar solicitudes de archivos PHP.
+
+Creamos un archivo llamado info.php dentro de la carpeta /var/www/aml.com.
+
 <img width="938" height="19" alt="image" src="https://github.com/user-attachments/assets/8b775985-bb5e-4250-82be-12aacc12ec92" />
 <img width="934" height="163" alt="image" src="https://github.com/user-attachments/assets/3feb8ef0-d68a-4604-9a63-927cd935b7e5" />
 
