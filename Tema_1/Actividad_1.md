@@ -84,7 +84,7 @@ Le añadimos la siguiente configuración básica:
 
 Ahora vamos a habilitar el nuevo host virtual, con sudo a2ensite aml.com.
 Es conveniente deshabilitar el host virtual predeterminado que viene instalado con Apache, con sudo a2dissite 000-default.
-Por último, volvemos a cargar Apache para que se produzcan estos cambios, con sudo systemctl reload apache2.
+Por último, volvemos a cargar Apache para que activar la nueva configuración, con sudo systemctl reload apache2.
 
 <img width="892" height="399" alt="image" src="https://github.com/user-attachments/assets/df1f5563-4e1a-41e3-982a-38ecd4624bbc" />
 
