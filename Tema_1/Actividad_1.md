@@ -82,7 +82,9 @@ Le añadimos la siguiente configuración básica:
 
 <img width="667" height="162" alt="image" src="https://github.com/user-attachments/assets/7da422e4-5e2b-437a-a88d-6967b6c2fa24" />
 
-Ahora vamos a habilitar el nuevo host virtual, con a2ensite.
+Ahora vamos a habilitar el nuevo host virtual, con sudo a2ensite aml.com.
+Es conveniente deshabilitar el host virtual predeterminado que viene instalado con Apache, con sudo a2dissite 000-default.
+Por último, volvemos a cargar Apache para que se produzcan estos cambios, con sudo systemctl reload apache2.
 
 <img width="892" height="399" alt="image" src="https://github.com/user-attachments/assets/df1f5563-4e1a-41e3-982a-38ecd4624bbc" />
 
