@@ -47,7 +47,14 @@ Para salir de la consola de MySQL, escribimos exit.
 
 
 ## PASO 3. INSTALACIÓN DE PHP.
+
+Vamos a instalar tres paquetes: 
+* El paquete php, que procesará el código para mostrar contenido dinámico al usuario.
+* El paquete libapache2-mod-php, que habilita Apache para gestionar archivos php.
+* El paquete php-mysql, que permite que PHP se comunique con la base de datos basadas en MySQL.
+
 <img width="827" height="22" alt="image" src="https://github.com/user-attachments/assets/444fbf94-e329-4de8-9fa6-4789e9f141a7" />
+
 <img width="670" height="90" alt="image" src="https://github.com/user-attachments/assets/e15d5e77-da9f-4075-8599-57152a1e655f" />
 
 Con este paso, la instalación de la máquina LAMP. 
