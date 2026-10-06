@@ -27,10 +27,7 @@ Si hay algún problema con librerias o paquetes durante la instalación forzar l
 
 <img width="1148" height="89" alt="image" src="https://github.com/user-attachments/assets/b8dc16fb-e788-4d96-96f2-01fb0d55d75b" />
 
-Una vez terminado, comprobamos si se puede iniciar sesión en la consola de MySQL, escribiendo lo siguiente: 
-
 <img width="568" height="19" alt="image" src="https://github.com/user-attachments/assets/4d721530-f1fe-4886-87a8-58e175da6026" />
-
 
 <img width="682" height="26" alt="image" src="https://github.com/user-attachments/assets/c5cfa87d-793b-42da-bf52-d5c68b0d5818" />
 
