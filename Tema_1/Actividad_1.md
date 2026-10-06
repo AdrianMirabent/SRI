@@ -137,7 +137,7 @@ Ahora confirmamos que el usuario que hemos definido tiene acceso a la base de da
 
 <img width="218" height="173" alt="image" src="https://github.com/user-attachments/assets/b02001b5-2d89-4c7f-ad99-ed6cf9f7981c" />
 
-Ahora en esta base de datos, vamos a crear una tabla de prueba, que vamos a llamar todo_list. Y vamos a insertar una fila de contenido. 
+Ahora en esta base de datos, vamos a crear una tabla de prueba, que vamos a llamar todo_list. Y vamos a insertar una fila de contenido. Por último, cerramos la consola. 
 
 <img width="695" height="170" alt="image" src="https://github.com/user-attachments/assets/49847e98-5c24-462d-a64c-11fc62115db1" />
 
