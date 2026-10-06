@@ -118,10 +118,10 @@ Para probarlo, nos vamos a nuestro navegador web y accedemos al archivo info.php
 
 Vamos a crear una tabla de prueba con datos ficticios y vamos a realizar consultas relacionadas con su contenido con una secuencia de comandos PHP. Para poder hacerlo, debemos crear una base de datos de prueba y un nuevo usuario de MySQL debidamente configurado para acceder a ella. 
 
-Primero vamos a establecer conexión con la consola de MySQL usando la cuenta root.
-
-
-
+Primero vamos a establecer conexión con la consola de MySQL usando la cuenta root. Vamos a hacer lo siguiente:
+* Creamos una nueva base de datos, que vamos a llamar example_database.
+* Creamos un nuevo usuario, que vamos a llamar example_user, y vamos a utilizar mysql_native_password como método de autenticación predeterminado. Y definimos una contraseña, que va a ser para esta prueba password.
+* Damos permiso a este usuario para la base de datos example_database que hemos creado. 
 
 <img width="728" height="116" alt="image" src="https://github.com/user-attachments/assets/e4ea166f-9801-4b49-8546-390dfa6c2bcc" />
 
