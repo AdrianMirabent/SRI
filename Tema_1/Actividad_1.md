@@ -145,7 +145,7 @@ Ahora nos vamos a el directorio /var/www/aml.com y creamos una secuencia de coma
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/c421265d-71c6-482b-889c-0207b2f37ad9" />
 
-<img width="1136" height="316" alt="image" src="https://github.com/user-attachments/assets/01a9179d-9473-44c9-938b-68c3c930dc84" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/01a9179d-9473-44c9-938b-68c3c930dc84" />
 
 # Pasos extra
 
