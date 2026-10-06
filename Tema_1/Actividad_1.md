@@ -131,9 +131,13 @@ Primero vamos a establecer conexión con la consola de MySQL usando la cuenta ro
 
 Podemos verificar si el usuario nuevo tiene los permisos adecuados al volver iniciar sesión de consola de MySQL, pero esta vez con las credenciales del usuario personalizadas.
 
+Ahora confirmamos que el usuario que hemos definido tiene acceso a la base de datos que hemos creado antes.
+
 <img width="854" height="223" alt="image" src="https://github.com/user-attachments/assets/09c3b417-8673-4368-a495-328618380a57" />
 
 <img width="218" height="173" alt="image" src="https://github.com/user-attachments/assets/b02001b5-2d89-4c7f-ad99-ed6cf9f7981c" />
+
+
 
 <img width="695" height="170" alt="image" src="https://github.com/user-attachments/assets/49847e98-5c24-462d-a64c-11fc62115db1" />
 
