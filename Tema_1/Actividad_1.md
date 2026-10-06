@@ -55,6 +55,8 @@ Vamos a instalar tres paquetes:
 
 <img width="827" height="22" alt="image" src="https://github.com/user-attachments/assets/444fbf94-e329-4de8-9fa6-4789e9f141a7" />
 
+Una vez terminada la instalación, ejecutamos el siguiente comando para confirmar la versión de PHP:
+
 <img width="670" height="90" alt="image" src="https://github.com/user-attachments/assets/e15d5e77-da9f-4075-8599-57152a1e655f" />
 
 Con este paso, la instalación de la máquina LAMP. 
