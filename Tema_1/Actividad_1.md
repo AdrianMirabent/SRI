@@ -116,6 +116,13 @@ Para probarlo, nos vamos a nuestro navegador web y accedemos al archivo info.php
 
 ## PASO 6. PROBAR LA CONEXIÓN CON LA BASE DE DATOS DESDE PHP.
 
+Vamos a crear una tabla de prueba con datos ficticios y vamos a realizar consultas relacionadas con su contenido con una secuencia de comandos PHP. Para poder hacerlo, debemos crear una base de datos de prueba y un nuevo usuario de MySQL debidamente configurado para acceder a ella. 
+
+Primero vamos a establecer conexión con la consola de MySQL usando la cuenta root.
+
+
+
+
 <img width="728" height="116" alt="image" src="https://github.com/user-attachments/assets/e4ea166f-9801-4b49-8546-390dfa6c2bcc" />
 
 <img width="350" height="86" alt="image" src="https://github.com/user-attachments/assets/336aecfe-52cd-4946-98ca-890a88d8e794" />
