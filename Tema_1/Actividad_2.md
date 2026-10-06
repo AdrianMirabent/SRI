@@ -12,8 +12,9 @@ Y añadimos la nueva línea.
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/63f64d00-b6f8-4663-8958-8e7989aaea82" />
 
+Ahora podemos acceder desde el navegador por el puerto 81, además del 80.
 
-<img width="954" height="276" alt="image" src="https://github.com/user-attachments/assets/ca236269-1849-4770-90f8-212fc8df4548" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/ca236269-1849-4770-90f8-212fc8df4548" />
 
 
 ## 2. Añadimos el dominio marisma.intranet en el fichero /host
