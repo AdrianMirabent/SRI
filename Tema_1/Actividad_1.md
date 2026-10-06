@@ -39,7 +39,11 @@ A continuación ejecutamos una secuencia preestablecida de comandos que elimina 
 
 Solo hemos aceptado que recarguen las tablas de privilegios. Las demás opciones las dejamos en no por comodidad.
 
+Una vez terminado, comprobamos si se puede iniciar sesión en la consola de MySQL, escribiendo lo siguiente: 
+
 <img width="675" height="247" alt="image" src="https://github.com/user-attachments/assets/a6bfc409-abd8-4454-ab82-ab2952124515" />
+
+Para salir de la consola de MySQL, escribimos exit.
 
 
 ## PASO 3. INSTALACIÓN DE PHP.
