@@ -44,8 +44,44 @@ Ponemos en marcha el servidor Apache y vamos a llevar a cabo una serie de cambio
 
 Hacemos lo mismo para la "prueba2".
 
+## 6. Redirecciona el contenido de la carpeta "prueba" hacia "prueba2".
+
+<img width="573" height="89" alt="image" src="https://github.com/user-attachments/assets/bca3ba82-9418-4d28-bbb6-3cd32d10ac7d" />
+Y como siempre después de cada modificación en un archivo de apache, recargamos el servicio con estos comandos:
+<img width="1049" height="29" alt="image" src="https://github.com/user-attachments/assets/9608204b-9f15-45b0-bb10-09078c56c385" />
+
+
+
+
+
 <img width="1214" height="246" alt="image" src="https://github.com/user-attachments/assets/ca255013-3106-4e80-8b1a-21543654a053" />
 
 <img width="931" height="310" alt="image" src="https://github.com/user-attachments/assets/f5d1e95e-3634-410c-bbfb-719bbcaa3e17" />
 
-## 6. Redirecciona el contenido de la carpeta "prueba" hacia "prueba2"
+## 7. Es posible redireccionar tan solo una página en lugar de toda la carpeta. Pruébalo.
+<img width="651" height="131" alt="image" src="https://github.com/user-attachments/assets/b9674512-26aa-4f8f-b519-b96bc74edbe5" />
+
+Usamos RedirectMatch porque el Redirect normal nos añadía una barra al final de la ruta absoluta. Con RedirectMatch delimitamos el inicio y el final para que no añada nada. 
+
+<img width="1009" height="301" alt="image" src="https://github.com/user-attachments/assets/748d8b6a-a0ea-47b5-a1b0-8b47a73ef439" />
+
+## 8. Usa la directiva userdir.
+
+<img width="1188" height="128" alt="image" src="https://github.com/user-attachments/assets/bb8c55a6-d11e-4144-b944-8ff9614a142b" />
+
+<img width="871" height="108" alt="image" src="https://github.com/user-attachments/assets/7429d4b1-180b-40fe-a5e5-32a34e064922" />
+
+<img width="822" height="123" alt="image" src="https://github.com/user-attachments/assets/350cc94e-d393-4eea-9304-00dafbd6946a" />
+Le damos permisos de ejecución a otros para que Apache pueda leerlo. 
+
+<img width="764" height="257" alt="image" src="https://github.com/user-attachments/assets/9006e5f9-7938-47a8-a68b-00b3aaf41e46" />
+
+## 9. Usa la directiva alias para redireccionar a una carpeta dentro del directorio de usuario.
+<img width="1057" height="793" alt="image" src="https://github.com/user-attachments/assets/4e3ba05b-1732-4fd7-b6c2-1db31444fea2" />
+
+<img width="1256" height="476" alt="image" src="https://github.com/user-attachments/assets/2f9c9f6e-3a32-44ae-9ca0-8a64675882bc" />
+
+
+
+
+
