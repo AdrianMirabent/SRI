@@ -18,6 +18,9 @@ Hacemos ahora una verificación rápida del buen funcionamiento de Apache.  Desd
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/bcaf1c1d-6293-4ec6-9f60-5212989a5f89" />
 
 ## PASO 2. INSTALACIÓN DE MYSQL.
+
+Ya tenemos el servidor web Apache funcional. Ahora vamos a instalar MySQL, que es un sistema de base de datos para poder almacenar y gestionar los datos de un sitio web.
+
 <img width="698" height="20" alt="image" src="https://github.com/user-attachments/assets/aed1e70b-14f3-4265-b61e-c3b72645ef5b" />
 
 Si hay algún problema con librerias o paquetes durante la instalación forzar la instalación con sudo apt-get update. Y se intenta de nuevo la instalación con la linea de comandos de la anterior captura.
