@@ -13,7 +13,7 @@ A continuación, vamos a instalar Apache.
 
 <img width="612" height="16" alt="image" src="https://github.com/user-attachments/assets/d99e50b7-3fe1-4ebf-b8d7-eda3801ee2ba" />
 
-Hacemos ahora una verificación rápida, desde nuestro navegador escribimos http://localhost y veremos la página web predeterminada de Apache.
+Hacemos ahora una verificación rápida del buen funcionamiento de Apache.  Desde nuestro navegador escribimos http://localhost y veremos la página web predeterminada de Apache.
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/bcaf1c1d-6293-4ec6-9f60-5212989a5f89" />
 
