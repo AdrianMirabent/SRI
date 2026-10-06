@@ -93,12 +93,12 @@ Ya tenemos activo nuestro host virtual, pero el directorio /var/www/aml.com est�
 <img width="716" height="16" alt="image" src="https://github.com/user-attachments/assets/74b87859-4e10-4429-9947-20c1f9c675a1" />
 
 <img width="736" height="176" alt="image" src="https://github.com/user-attachments/assets/387d4e36-03be-4539-bba3-e7c779736bab" />
-Vamos a visualizarla en el navegador web de Firefox.
+
+Al final escribiendo en el navegador web la dirección completa con el protocolo http y localhost, acabamos visualizando el índice que acabamos de crear ubicado en /var/www. 
 
 <img width="894" height="229" alt="image" src="https://github.com/user-attachments/assets/412f6d40-0be6-41dd-9793-54b2cdad529c" />
-Al intentar visualizar la página web con nuestro navegador web con localhost, nos dirigía a la carpeta por defecto de apache. Con a2dissite quitamos el archivo de configuración por defecto que tiene apache en estos momentos.
 
-Al final escribiendo en el navegador web la dirección completa con el protocolo http y localhost, acabamos visualizando el índice ubicado en /var/www. 
+
 
 ## PASO 5. PROBAR EL PROCESAMIENTO DE PÁGINAS PHP.
 <img width="938" height="19" alt="image" src="https://github.com/user-attachments/assets/8b775985-bb5e-4250-82be-12aacc12ec92" />
