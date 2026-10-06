@@ -64,8 +64,9 @@ Con este paso, la instalación de la máquina LAMP.
 ## PASO 4. CREACIÓN DE UN HOST VIRTUAL.
 
 Ubuntu tiene predefinido un host virtual por defecto, que está configurado para proporcionar documentos del directorio /var/www/html.
+Vamos a crear un host virtual para el dominio que vamos a llamar "aml.com"
 
-Me he situado con la ayuda del comando cd a la carpeta /var/www. En esta carpeta voy a crear una carpeta que se va a llamar como el nombre de dominio que he decidido llamar "aml.com". 
+Me he situado con la ayuda del comando cd a la carpeta /var/www. En esta carpeta voy a crear una carpeta que se va a llamar como el nombre de dominio. 
 <img width="618" height="93" alt="image" src="https://github.com/user-attachments/assets/3ce00d4e-3d81-40f9-80c8-52517a106e3d" />
 <img width="825" height="91" alt="image" src="https://github.com/user-attachments/assets/5f11bab8-965d-44c8-9ef3-8adbc5551fec" />
 
