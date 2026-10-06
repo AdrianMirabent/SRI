@@ -34,10 +34,10 @@ Si hay algún problema con librerias o paquetes durante la instalación forzar l
 
 A continuación ejecutamos una secuencia preestablecida de comandos que elimina algunos ajustes predeterminados poco seguros. 
 
-
 <img width="654" height="18" alt="image" src="https://github.com/user-attachments/assets/bdcb3610-44f3-4e7a-ae76-363e77a38f99" />
 
 Solo hemos aceptado que recarguen las tablas de privilegios. Las demás opciones las dejamos en no por comodidad.
+
 
 Una vez terminado, comprobamos si se puede iniciar sesión en la consola de MySQL, escribiendo lo siguiente: 
 
