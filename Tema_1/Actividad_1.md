@@ -145,7 +145,12 @@ Ahora nos vamos a el directorio /var/www/aml.com y creamos una secuencia de coma
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/c421265d-71c6-482b-889c-0207b2f37ad9" />
 
+Ahora accedemos a esta página desde nuestro navegador web con http://localhost/todo_list.php
+
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/01a9179d-9473-44c9-938b-68c3c930dc84" />
+
+Vemos que funciona, lo que significa que su entorno PHP está listo para establecer conexión con su servidor de MySQL e interactuar con él. 
+
 
 # Pasos extra
 
