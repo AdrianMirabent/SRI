@@ -79,6 +79,14 @@ Le damos permisos de ejecución a otros para que Apache pueda leerlo.
 ## 9. Usa la directiva alias para redireccionar a una carpeta dentro del directorio de usuario.
 <img width="1057" height="793" alt="image" src="https://github.com/user-attachments/assets/4e3ba05b-1732-4fd7-b6c2-1db31444fea2" />
 
+## 10. ¿Para que sirve la directiva Options y donde aparece? Comprueba si apache indexa los directorios. Si es así, ¿cómo lo desactivamos?
+
+La directiva Options controla qué características del servidor web están disponibles en un directorio específico. Se puede incluir principalmente en los ficheros de configuración del servidor (dentro de bloques <Directory> o <VirtualHost>) y en los archivos locales .htaccess.
+
+<img width="299" height="100" alt="image" src="https://github.com/user-attachments/assets/d3f947b9-3b78-4330-87d3-26e6424ff036" />
+
+Como vemos en esta captura, Apache si indexa los directorios que cuelgan de /var/www. Para desactivarlo solo tendriamos que borrar la palabra /indexes dentro de las opciones. 
+
 <img width="1256" height="476" alt="image" src="https://github.com/user-attachments/assets/2f9c9f6e-3a32-44ae-9ca0-8a64675882bc" />
 
 
