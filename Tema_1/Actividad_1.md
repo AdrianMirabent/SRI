@@ -154,6 +154,11 @@ Vemos que funciona, lo que significa que su entorno PHP está listo para estable
 
 # Pasos extra
 
+Hemos concluido todos los pasos. Ahora vamos a realizar las siguientes operaciones:
+1. Habilitar nuevamente el Virtual Host por defecto.
+2. Deshabilitar al Virtual Host "aml.com".
+3. Asegurar que el archivo de configuración no contenga errores de sintaxis y Reiniciar Apache.
+
 <img width="1612" height="414" alt="image" src="https://github.com/user-attachments/assets/49688b8b-3b50-4089-ab14-73c488ee3607" />
 
 
