@@ -73,7 +73,7 @@ Si volvemos a buscar la página en el navegador, vemos que ahora desaparece la i
 
 ## 5. Crea un directorio "prueba" y otro directorio que se llame "prueba2". Incluye un par de páginas en cada una de ellas. 
 
-Nos situamos en el directorio /var/www/html.
+Nos situamos en el directorio /var/www/html. Y creamos las carpetas prueba y prueba2.
 
 <img width="1037" height="154" alt="image" src="https://github.com/user-attachments/assets/e85f9a1d-ebcc-4e83-9d5c-909ee8ab9245" />
 
