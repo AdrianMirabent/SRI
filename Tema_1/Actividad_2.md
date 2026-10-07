@@ -107,11 +107,12 @@ Y como siempre después de cada modificación en un archivo de apache, recargamo
 
 Sí, es posible. Si en la carpeta prueba2 creamos otro archivo html e indicamos que la redirección sea de /prueba a /prueba2/test.html, se puede comprobar. 
 
-<img width="651" height="131" alt="image" src="https://github.com/user-attachments/assets/b9674512-26aa-4f8f-b519-b96bc74edbe5" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/b9674512-26aa-4f8f-b519-b96bc74edbe5" />
 
 Usamos RedirectMatch porque el Redirect normal nos añadía una barra al final de la ruta absoluta. Con RedirectMatch delimitamos el inicio y el final para que no añada nada. 
 
-<img width="1009" height="301" alt="image" src="https://github.com/user-attachments/assets/748d8b6a-a0ea-47b5-a1b0-8b47a73ef439" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/748d8b6a-a0ea-47b5-a1b0-8b47a73ef439" />
+
 
 ## 8. Usa la directiva userdir.
 
