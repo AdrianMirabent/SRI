@@ -93,7 +93,7 @@ Ya tenemos activo nuestro host virtual, pero el directorio /var/www/aml.com est�
 
 Al final escribiendo en el navegador web la dirección completa con el protocolo http y localhost, acabamos visualizando el índice que acabamos de crear ubicado en /var/www/aml.com. 
 
-<img width="755" height="255" alt="image" src="https://github.com/user-attachments/assets/e10ff535-711c-4b4d-975c-5d80130a0662" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/e10ff535-711c-4b4d-975c-5d80130a0662" />
 
 
 ## PASO 5. PROBAR EL PROCESAMIENTO DE PÁGINAS PHP.
