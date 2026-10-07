@@ -126,11 +126,11 @@ Lo primero que tenemos que hacer es activar el módulo userdir.
 
 A continuación, creamos en nuestro directorio personal la carpeta public_html. Y dentro de esta carpeta creamos el archivo index.html.
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/7429d4b1-180b-40fe-a5e5-32a34e064922" />
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/7429d4b1-180b-40fe-a5e5-32a34e064922" />
 
 Le damos permisos de ejecución a otros para que Apache pueda leerlo. 
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/350cc94e-d393-4eea-9304-00dafbd6946a" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/350cc94e-d393-4eea-9304-00dafbd6946a" />
 
 Comprobamos que podemos acceder al contenido del archivo del usuario desde el navegador.
 
