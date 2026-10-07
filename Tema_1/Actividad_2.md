@@ -183,7 +183,8 @@ Le damos permisos de ejecución a otros para que Apache pueda leerlo.
 
 Comprobamos que podemos acceder al contenido del archivo del usuario desde el navegador.
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/9006e5f9-7938-47a8-a68b-00b3aaf41e46" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/38039094-4328-490c-a6ef-d1986115560a" />
+<br>
 
 
 ## 9. Usa la directiva alias para redireccionar a una carpeta dentro del directorio de usuario.
