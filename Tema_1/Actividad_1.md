@@ -66,7 +66,10 @@ Con este paso, la instalación de la máquina LAMP.
 
 ## PASO 4. CREACIÓN DE UN HOST VIRTUAL.
 
-Ubuntu tiene predefinido un host virtual por defecto, que está configurado para proporcionar documentos del directorio /var/www/html.
+Ubuntu tiene predefinido un host virtual por defecto, que está configurado para proporcionar documentos del directorio /var/www/html. Dentro de esta carpeta por defecto está el archivo index.html.
+
+<img width="1121" height="211" alt="image" src="https://github.com/user-attachments/assets/1dad9980-d394-4445-b1d4-c462e7aee5eb" />
+
 Vamos a crear un host virtual para el dominio que vamos a llamar "aml.com"
 
 Me he situado con la ayuda del comando cd a la carpeta /var/www. En esta carpeta voy a crear una carpeta que se va a llamar como el nombre de dominio. 
