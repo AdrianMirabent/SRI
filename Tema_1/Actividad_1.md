@@ -158,6 +158,11 @@ Hemos concluido todos los pasos. Ahora vamos a realizar las siguientes operacion
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/9cf1fe29-cf22-4f3e-b094-ea3812933277" />
 
+Comprobamos que está habilitado de nuevo la Virtual Host por defecto.
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/c8f40f83-4bef-4c96-9efe-2321d9cc95ff" />
+
+
 
 
 
