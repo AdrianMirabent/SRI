@@ -116,7 +116,7 @@ Y la buscamos en el navegador.
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/ec6f354c-6e4c-4843-a324-22f85dbf91c2" />
 
-Hacemos lo mismo para la "prueba2".
+Hacemos lo mismo en el directorio prueba2.
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/ca255013-3106-4e80-8b1a-21543654a053" />
 
