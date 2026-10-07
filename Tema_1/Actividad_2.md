@@ -128,9 +128,11 @@ A continuación, creamos en nuestro directorio personal la carpeta public_html. 
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/7429d4b1-180b-40fe-a5e5-32a34e064922" />
 
+Le damos permisos de ejecución a otros para que Apache pueda leerlo. 
+
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/350cc94e-d393-4eea-9304-00dafbd6946a" />
 
-Le damos permisos de ejecución a otros para que Apache pueda leerlo. 
+Comprobamos que podemos acceder al contenido del archivo del usuario desde el navegador.
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/9006e5f9-7938-47a8-a68b-00b3aaf41e46" />
 
