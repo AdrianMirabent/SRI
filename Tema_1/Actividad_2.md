@@ -34,7 +34,7 @@ Nos situamos en el directorio /etc/apache2/conf-available, que contiene archivos
 
 Uno de estos archivos es el security.conf, enfocado a endurecer la seguridad del servidor. 
 
-<img width="951" height="225" alt="image" src="https://github.com/user-attachments/assets/a2daa8e0-39f5-44dd-836a-d9d9a1d48fa9" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/a2daa8e0-39f5-44dd-836a-d9d9a1d48fa9" />
 
 <img width="942" height="354" alt="image" src="https://github.com/user-attachments/assets/9723a60b-a310-4b45-abdf-11c40ea69e81" />
 
