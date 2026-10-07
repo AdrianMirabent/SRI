@@ -75,7 +75,7 @@ Si entramos en el archivo security.conf, vemos que hay tres opciones de ServerSi
 
 Por defecto, tenemos activado la opción ServerSignature On.
 
-<img width="911" height="238" alt="image" src="https://github.com/user-attachments/assets/21984123-1283-4c95-91cf-9a6b0697b827" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/21984123-1283-4c95-91cf-9a6b0697b827" />
 
 Por ejemplo: Si desde el navegador intentamos acceder a un archivo que no existe, vemos lo que devuelve. Tenemos un pie de página que nos indica 
 
@@ -83,7 +83,7 @@ Por ejemplo: Si desde el navegador intentamos acceder a un archivo que no existe
 
 Ahora entramos en el fichero security.conf y dejamos activado la opción ServerSignature Off.
 
-<img width="916" height="238" alt="image" src="https://github.com/user-attachments/assets/7807c75c-975a-44d8-920f-a830999c0459" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/7807c75c-975a-44d8-920f-a830999c0459" />
 
 Recargamos el servicio Apache con sudo systemctl reload apache2.
 
