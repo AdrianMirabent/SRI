@@ -64,7 +64,7 @@ Recargamos el servicio Apache con sudo systemctl reload apache2.
 Hacemos una prueba con curl.
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/ca408298-b04f-49a7-8606-2abb9c88ba60" />
-
+<br>
 
 ## 4. Comprueba si se visualiza el pie de página en las páginas generadas por Apache (Por ejemplo, en las páginas de error). Cambia el valor de la directiva "ServerSignature" y comprueba que funciona correctamente. 
 
