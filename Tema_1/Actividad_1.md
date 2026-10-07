@@ -156,7 +156,8 @@ Hemos concluido todos los pasos. Ahora vamos a realizar las siguientes operacion
 2. Deshabilitar al Virtual Host "aml.com".
 3. Asegurar que el archivo de configuración no contenga errores de sintaxis y Reiniciar Apache.
 
-<img width="1612" height="414" alt="image" src="https://github.com/user-attachments/assets/49688b8b-3b50-4089-ab14-73c488ee3607" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/9cf1fe29-cf22-4f3e-b094-ea3812933277" />
+
 
 
 
