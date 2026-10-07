@@ -10,6 +10,6 @@
 
 ## 3. Crea un script que nos permita crear una página web con un título, una cabecera y un mensaje
 
-<img width="416" height="249" alt="image" src="https://github.com/user-attachments/assets/5930569d-24ed-47d7-aa1a-5f4c05bbd3c6" />
+<img width="716" height="449" alt="image" src="https://github.com/user-attachments/assets/5930569d-24ed-47d7-aa1a-5f4c05bbd3c6" />
 
 
