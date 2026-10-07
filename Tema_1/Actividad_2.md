@@ -150,7 +150,7 @@ En este caso utilizamos el alias Documentos para acceder a la carpeta /home/adri
 
 ## 10. ¿Para que sirve la directiva Options y donde aparece? Comprueba si apache indexa los directorios. Si es así, ¿cómo lo desactivamos?
 
-La directiva Options controla qué características del servidor web están disponibles en un directorio específico. Se puede incluir principalmente en los ficheros de configuración del servidor (dentro de bloques <Directory> o <VirtualHost>) y en los archivos locales .htaccess.
+La directiva Options controla qué características del servidor web están disponibles en un directorio específico. Se puede incluir principalmente en los ficheros de configuración del servidor y en los archivos locales .htaccess.
 
 <img width="299" height="100" alt="image" src="https://github.com/user-attachments/assets/d3f947b9-3b78-4330-87d3-26e6424ff036" />
 
