@@ -59,9 +59,11 @@ Si entramos en el archivo security.conf, vemos que hay tres opciones de ServerSi
 
 Por ejemplo: Si desde el navegador intentamos acceder a un archivo que no existe, vemos lo que devuelve. Tenemos un pie de página que nos indica 
 
-<img width="941" height="313" alt="image" src="https://github.com/user-attachments/assets/3ba71983-5e08-45d5-934e-73d7aef837a3" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/3ba71983-5e08-45d5-934e-73d7aef837a3" />
 
-<img width="927" height="259" alt="image" src="https://github.com/user-attachments/assets/624a2468-4078-4537-a8ca-2ac62a260ff0" />
+Ahora entramos en el fichero security.conf y dejamos activado la opción ServerSignature Off.
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/624a2468-4078-4537-a8ca-2ac62a260ff0" />
 
 <img width="1049" height="315" alt="image" src="https://github.com/user-attachments/assets/aab9f446-e894-4d96-9c39-280a773610b4" />
 
