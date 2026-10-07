@@ -154,6 +154,12 @@ Luego vamos a configurar que la redirección sea de /prueba a /prueba2/test.html
 
 Usamos RedirectMatch porque el Redirect normal nos añadía una barra al final de la ruta absoluta. Con RedirectMatch delimitamos el inicio y el final para que no añada nada. 
 
+Recargamos el servicio Apache con sudo systemctl reload apache2.
+
+<img width="1108" height="25" alt="image" src="https://github.com/user-attachments/assets/3490fa9b-51cf-49c4-832e-313c0931db7b" />
+
+Lo comprobamos. 
+
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/748d8b6a-a0ea-47b5-a1b0-8b47a73ef439" />
 
 
