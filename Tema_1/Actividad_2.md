@@ -19,8 +19,8 @@ Recargamos el servicio Apache con sudo systemctl reload apache2.
 
 Ahora podemos acceder desde el navegador por el puerto 81, además del 80.
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/ca236269-1849-4770-90f8-212fc8df4548" />
-
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/aa182b32-1d72-409d-b72a-dc2595535186" />
+<br>
 
 ## 2. Añadimos el dominio "marisma.intranet" en el fichero "hosts".
 
@@ -36,8 +36,8 @@ Recargamos el servicio Apache con sudo systemctl reload apache2.
 
 Vemos que desde el navegador podemos acceder al dominio.
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/f1f00243-bc60-4e4a-a71a-f604ed8ecc0c" />
-
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/f1f00243-bc60-4e4a-a71a-f604ed8ecc0c" />
+<br>
 
 ## 3. Cambia la directiva "ServerTokens" para mostrar el nombre del producto.
 
