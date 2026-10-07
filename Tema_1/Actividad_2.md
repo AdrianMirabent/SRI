@@ -19,7 +19,7 @@ Ahora podemos acceder desde el navegador por el puerto 81, además del 80.
 
 ## 2. Añadimos el dominio "marisma.intranet" en el fichero "hosts".
 
-Nos situamos en el directorio /etc y abrimos el archivo hosts, donde se definen las direcciones IP locales y los nombres de los dominios. Y añadimos el dominio.
+Nos situamos en el directorio /etc y abrimos el archivo hosts, donde se definen las direcciones IP locales y los nombres de los dominios asociados. Y añadimos el nuevo dominio local.
 
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/7d3b434c-6832-478a-a03b-41b5ac59227b" />
 
