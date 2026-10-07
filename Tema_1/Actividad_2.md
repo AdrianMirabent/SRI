@@ -156,6 +156,8 @@ La directiva Options controla qué características del servidor web están disp
 
 Como vemos en esta captura, Apache si indexa los directorios que cuelgan de /var/www. Para desactivarlo solo tendriamos que borrar la palabra /indexes dentro de las opciones. 
 
+Indexar se refiere a la capacidad del servidor de mostrar automáticamente una página web con la lista de todos los archivos y carpetas que contiene un directorio. Esto ocurre normalmente cuando en tu navegador visitas una ruta que no tiene archivo de bienvenida principal (como un index.html o index.php).
+
 
 
 
