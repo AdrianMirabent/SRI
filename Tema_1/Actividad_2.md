@@ -83,13 +83,13 @@ Ahora creamos dentro del directorio prueba el archivo index.html.
 
 Y la buscamos en el navegador. 
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/ec6f354c-6e4c-4843-a324-22f85dbf91c2" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/ec6f354c-6e4c-4843-a324-22f85dbf91c2" />
 
 Hacemos lo mismo para la "prueba2".
 
-<img width="1214" height="246" alt="image" src="https://github.com/user-attachments/assets/ca255013-3106-4e80-8b1a-21543654a053" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/ca255013-3106-4e80-8b1a-21543654a053" />
 
-<img width="931" height="310" alt="image" src="https://github.com/user-attachments/assets/f5d1e95e-3634-410c-bbfb-719bbcaa3e17" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/f5d1e95e-3634-410c-bbfb-719bbcaa3e17" />
 
 
 ## 6. Redirecciona el contenido de la carpeta "prueba" hacia "prueba2".
