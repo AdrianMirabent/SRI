@@ -36,7 +36,7 @@ Recargamos el servicio Apache con sudo systemctl reload apache2.
 
 Vemos que desde el navegador podemos acceder al dominio.
 
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/c0ccd81a-b2f8-4457-b6fb-b3d5250f51e6" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/f1f00243-bc60-4e4a-a71a-f604ed8ecc0c" />
 
 
 ## 3. Cambia la directiva "ServerTokens" para mostrar el nombre del producto.
