@@ -49,6 +49,14 @@ Uno de estos archivos es el security.conf, enfocado a endurecer la seguridad del
 
 Si entramos en el archivo security.conf, vemos que hay varias opciones de ServerTokens. Determina la información que el servidor Apache va a devolver en la cabecera HTTP cuando responde a peticiones. Viene predeterminada la opción ServerTokens OS. 
 
+Tenemos las siguientes opciones: 
+* Full: Muestra la máxima información posible.
+* OS: Muestra la versión de Apache y el nombr del sistema operativo.
+* Minimal: Envía únicamente el nombre y versión del servidor.
+* Minor: Muestra el nombre del servidor y la versión principal y secundaria.
+* Major: Muestra el nombre del servidor y la versión principal del servidor.
+* Prod: Solo devuelve el nombre del producto, en nuestro caso Apache. 
+
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/a3d17cfe-051f-48c6-9ed7-78c959e0819d" />
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/1efc6b44-39ba-4973-90a3-41cbd8e3a2ca" />
