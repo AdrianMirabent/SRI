@@ -145,6 +145,8 @@ En este caso utilizamos el alias Documentos para acceder a la carpeta /home/adri
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/4e3ba05b-1732-4fd7-b6c2-1db31444fea2" />
 
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/2f9c9f6e-3a32-44ae-9ca0-8a64675882bc" />
+
 
 ## 10. ¿Para que sirve la directiva Options y donde aparece? Comprueba si apache indexa los directorios. Si es así, ¿cómo lo desactivamos?
 
@@ -154,7 +156,6 @@ La directiva Options controla qué características del servidor web están disp
 
 Como vemos en esta captura, Apache si indexa los directorios que cuelgan de /var/www. Para desactivarlo solo tendriamos que borrar la palabra /indexes dentro de las opciones. 
 
-<img width="1256" height="476" alt="image" src="https://github.com/user-attachments/assets/2f9c9f6e-3a32-44ae-9ca0-8a64675882bc" />
 
 
 
