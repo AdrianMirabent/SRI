@@ -1,7 +1,7 @@
 # Actividad 1 - Instalación de apache.
 
 Una pila LAMP es un conjunto de aplicaciones de software de código abierto que se suelen instalar juntas para que un servidor pueda alojar aplicaciones y sitios web dinámicos escritos en PHP. 
-Vamos a proceder a la instalación de la pila Linux, Apache, MySQL y PHP (LAMP) en una máquina ubuntu desktop 22.04.
+Vamos a proceder a la instalación de la pila Linux, Apache, MySQL y PHP (LAMP) en una máquina ubuntu desktop 22.04. Actualizamos el software.
 
 ## PASO 1. INSTALACIÓN DE APACHE.
 
