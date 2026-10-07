@@ -26,7 +26,7 @@ Ahora podemos acceder desde el navegador por el puerto 81, además del 80.
 
 Nos situamos en el directorio /etc y abrimos el archivo hosts, donde se definen las direcciones IP locales y los nombres de los dominios asociados. Y añadimos el nuevo dominio local.
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/3eab54d3-52fd-4898-92c9-f13296dfae56" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/3eab54d3-52fd-4898-92c9-f13296dfae56" />
 
 Vemos que desde el navegador podemos acceder al dominio.
 
