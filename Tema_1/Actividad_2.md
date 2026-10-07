@@ -32,14 +32,14 @@ Vemos que desde el navegador podemos acceder al dominio.
 
 Nos situamos en el directorio /etc/apache2/conf-available, que contiene archivos de configuración disponibles, pero que no están activos por defecto. 
 
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/a2daa8e0-39f5-44dd-836a-d9d9a1d48fa9" />
+
 Uno de estos archivos es el security.conf, enfocado a endurecer la seguridad del servidor. 
 
-Si entramos en el archivo, vemos que hay tres opciones de ServerTokens. Determina la información que el servidor Apache va a devolver en la cabecera HTTP cuando responde a peticiones. Tenemos tres opciones: 
+Si entramos en el archivo security.conf, vemos que hay tres opciones de ServerTokens. Determina la información que el servidor Apache va a devolver en la cabecera HTTP cuando responde a peticiones. Tenemos tres opciones: 
 1. ServerTokens Prod: Solo devuelve la palabra Apache. Es la más segura.
 2. ServerTokens Minimal: Devuelve la palabra Apache y su versión.
 3. ServerTokens Full: Es la que revela más datos. Es la opción por defecto. 
-
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/a2daa8e0-39f5-44dd-836a-d9d9a1d48fa9" />
 
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/9723a60b-a310-4b45-abdf-11c40ea69e81" />
 
