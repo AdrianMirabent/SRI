@@ -143,7 +143,8 @@ Nos situamos en el directorio /etc/apache2. Entramos en la carpeta mods-availabl
 
 En este caso utilizamos el alias Documentos para acceder a la carpeta /home/adrian/Documentos.
 
-<img width="1057" height="793" alt="image" src="https://github.com/user-attachments/assets/4e3ba05b-1732-4fd7-b6c2-1db31444fea2" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/4e3ba05b-1732-4fd7-b6c2-1db31444fea2" />
+
 
 ## 10. ¿Para que sirve la directiva Options y donde aparece? Comprueba si apache indexa los directorios. Si es así, ¿cómo lo desactivamos?
 
