@@ -7,3 +7,9 @@
 
 ## 2. Crea un script que añada una ip y un nombre de dominio al fichero /hosts. Debemos de comprobar que no existe dicho dominio en el fichero /hosts.
 <img width="719" height="327" alt="image" src="https://github.com/user-attachments/assets/537d6b3c-b6f9-4ea0-b25c-0698d4efb23d" />
+
+## 3. Crea un script que nos permita crear una página web con un título, una cabecera y un mensaje
+
+<img width="416" height="249" alt="image" src="https://github.com/user-attachments/assets/5930569d-24ed-47d7-aa1a-5f4c05bbd3c6" />
+
+
