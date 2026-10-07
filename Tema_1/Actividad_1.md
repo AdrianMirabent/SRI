@@ -83,7 +83,7 @@ Ahora vamos a habilitar el nuevo host virtual, con sudo a2ensite aml.com.<br>
 Es conveniente deshabilitar el host virtual predeterminado que viene instalado con Apache, con sudo a2dissite 000-default.<br>
 Por último, volvemos a cargar Apache para que activar la nueva configuración, con sudo systemctl reload apache2.
 
-<img width="892" height="399" alt="image" src="https://github.com/user-attachments/assets/df1f5563-4e1a-41e3-982a-38ecd4624bbc" />
+<img width="1263" height="313" alt="image" src="https://github.com/user-attachments/assets/cb7485ce-f87d-40bc-bfdb-7acd143723c2" />
 
 Ya tenemos activo nuestro host virtual, pero el directorio /var/www/aml.com está vacío de contenido. Ahora vamos a crear un índice para nuestra página asociada al dominio aml.com. 
 
@@ -91,9 +91,9 @@ Ya tenemos activo nuestro host virtual, pero el directorio /var/www/aml.com est�
 
 <img width="736" height="176" alt="image" src="https://github.com/user-attachments/assets/387d4e36-03be-4539-bba3-e7c779736bab" />
 
-Al final escribiendo en el navegador web la dirección completa con el protocolo http y localhost, acabamos visualizando el índice que acabamos de crear ubicado en /var/www. 
+Al final escribiendo en el navegador web la dirección completa con el protocolo http y localhost, acabamos visualizando el índice que acabamos de crear ubicado en /var/www/aml.com. 
 
-<img width="894" height="229" alt="image" src="https://github.com/user-attachments/assets/412f6d40-0be6-41dd-9793-54b2cdad529c" />
+<img width="755" height="255" alt="image" src="https://github.com/user-attachments/assets/e10ff535-711c-4b4d-975c-5d80130a0662" />
 
 
 ## PASO 5. PROBAR EL PROCESAMIENTO DE PÁGINAS PHP.
