@@ -126,12 +126,13 @@ Lo primero que tenemos que hacer es activar el módulo userdir.
 
 A continuación, creamos en nuestro directorio personal la carpeta public_html. Y dentro de esta carpeta creamos el archivo index.html.
 
-<img width="871" height="108" alt="image" src="https://github.com/user-attachments/assets/7429d4b1-180b-40fe-a5e5-32a34e064922" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/7429d4b1-180b-40fe-a5e5-32a34e064922" />
 
-<img width="822" height="123" alt="image" src="https://github.com/user-attachments/assets/350cc94e-d393-4eea-9304-00dafbd6946a" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/350cc94e-d393-4eea-9304-00dafbd6946a" />
 Le damos permisos de ejecución a otros para que Apache pueda leerlo. 
 
-<img width="764" height="257" alt="image" src="https://github.com/user-attachments/assets/9006e5f9-7938-47a8-a68b-00b3aaf41e46" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/9006e5f9-7938-47a8-a68b-00b3aaf41e46" />
+
 
 ## 9. Usa la directiva alias para redireccionar a una carpeta dentro del directorio de usuario.
 <img width="1057" height="793" alt="image" src="https://github.com/user-attachments/assets/4e3ba05b-1732-4fd7-b6c2-1db31444fea2" />
