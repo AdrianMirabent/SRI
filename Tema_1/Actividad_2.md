@@ -45,7 +45,7 @@ Si entramos en el archivo security.conf, vemos que hay tres opciones de ServerTo
 
  Activamos la opción eliminando la almohadilla. Hacemos una comprobación con curl.
 
-<img width="1220" height="264" alt="image" src="https://github.com/user-attachments/assets/ca408298-b04f-49a7-8606-2abb9c88ba60" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/ca408298-b04f-49a7-8606-2abb9c88ba60" />
 
 
 
