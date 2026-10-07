@@ -148,16 +148,15 @@ Y vemos que se redirige a http://localhost/prueba2.
 
 Sí, es posible. Para comprobarlo, primero vamos a crear en la carpeta prueba2 otro archivo html (que vamos a llamar test.html).
 
-Luego vamos a configurar que la redirección sea de /prueba a /prueba2/test.html. PAra eso, nos situamos en el directorio /etc/apache2. Y abrimos el archivo apache2.conf. Introducimos lo siguiente al final. 
+Luego vamos a configurar que la redirección sea de /prueba a /prueba2/test.html. Para eso, nos situamos en el directorio /etc/apache2. Y abrimos el archivo apache2.conf. Introducimos lo siguiente al final. 
 
 
 Recargamos el servicio Apache con sudo systemctl reload apache2.
 
 <img width="1108" height="25" alt="image" src="https://github.com/user-attachments/assets/3490fa9b-51cf-49c4-832e-313c0931db7b" />
 
-Lo comprobamos. 
-
-
+Lo comprobamos en el navegador. 
+<br>
 
 ## 8. Usa la directiva userdir.
 
