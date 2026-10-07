@@ -2,6 +2,7 @@
 
 Ponemos en marcha el servidor Apache y vamos a llevar a cabo una serie de cambios en el archivo de configuración.
 
+
 ## 1. Apache utilizará el puerto 81 además del 80.
 
 Nos situamos en el directorio /etc/apache2. Y abrimos el archivo ports.conf, que contiene la configuración de los puertos en los que escucha el servidor web Apache.
@@ -48,14 +49,17 @@ Si entramos en el archivo security.conf, vemos que hay tres opciones de ServerTo
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/ca408298-b04f-49a7-8606-2abb9c88ba60" />
 
 
-
 ## 4. Comprueba si se visualiza el pie de página en las páginas generadas por Apache (Por ejemplo, en las páginas de error). Cambia el valor de la directiva "ServerSignature" y comprueba que funciona correctamente. 
+
+
 
 <img width="941" height="313" alt="image" src="https://github.com/user-attachments/assets/3ba71983-5e08-45d5-934e-73d7aef837a3" />
 
 <img width="927" height="259" alt="image" src="https://github.com/user-attachments/assets/624a2468-4078-4537-a8ca-2ac62a260ff0" />
 
 <img width="1049" height="315" alt="image" src="https://github.com/user-attachments/assets/aab9f446-e894-4d96-9c39-280a773610b4" />
+
+
 
 ## 5. Crea un directorio "prueba" y otro directorio que se llame "prueba2". Incluye un par de páginas en cada una de ellas. 
 
