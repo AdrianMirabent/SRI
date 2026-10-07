@@ -51,7 +51,6 @@ Si entramos en el archivo security.conf, vemos que hay tres opciones de ServerTo
 
 ## 4. Comprueba si se visualiza el pie de página en las páginas generadas por Apache (Por ejemplo, en las páginas de error). Cambia el valor de la directiva "ServerSignature" y comprueba que funciona correctamente. 
 
-
 Si entramos en el archivo security.conf, vemos que hay tres opciones de ServerSignature. Determina si se debe mostrar o no una línea con la información del servidor al final de las páginas generadas por el sistema, como páginas de error. Tenemos tres opciones: 
 1. ServerSignature Off: Desactiva por completo la firma de Apache.
 2. ServerSignature On: Muestra una línea al pie de las páginas que incluye el nombre del servidor y el puerto por el que escucha.
@@ -68,7 +67,6 @@ Ahora entramos en el fichero security.conf y dejamos activado la opción ServerS
 Si volvemos a buscar la página en el navegador, vemos que ahora desaparece la información a pie de página.
 
 <img width="500"  alt="image" src="https://github.com/user-attachments/assets/aab9f446-e894-4d96-9c39-280a773610b4" />
-
 
 
 ## 5. Crea un directorio "prueba" y otro directorio que se llame "prueba2". Incluye un par de páginas en cada una de ellas. 
