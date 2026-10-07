@@ -71,7 +71,7 @@ Ahora vamos a asignar la propiedad del directorio con la variable del entorno $U
 
 <img width="825" height="91" alt="image" src="https://github.com/user-attachments/assets/5f11bab8-965d-44c8-9ef3-8adbc5551fec" />
 
-Luego, vamos a crear un nuevo archivo de configuración  en el directorio /etc/apache2/sites-available para configurar nuestro dominio "aml.com". En la carpeta /etc/apache2/sites-available se encuentra el archivo de configuración del sitio web predetrminado que utiliza HTTP, llamado 000-default.conf.
+Luego, vamos a crear un nuevo archivo de configuración  en el directorio /etc/apache2/sites-available para configurar nuestro dominio "aml.com". En la carpeta /etc/apache2/sites-available se encuentra el archivo de configuración del sitio web predeterminado que utiliza HTTP, llamado 000-default.conf.
 
 <img width="823" height="142" alt="image" src="https://github.com/user-attachments/assets/e7464525-7ee8-40b7-bc3c-04584247baa4" />
 
