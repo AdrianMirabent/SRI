@@ -138,6 +138,9 @@ Comprobamos que podemos acceder al contenido del archivo del usuario desde el na
 
 
 ## 9. Usa la directiva alias para redireccionar a una carpeta dentro del directorio de usuario.
+
+Nos situamos en el directorio /etc/apache2. 
+
 <img width="1057" height="793" alt="image" src="https://github.com/user-attachments/assets/4e3ba05b-1732-4fd7-b6c2-1db31444fea2" />
 
 ## 10. ¿Para que sirve la directiva Options y donde aparece? Comprueba si apache indexa los directorios. Si es así, ¿cómo lo desactivamos?
