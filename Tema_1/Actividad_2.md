@@ -150,9 +150,6 @@ Sí, es posible. Para comprobarlo, primero vamos a crear en la carpeta prueba2 o
 
 Luego vamos a configurar que la redirección sea de /prueba a /prueba2/test.html. PAra eso, nos situamos en el directorio /etc/apache2. Y abrimos el archivo apache2.conf. Introducimos lo siguiente al final. 
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/4687b1a5-3935-45aa-bff1-94c6e80b2e22" />
-
-Usamos RedirectMatch porque el Redirect normal nos añadía una barra al final de la ruta absoluta. Con RedirectMatch delimitamos el inicio y el final para que no añada nada. 
 
 Recargamos el servicio Apache con sudo systemctl reload apache2.
 
@@ -160,7 +157,6 @@ Recargamos el servicio Apache con sudo systemctl reload apache2.
 
 Lo comprobamos. 
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/748d8b6a-a0ea-47b5-a1b0-8b47a73ef439" />
 
 
 ## 8. Usa la directiva userdir.
