@@ -61,7 +61,7 @@ Recargamos el servicio Apache con sudo systemctl reload apache2.
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/884a6a70-c369-4db1-a249-89d92635dbbe" />
 
-Hacemos una prueba con curl.
+Hacemos una prueba con curl. Vemos que en el apartado Server solo aparece el nombre del producto, que es Apache.
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/ca408298-b04f-49a7-8606-2abb9c88ba60" />
 <br>
