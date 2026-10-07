@@ -4,7 +4,7 @@ Una pila LAMP es un conjunto de aplicaciones de software de código abierto que 
 Vamos a proceder a la instalación de la pila Linux, Apache, MySQL y PHP (LAMP) en una máquina ubuntu desktop 22.04. Actualizamos el software.
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/20388989-7aab-42d8-a614-db95d83730a3" />
-
+<br>
 
 ## PASO 1. INSTALACIÓN DE APACHE.
 
@@ -19,6 +19,7 @@ A continuación, vamos a instalar Apache.
 Hacemos ahora una verificación rápida del buen funcionamiento de Apache.  Desde nuestro navegador escribimos http://localhost y veremos la página web predeterminada de Apache.
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/bcaf1c1d-6293-4ec6-9f60-5212989a5f89" />
+<br>
 
 ## PASO 2. INSTALACIÓN DE MYSQL.
 
@@ -38,7 +39,7 @@ Una vez terminado, comprobamos si se puede iniciar sesión en la consola de MySQ
 <img width="675" height="247" alt="image" src="https://github.com/user-attachments/assets/a6bfc409-abd8-4454-ab82-ab2952124515" />
 
 Para salir de la consola de MySQL, escribimos exit.
-
+<br>
 
 ## PASO 3. INSTALACIÓN DE PHP.
 
@@ -54,6 +55,7 @@ Una vez terminada la instalación, ejecutamos el siguiente comando para confirma
 <img width="670" height="90" alt="image" src="https://github.com/user-attachments/assets/e15d5e77-da9f-4075-8599-57152a1e655f" />
 
 Con este paso, la instalación de la máquina LAMP. 
+<br>
 
 ## PASO 4. CREACIÓN DE UN HOST VIRTUAL.
 
@@ -94,7 +96,7 @@ Ya tenemos activo nuestro host virtual, pero el directorio /var/www/aml.com est�
 Al final escribiendo en el navegador web la dirección completa con el protocolo http y localhost, acabamos visualizando el índice que acabamos de crear ubicado en /var/www/aml.com. 
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/e10ff535-711c-4b4d-975c-5d80130a0662" />
-
+<br>
 
 ## PASO 5. PROBAR EL PROCESAMIENTO DE PÁGINAS PHP.
 
@@ -109,7 +111,7 @@ Creamos un archivo llamado info.php dentro de la carpeta /var/www/aml.com.E intr
 Para probarlo, nos vamos a nuestro navegador web y accedemos al archivo info.php, mediante http://localhost/info.php. Vemos que el archivo se ejecuta. Por lo que la instalación de PHP funciona según lo previsto.
 
 <img width="1234" height="561" alt="image" src="https://github.com/user-attachments/assets/e89f1685-11f8-435f-bb5e-c9999a97af13" />
-
+<br>
 
 ## PASO 6. PROBAR LA CONEXIÓN CON LA BASE DE DATOS DESDE PHP.
 
@@ -147,7 +149,7 @@ Ahora accedemos a esta página desde nuestro navegador web con http://localhost/
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/01a9179d-9473-44c9-938b-68c3c930dc84" />
 
 Vemos que funciona, lo que significa que su entorno PHP está listo para establecer conexión con su servidor de MySQL e interactuar con él. 
-
+<br>
 
 # Pasos extra
 
@@ -161,7 +163,7 @@ Hemos concluido todos los pasos. Ahora vamos a realizar las siguientes operacion
 Comprobamos que está habilitado de nuevo la Virtual Host por defecto.
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/c8f40f83-4bef-4c96-9efe-2321d9cc95ff" />
-
+<br>
 
 
 
