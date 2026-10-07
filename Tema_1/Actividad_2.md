@@ -43,7 +43,11 @@ Si entramos en el archivo security.conf, vemos que hay tres opciones de ServerTo
 
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/9723a60b-a310-4b45-abdf-11c40ea69e81" />
 
+ Activamos la opción eliminando la almohadilla. Hacemos una comprobación con curl.
+
 <img width="1220" height="264" alt="image" src="https://github.com/user-attachments/assets/ca408298-b04f-49a7-8606-2abb9c88ba60" />
+
+
 
 ## 4. Comprueba si se visualiza el pie de página en las páginas generadas por Apache (Por ejemplo, en las páginas de error). Cambia el valor de la directiva server.signature y comprueba que funcione correctamente. 
 
