@@ -73,18 +73,26 @@ Si entramos en el archivo security.conf, vemos que hay tres opciones de ServerSi
 2. ServerSignature On: Muestra una línea al pie de las páginas que incluye el nombre del servidor y el puerto por el que escucha.
 3. ServerSignature Email: Todo lo indicado en la opción anterior y además añade un enlace de correo electrónico apuntando al administrador del servidor.
 
+Por defecto, tenemos activado la opción ServerSignature On.
+
+<img width="911" height="238" alt="image" src="https://github.com/user-attachments/assets/21984123-1283-4c95-91cf-9a6b0697b827" />
+
 Por ejemplo: Si desde el navegador intentamos acceder a un archivo que no existe, vemos lo que devuelve. Tenemos un pie de página que nos indica 
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/3ba71983-5e08-45d5-934e-73d7aef837a3" />
 
 Ahora entramos en el fichero security.conf y dejamos activado la opción ServerSignature Off.
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/624a2468-4078-4537-a8ca-2ac62a260ff0" />
+<img width="916" height="238" alt="image" src="https://github.com/user-attachments/assets/7807c75c-975a-44d8-920f-a830999c0459" />
+
+Recargamos el servicio Apache con sudo systemctl reload apache2.
+
+<img width="1251" height="32" alt="image" src="https://github.com/user-attachments/assets/e8dfb290-201f-4d93-be05-c803b8678e62" />
 
 Si volvemos a buscar la página en el navegador, vemos que ahora desaparece la información a pie de página.
 
 <img width="500"  alt="image" src="https://github.com/user-attachments/assets/aab9f446-e894-4d96-9c39-280a773610b4" />
-
+<br>
 
 ## 5. Crea un directorio "prueba" y otro directorio que se llame "prueba2". Incluye un par de páginas en cada una de ellas. 
 
