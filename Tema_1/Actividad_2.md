@@ -137,11 +137,11 @@ Y como siempre después de cada modificación en un archivo de apache, recargamo
 
 Lo comprobamos. Introducimos en el navegador http://localhost/prueba. 
 
-<img width="1033" height="115" alt="image" src="https://github.com/user-attachments/assets/8a2b1281-f06a-4665-ae5d-2fb3c258c9d8" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/8a2b1281-f06a-4665-ae5d-2fb3c258c9d8" />
 
 Y vemos que se redirige a http://localhost/prueba2.
 
-<img width="940" height="187" alt="image" src="https://github.com/user-attachments/assets/bbe07575-770f-451b-9f2b-3af257f516f7" />
+<img width="500"  alt="image" src="https://github.com/user-attachments/assets/bbe07575-770f-451b-9f2b-3af257f516f7" />
 
 
 ## 7. ¿Es posible redireccionar tan solo una página en lugar de toda la carpeta?. Pruébalo.
