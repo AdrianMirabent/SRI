@@ -92,6 +92,9 @@ Hacemos lo mismo para la "prueba2".
 
 ## 6. Redirecciona el contenido de la carpeta "prueba" hacia "prueba2".
 
+
+Nos situamos en el directorio /etc/apache2.
+
 <img width="573" height="89" alt="image" src="https://github.com/user-attachments/assets/bca3ba82-9418-4d28-bbb6-3cd32d10ac7d" />
 Y como siempre después de cada modificación en un archivo de apache, recargamos el servicio con estos comandos:
 <img width="1049" height="29" alt="image" src="https://github.com/user-attachments/assets/9608204b-9f15-45b0-bb10-09078c56c385" />
