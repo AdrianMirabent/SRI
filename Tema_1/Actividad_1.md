@@ -59,7 +59,7 @@ Con este paso, la instalación de la máquina LAMP.
 
 Ubuntu tiene predefinido un host virtual por defecto, que está configurado para proporcionar documentos del directorio /var/www/html. Dentro de esta carpeta por defecto está el archivo index.html.
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/1dad9980-d394-4445-b1d4-c462e7aee5eb" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/1dad9980-d394-4445-b1d4-c462e7aee5eb" />
 
 Vamos a crear un host virtual para el dominio que vamos a llamar "aml.com"
 
