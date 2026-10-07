@@ -47,15 +47,11 @@ Nos situamos en el directorio /etc/apache2/conf-available, que contiene archivos
 
 Uno de estos archivos es el security.conf, enfocado a endurecer la seguridad del servidor. 
 
-Si entramos en el archivo security.conf, vemos que hay varias opciones de ServerTokens. Determina la información que el servidor Apache va a devolver en la cabecera HTTP cuando responde a peticiones. opciones: 
-1. ServerTokens Prod: Solo devuelve la palabra Apache. Es la más segura.
-2. ServerTokens Minimal: Devuelve la palabra Apache y su versión.
-3. ServerTokens Full: Es la que revela más datos. Es la opción por defecto. 
+Si entramos en el archivo security.conf, vemos que hay varias opciones de ServerTokens. Determina la información que el servidor Apache va a devolver en la cabecera HTTP cuando responde a peticiones. Viene predeterminada la opción ServerTokens OS. 
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/1efc6b44-39ba-4973-90a3-41cbd8e3a2ca" />
 
-
- Activamos la opción eliminando la almohadilla. Hacemos una comprobación con curl.
+Lo cambiamos, y activamos la opción ServerTokens Prod.
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/ca408298-b04f-49a7-8606-2abb9c88ba60" />
 
