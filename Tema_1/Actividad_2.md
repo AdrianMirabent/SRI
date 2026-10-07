@@ -13,6 +13,8 @@ Y añadimos la nueva línea "Listen 81".
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/63f64d00-b6f8-4663-8958-8e7989aaea82" />
 
+Recargamos el servicio Apache con sudo systemctl reload apache2.
+
 Ahora podemos acceder desde el navegador por el puerto 81, además del 80.
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/ca236269-1849-4770-90f8-212fc8df4548" />
