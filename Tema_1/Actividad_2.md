@@ -157,6 +157,10 @@ Recargamos el servicio Apache con sudo systemctl reload apache2.
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/3490fa9b-51cf-49c4-832e-313c0931db7b" />
 
 Lo comprobamos en el navegador. 
+
+<img width="716" height="110" alt="image" src="https://github.com/user-attachments/assets/38ad5f08-2f8b-44ed-bf5b-4eea9ff9d3c3" />
+
+<img width="869" height="212" alt="image" src="https://github.com/user-attachments/assets/3ac82aa8-51f4-4512-8cdc-94ce35013049" />
 <br>
 
 ## 8. Usa la directiva userdir.
