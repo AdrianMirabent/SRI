@@ -116,6 +116,10 @@ Usamos RedirectMatch porque el Redirect normal nos añadía una barra al final d
 
 ## 8. Usa la directiva userdir.
 
+La directiva userdir permite habilitar directorios web personales para cada usuario del sistema operativo.
+
+Cuando este módulo está activo, cualquier usuario del sistema puede crear una carpeta llamada public_html dentro de su directorio personal, y todo lo que guarde dentro de ella se publicará automáticamente en la web utilizando la url.
+
 <img width="1188" height="128" alt="image" src="https://github.com/user-attachments/assets/bb8c55a6-d11e-4144-b944-8ff9614a142b" />
 
 <img width="871" height="108" alt="image" src="https://github.com/user-attachments/assets/7429d4b1-180b-40fe-a5e5-32a34e064922" />
