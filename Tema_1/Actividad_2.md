@@ -93,9 +93,11 @@ Hacemos lo mismo para la "prueba2".
 ## 6. Redirecciona el contenido de la carpeta "prueba" hacia "prueba2".
 
 
-Nos situamos en el directorio /etc/apache2. Y abrimos el archivo apache2.conf.
+Nos situamos en el directorio /etc/apache2. Y abrimos el archivo apache2.conf. Introducimos lo siguiente. 
 
-<img width="573" height="89" alt="image" src="https://github.com/user-attachments/assets/bca3ba82-9418-4d28-bbb6-3cd32d10ac7d" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/bca3ba82-9418-4d28-bbb6-3cd32d10ac7d" />
+
+Con lo introducido, cualquier petición dirigida a la ruta /prueba será redirigida automáticamente hacia la ruta /prueba2.
 
 Y como siempre después de cada modificación en un archivo de apache, recargamos el servicio con estos comandos:
 
