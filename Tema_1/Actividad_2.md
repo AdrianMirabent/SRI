@@ -49,7 +49,7 @@ Si entramos en el archivo security.conf, vemos que hay tres opciones de ServerTo
 
 
 
-## 4. Comprueba si se visualiza el pie de página en las páginas generadas por Apache (Por ejemplo, en las páginas de error). Cambia el valor de la directiva server.signature y comprueba que funcione correctamente. 
+## 4. Comprueba si se visualiza el pie de página en las páginas generadas por Apache (Por ejemplo, en las páginas de error). Cambia el valor de la directiva "ServerSignature" y comprueba que funciona correctamente. 
 
 <img width="941" height="313" alt="image" src="https://github.com/user-attachments/assets/3ba71983-5e08-45d5-934e-73d7aef837a3" />
 
