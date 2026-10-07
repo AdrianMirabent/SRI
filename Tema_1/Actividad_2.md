@@ -57,6 +57,11 @@ Lo cambiamos, y activamos la opción ServerTokens Prod.
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/75f49e6f-2fb3-49a9-837d-8c22a0a952c2" />
 
+Recargamos el servicio Apache con sudo systemctl reload apache2.
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/884a6a70-c369-4db1-a249-89d92635dbbe" />
+
+Hacemos una prueba con curl.
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/ca408298-b04f-49a7-8606-2abb9c88ba60" />
 
