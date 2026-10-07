@@ -87,7 +87,7 @@ Ahora entramos en el fichero security.conf y dejamos activado la opción ServerS
 
 Recargamos el servicio Apache con sudo systemctl reload apache2.
 
-<img width="1251" height="32" alt="image" src="https://github.com/user-attachments/assets/e8dfb290-201f-4d93-be05-c803b8678e62" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/e8dfb290-201f-4d93-be05-c803b8678e62" />
 
 Si volvemos a buscar la página en el navegador, vemos que ahora desaparece la información a pie de página.
 
