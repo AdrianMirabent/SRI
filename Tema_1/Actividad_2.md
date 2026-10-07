@@ -65,7 +65,9 @@ Ahora entramos en el fichero security.conf y dejamos activado la opción ServerS
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/624a2468-4078-4537-a8ca-2ac62a260ff0" />
 
-<img width="1049" height="315" alt="image" src="https://github.com/user-attachments/assets/aab9f446-e894-4d96-9c39-280a773610b4" />
+Si volvemos a buscar la página en el navegador, vemos que ahora desaparece la información a pie de página.
+
+<img width="500"  alt="image" src="https://github.com/user-attachments/assets/aab9f446-e894-4d96-9c39-280a773610b4" />
 
 
 
