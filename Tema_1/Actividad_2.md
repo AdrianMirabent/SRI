@@ -52,6 +52,10 @@ Si entramos en el archivo security.conf, vemos que hay tres opciones de ServerTo
 ## 4. Comprueba si se visualiza el pie de página en las páginas generadas por Apache (Por ejemplo, en las páginas de error). Cambia el valor de la directiva "ServerSignature" y comprueba que funciona correctamente. 
 
 
+Si entramos en el archivo security.conf, vemos que hay tres opciones de ServerSignature. Determina si se debe mostrar o no una línea con la información del servidor al final de las páginas generadas por el sistema, como páginas de error. Tenemos tres opciones: 
+1. ServerSignature Off: Desactiva por completo la firma de Apache.
+2. ServerSignature On: Muestra una línea al pie de las páginas que incluye el nombre del servidor y el puerto por el que escucha.
+3. ServerSignature Email: Todo lo indicado en la opción anterior y además añade un enlace de correo electrónico apuntando al administrador del servidor. 
 
 <img width="941" height="313" alt="image" src="https://github.com/user-attachments/assets/3ba71983-5e08-45d5-934e-73d7aef837a3" />
 
