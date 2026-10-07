@@ -141,6 +141,8 @@ Comprobamos que podemos acceder al contenido del archivo del usuario desde el na
 
 Nos situamos en el directorio /etc/apache2. Entramos en la carpeta mods-available. Y accedemos al archivo alias.conf.
 
+En este caso utilizamos el alias Documentos para acceder a la carpeta /home/adrian/Documentos.
+
 <img width="1057" height="793" alt="image" src="https://github.com/user-attachments/assets/4e3ba05b-1732-4fd7-b6c2-1db31444fea2" />
 
 ## 10. ¿Para que sirve la directiva Options y donde aparece? Comprueba si apache indexa los directorios. Si es así, ¿cómo lo desactivamos?
