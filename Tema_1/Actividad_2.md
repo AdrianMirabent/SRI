@@ -26,6 +26,8 @@ Ahora podemos acceder desde el navegador por el puerto 81, además del 80.
 
 Nos situamos en el directorio /etc y abrimos el archivo hosts, donde se definen las direcciones IP locales y los nombres de los dominios asociados. Y añadimos el nuevo dominio local.
 
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/fa784d42-0ac4-4f30-9008-0da1db06e8a2" />
+
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/3eab54d3-52fd-4898-92c9-f13296dfae56" />
 
 Recargamos el servicio Apache con sudo systemctl reload apache2.
