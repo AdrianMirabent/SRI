@@ -32,6 +32,8 @@ Nos situamos en el directorio /etc y abrimos el archivo hosts, donde se definen 
 
 Recargamos el servicio Apache con sudo systemctl reload apache2.
 
+<img width="1041" height="27" alt="image" src="https://github.com/user-attachments/assets/64b9fdc9-5d99-46fe-a5a9-3a068b62d6f8" />
+
 Vemos que desde el navegador podemos acceder al dominio.
 
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/c0ccd81a-b2f8-4457-b6fb-b3d5250f51e6" />
