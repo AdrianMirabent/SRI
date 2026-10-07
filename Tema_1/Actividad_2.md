@@ -103,7 +103,10 @@ Y como siempre después de cada modificación en un archivo de apache, recargamo
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/9608204b-9f15-45b0-bb10-09078c56c385" />
 
 
-## 7. Es posible redireccionar tan solo una página en lugar de toda la carpeta. Pruébalo.
+## 7. ¿Es posible redireccionar tan solo una página en lugar de toda la carpeta?. Pruébalo.
+
+Sí, es posible. Si en la carpeta prueba2 creamos otro archivo html e indicamos que la redirección sea de /prueba a /prueba2/test.html, se puede comprobar. 
+
 <img width="651" height="131" alt="image" src="https://github.com/user-attachments/assets/b9674512-26aa-4f8f-b519-b96bc74edbe5" />
 
 Usamos RedirectMatch porque el Redirect normal nos añadía una barra al final de la ruta absoluta. Con RedirectMatch delimitamos el inicio y el final para que no añada nada. 
