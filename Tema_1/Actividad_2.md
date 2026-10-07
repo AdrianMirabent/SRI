@@ -150,7 +150,7 @@ Sí, es posible. Para comprobarlo, primero vamos a crear en la carpeta prueba2 o
 
 Luego vamos a configurar que la redirección sea de /prueba a /prueba2/test.html. PAra eso, nos situamos en el directorio /etc/apache2. Y abrimos el archivo apache2.conf. Introducimos lo siguiente al final. 
 
-<img width="759" height="118" alt="image" src="https://github.com/user-attachments/assets/cda99cb9-8b84-44d4-a25d-81bde9cedcf4" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/4687b1a5-3935-45aa-bff1-94c6e80b2e22" />
 
 Usamos RedirectMatch porque el Redirect normal nos añadía una barra al final de la ruta absoluta. Con RedirectMatch delimitamos el inicio y el final para que no añada nada. 
 
