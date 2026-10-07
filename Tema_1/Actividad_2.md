@@ -120,7 +120,7 @@ Hacemos lo mismo en el directorio prueba2.
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/ca255013-3106-4e80-8b1a-21543654a053" />
 
-<img width="500 alt="image" src="https://github.com/user-attachments/assets/6c5013a7-ffd9-423e-ae19-cd26b1ad0d3c" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/6c5013a7-ffd9-423e-ae19-cd26b1ad0d3c" />
 <br>
 
 ## 6. Redirecciona el contenido de la carpeta "prueba" hacia "prueba2".
