@@ -153,7 +153,7 @@ Luego vamos a configurar que la redirección sea de /prueba a /prueba2/test.html
 
 Recargamos el servicio Apache con sudo systemctl reload apache2.
 
-<img width="1108" height="25" alt="image" src="https://github.com/user-attachments/assets/3490fa9b-51cf-49c4-832e-313c0931db7b" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/3490fa9b-51cf-49c4-832e-313c0931db7b" />
 
 Lo comprobamos en el navegador. 
 <br>
