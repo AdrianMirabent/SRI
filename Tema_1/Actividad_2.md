@@ -101,7 +101,7 @@ Con lo introducido, cualquier petición dirigida a la ruta /prueba será redirig
 
 Y como siempre después de cada modificación en un archivo de apache, recargamos el servicio con estos comandos:
 
-<img width="1049" height="29" alt="image" src="https://github.com/user-attachments/assets/9608204b-9f15-45b0-bb10-09078c56c385" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/9608204b-9f15-45b0-bb10-09078c56c385" />
 
 
 
