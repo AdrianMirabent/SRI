@@ -160,7 +160,7 @@ Hemos concluido todos los pasos. Ahora vamos a realizar las siguientes operacion
 
 Comprobamos que está habilitado de nuevo la Virtual Host por defecto.
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/c8f40f83-4bef-4c96-9efe-2321d9cc95ff" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/c8f40f83-4bef-4c96-9efe-2321d9cc95ff" />
 
 
 
