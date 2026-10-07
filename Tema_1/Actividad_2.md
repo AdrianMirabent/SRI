@@ -131,7 +131,7 @@ Nos situamos en el directorio /etc/apache2. Y abrimos el archivo apache2.conf. I
 
 Con lo introducido, cualquier petición dirigida a la ruta /prueba será redirigida automáticamente hacia la ruta /prueba2.
 
-Y como siempre después de cada modificación en un archivo de apache, recargamos el servicio con estos comandos:
+Y como siempre después de cada modificación en un archivo de apache, recargamos el servicio.
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/9608204b-9f15-45b0-bb10-09078c56c385" />
 
@@ -142,7 +142,7 @@ Lo comprobamos. Introducimos en el navegador http://localhost/prueba.
 Y vemos que se redirige a http://localhost/prueba2.
 
 <img width="500"  alt="image" src="https://github.com/user-attachments/assets/bbe07575-770f-451b-9f2b-3af257f516f7" />
-
+<br>
 
 ## 7. ¿Es posible redireccionar tan solo una página en lugar de toda la carpeta?. Pruébalo.
 
