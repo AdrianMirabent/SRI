@@ -27,7 +27,12 @@ Vemos que desde el navegador podemos acceder al dominio.
 
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/c0ccd81a-b2f8-4457-b6fb-b3d5250f51e6" />
 
+
 ## 3. Cambia la directiva "ServerTokens" para mostrar el nombre del producto.
+
+Nos situamos en el directorio /etc/apache2/conf-available, que contiene archivos de configuración disponibles, pero que no están activos por defecto. 
+
+Uno de estos archivos es el security.conf, enfocado a endurecer la seguridad del servidor. 
 
 <img width="951" height="225" alt="image" src="https://github.com/user-attachments/assets/a2daa8e0-39f5-44dd-836a-d9d9a1d48fa9" />
 
