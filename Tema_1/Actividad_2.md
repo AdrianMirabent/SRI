@@ -43,27 +43,27 @@ Vemos que desde el navegador podemos acceder al dominio.
 
 Nos situamos en el directorio /etc/apache2/conf-available, que contiene archivos de configuración disponibles, pero que no están activos por defecto. 
 
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/a2daa8e0-39f5-44dd-836a-d9d9a1d48fa9" />
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/a2daa8e0-39f5-44dd-836a-d9d9a1d48fa9" />
 
 Uno de estos archivos es el security.conf, enfocado a endurecer la seguridad del servidor. 
 
 Si entramos en el archivo security.conf, vemos que hay varias opciones de ServerTokens. Determina la información que el servidor Apache va a devolver en la cabecera HTTP cuando responde a peticiones. Viene predeterminada la opción ServerTokens OS. 
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/a3d17cfe-051f-48c6-9ed7-78c959e0819d" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/a3d17cfe-051f-48c6-9ed7-78c959e0819d" />
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/1efc6b44-39ba-4973-90a3-41cbd8e3a2ca" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/1efc6b44-39ba-4973-90a3-41cbd8e3a2ca" />
 
 Lo cambiamos, y activamos la opción ServerTokens Prod.
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/75f49e6f-2fb3-49a9-837d-8c22a0a952c2" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/75f49e6f-2fb3-49a9-837d-8c22a0a952c2" />
 
 Recargamos el servicio Apache con sudo systemctl reload apache2.
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/884a6a70-c369-4db1-a249-89d92635dbbe" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/884a6a70-c369-4db1-a249-89d92635dbbe" />
 
 Hacemos una prueba con curl.
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/ca408298-b04f-49a7-8606-2abb9c88ba60" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/ca408298-b04f-49a7-8606-2abb9c88ba60" />
 
 
 ## 4. Comprueba si se visualiza el pie de página en las páginas generadas por Apache (Por ejemplo, en las páginas de error). Cambia el valor de la directiva "ServerSignature" y comprueba que funciona correctamente. 
