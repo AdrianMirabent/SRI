@@ -146,7 +146,7 @@ Y vemos que se redirige a http://localhost/prueba2.
 
 ## 7. ¿Es posible redireccionar tan solo una página en lugar de toda la carpeta?. Pruébalo.
 
-Sí, es posible. Para comprobarlo, primero vamos a crear en la carpeta prueba2 otro archivo html (que vamos a llamar test.html).
+Sí, es posible. Para comprobarlo, primero en /var/www/html vamos a crear en la carpeta prueba2 otro archivo html (que vamos a llamar test.html).
 
 Luego vamos a configurar que la redirección sea de /prueba a /prueba2/test.html. Para eso, nos situamos en el directorio /etc/apache2. Y abrimos el archivo apache2.conf. Introducimos lo siguiente al final. 
 
