@@ -79,10 +79,9 @@ Nos situamos en el directorio /var/www/html. Y creamos las carpetas prueba y pru
 
 Ahora creamos dentro del directorio prueba el archivo index.html.
 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/596345ed-72ac-4a6a-8240-63989318c2b5" />
 
-<img width="1163" height="287" alt="image" src="https://github.com/user-attachments/assets/596345ed-72ac-4a6a-8240-63989318c2b5" />
-
-<img width="1015" height="266" alt="image" src="https://github.com/user-attachments/assets/ec6f354c-6e4c-4843-a324-22f85dbf91c2" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/ec6f354c-6e4c-4843-a324-22f85dbf91c2" />
 
 Hacemos lo mismo para la "prueba2".
 
