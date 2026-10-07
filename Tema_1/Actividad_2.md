@@ -111,7 +111,7 @@ Sí, es posible. Si en la carpeta prueba2 creamos otro archivo html e indicamos 
 
 Usamos RedirectMatch porque el Redirect normal nos añadía una barra al final de la ruta absoluta. Con RedirectMatch delimitamos el inicio y el final para que no añada nada. 
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/748d8b6a-a0ea-47b5-a1b0-8b47a73ef439" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/748d8b6a-a0ea-47b5-a1b0-8b47a73ef439" />
 
 
 ## 8. Usa la directiva userdir.
