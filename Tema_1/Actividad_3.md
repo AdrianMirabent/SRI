@@ -11,7 +11,15 @@ El archivo debe ejecutarse con sudo, ya que vamos a modificar un archivo protegi
 
 
 ## 2. Crea un script que añada una ip y un nombre de dominio al fichero /hosts. Debemos de comprobar que no existe dicho dominio en el fichero /hosts.
-<img width="719" height="327" alt="image" src="https://github.com/user-attachments/assets/537d6b3c-b6f9-4ea0-b25c-0698d4efb23d" />
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/eafb74a6-bb78-45b2-abed-bf4bc63d7a59" />
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/0ac3fcba-49f4-4c5f-a70b-d1daad279288" />
+
+El archivo debe ejecutarse con sudo, ya que vamos a modificar un archivo protegido del sistema. 
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/ff4ab64f-d273-4c9c-9ee2-b53c4ad97233" />
+<br>
 
 ## 3. Crea un script que nos permita crear una página web con un título, una cabecera y un mensaje
 
