@@ -17,14 +17,14 @@ Ahora nos vamos al directorio /etc/apache2/ y abrimos el fichero ports.conf. Vem
 
 ## 2. Crea un script que añada una ip y un nombre de dominio al fichero /hosts. Debemos de comprobar que no existe dicho dominio en el fichero /hosts.
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/eafb74a6-bb78-45b2-abed-bf4bc63d7a59" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/eafb74a6-bb78-45b2-abed-bf4bc63d7a59" />
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/14e49961-35b7-4727-8c68-054a881a67b8" />
 <br>
 
 El archivo debe ejecutarse con sudo, ya que vamos a modificar un archivo protegido del sistema. 
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/679bcab8-42bf-4b87-941b-fff1c566e9a8" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/679bcab8-42bf-4b87-941b-fff1c566e9a8" />
 
 Si nos vamos ahora al directorio /etc y abrimos el archivo hosts, vemos que se ha introducido una nueva línea al final del fichero.
 
