@@ -193,19 +193,19 @@ Nos situamos en el directorio /etc/apache2. Entramos en la carpeta mods-availabl
 
 En este caso utilizamos el alias Documentos para acceder a la carpeta /home/adrian/Documentos. Lo definimos de la misma forma que el alias icons.
 
-<img width="1190" height="867" alt="image" src="https://github.com/user-attachments/assets/aeebeb0f-5626-48da-b430-3916c6df71d4" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/aeebeb0f-5626-48da-b430-3916c6df71d4" />
 
 Ahora creamos en /home/adrian/Documentos el archivo index.html, con el siguiente contenido. 
 
-<img width="1122" height="288" alt="image" src="https://github.com/user-attachments/assets/ed375721-f9b0-4cd6-ae46-af687dee116b" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/ed375721-f9b0-4cd6-ae46-af687dee116b" />
 
 Recargamos el servicio Apache con sudo systemctl reload apache2.
 
-<img width="1103" height="30" alt="image" src="https://github.com/user-attachments/assets/3ba3a88d-eb06-40ca-9fce-2db41a455814" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/3ba3a88d-eb06-40ca-9fce-2db41a455814" />
 
 Probamos desde el navegador.
 
-<img width="1509" height="193" alt="image" src="https://github.com/user-attachments/assets/b122085f-1e63-4bf0-aa94-d2bddf4c2e91" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/b122085f-1e63-4bf0-aa94-d2bddf4c2e91" />
 <br>
 
 ## 10. ¿Para que sirve la directiva Options y donde aparece? Comprueba si apache indexa los directorios. Si es así, ¿cómo lo desactivamos?
