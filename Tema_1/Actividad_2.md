@@ -212,7 +212,7 @@ Probamos desde el navegador.
 
 La directiva Options controla qué características del servidor web están disponibles en un directorio específico. Se puede incluir principalmente en los ficheros de configuración del servidor y en los archivos locales .htaccess.
 
-<img width="299" height="100" alt="image" src="https://github.com/user-attachments/assets/d3f947b9-3b78-4330-87d3-26e6424ff036" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/85e64ac0-6be0-4114-8474-0987497aa331" />
 
 Como vemos en esta captura, Apache si indexa los directorios que cuelgan de /var/www. Para desactivarlo solo tendriamos que borrar la palabra /indexes dentro de las opciones. 
 
