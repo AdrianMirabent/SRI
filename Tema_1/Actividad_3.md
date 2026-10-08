@@ -15,7 +15,7 @@ Ahora nos vamos al directorio /etc/apache2/ y abrimos el fichero ports.conf. Vem
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/e92fc87a-5f9a-4013-892c-6fc6f12723a8" />
 <br>
 
-## 2. Crea un script que añada una ip y un nombre de dominio al fichero /hosts. Debemos de comprobar que no existe dicho dominio en el fichero /hosts.
+## 2. Crea un script que añada una ip y un nombre de dominio al fichero hosts. Debemos de comprobar que no existe dicho dominio en el fichero hosts.
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/eafb74a6-bb78-45b2-abed-bf4bc63d7a59" />
 
