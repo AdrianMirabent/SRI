@@ -32,8 +32,6 @@ Vamos a crear el fichero.
 
 Ahora lo vamos a probar. 
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/265d07f4-184a-40fb-b608-d379166ea4d0" />
-
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/d9600ad0-89bc-4347-93d9-a5335cd0f567" />
 
 Este es el fichero que se ha creado.
