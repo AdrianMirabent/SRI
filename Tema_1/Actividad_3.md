@@ -24,14 +24,20 @@ El archivo debe ejecutarse con sudo, ya que vamos a modificar un archivo protegi
 
 ## 3. Crea un script que nos permita crear una página web con un título, una cabecera y un mensaje
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/aaa0933d-9b95-4306-91d5-eb8a45af57ae" />
+Vamos a crear el fichero.
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/aaa0933d-9b95-4306-91d5-eb8a45af57ae" />
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/40bd6d9e-e978-419a-947c-bf3e1a2920bb" />
+
+Ahora lo vamos a probar. 
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/265d07f4-184a-40fb-b608-d379166ea4d0" />
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/d9600ad0-89bc-4347-93d9-a5335cd0f567" />
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/287a2363-d84b-4cb2-b5e6-128442b2f9cf" />
+Este es el fichero que se ha creado.
 
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/287a2363-d84b-4cb2-b5e6-128442b2f9cf" />
+<br>
 
