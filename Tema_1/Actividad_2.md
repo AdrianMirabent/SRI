@@ -210,7 +210,7 @@ Probamos desde el navegador.
 
 ## 10. ¿Para que sirve la directiva Options y donde aparece? Comprueba si apache indexa los directorios. Si es así, ¿cómo lo desactivamos?
 
-La directiva Options controla qué características del servidor web están disponibles en un directorio específico. Se puede incluir principalmente en los ficheros de configuración del servidor y en los archivos locales .htaccess.
+La directiva Options controla qué características del servidor web están disponibles en un directorio específico. Se puede incluir principalmente en los ficheros de configuración del servidor.
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/85e64ac0-6be0-4114-8474-0987497aa331" />
 
