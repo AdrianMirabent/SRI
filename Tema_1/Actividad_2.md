@@ -193,7 +193,10 @@ Nos situamos en el directorio /etc/apache2. Entramos en la carpeta mods-availabl
 
 En este caso utilizamos el alias Documentos para acceder a la carpeta /home/adrian/Documentos. Lo definimos de la misma forma que el alias icons.
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/4e3ba05b-1732-4fd7-b6c2-1db31444fea2" />
+<img width="1067" height="817" alt="image" src="https://github.com/user-attachments/assets/62aabaa4-431d-495d-a37a-e83f0920d7b7" />
+
+Ahora creamos en /home/adrian/Documentos el archivo index.html, con el siguiente contenido. 
+cd 
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/2f9c9f6e-3a32-44ae-9ca0-8a64675882bc" />
 
