@@ -193,7 +193,7 @@ Nos situamos en el directorio /etc/apache2. Entramos en la carpeta mods-availabl
 
 En este caso utilizamos el alias Documentos para acceder a la carpeta /home/adrian/Documentos. Lo definimos de la misma forma que el alias icons.
 
-<img width="1067" height="817" alt="image" src="https://github.com/user-attachments/assets/62aabaa4-431d-495d-a37a-e83f0920d7b7" />
+<img width="1190" height="867" alt="image" src="https://github.com/user-attachments/assets/aeebeb0f-5626-48da-b430-3916c6df71d4" />
 
 Ahora creamos en /home/adrian/Documentos el archivo index.html, con el siguiente contenido. 
 
@@ -205,8 +205,8 @@ Recargamos el servicio Apache con sudo systemctl reload apache2.
 
 Probamos desde el navegador.
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/2f9c9f6e-3a32-44ae-9ca0-8a64675882bc" />
-
+<img width="1509" height="193" alt="image" src="https://github.com/user-attachments/assets/b122085f-1e63-4bf0-aa94-d2bddf4c2e91" />
+<br>
 
 ## 10. ¿Para que sirve la directiva Options y donde aparece? Comprueba si apache indexa los directorios. Si es así, ¿cómo lo desactivamos?
 
