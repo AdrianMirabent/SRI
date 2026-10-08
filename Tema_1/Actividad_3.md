@@ -8,13 +8,14 @@
 El archivo debe ejecutarse con sudo, ya que vamos a modificar un archivo protegido del sistema. 
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/1d2d2145-a0b7-4035-a8cc-7a98beaeeeb0" />
-
+<br>
 
 ## 2. Crea un script que añada una ip y un nombre de dominio al fichero /hosts. Debemos de comprobar que no existe dicho dominio en el fichero /hosts.
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/eafb74a6-bb78-45b2-abed-bf4bc63d7a59" />
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/0ac3fcba-49f4-4c5f-a70b-d1daad279288" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/14e49961-35b7-4727-8c68-054a881a67b8" />
+<br>
 
 El archivo debe ejecutarse con sudo, ya que vamos a modificar un archivo protegido del sistema. 
 
