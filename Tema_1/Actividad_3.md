@@ -7,7 +7,12 @@
 
 El archivo debe ejecutarse con sudo, ya que vamos a modificar un archivo protegido del sistema. 
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/1d2d2145-a0b7-4035-a8cc-7a98beaeeeb0" />
+<img width="905" height="89" alt="image" src="https://github.com/user-attachments/assets/370623c4-a649-4555-ba5c-ff6cd7c0aab2" />
+<br>
+
+Ahora nos vamos al directorio /etc/apache2/ y abrimos el fichero ports.conf. Vemos que al final se ha añadido en nuevo puerto.
+
+<img width="1128" height="527" alt="image" src="https://github.com/user-attachments/assets/e92fc87a-5f9a-4013-892c-6fc6f12723a8" />
 <br>
 
 ## 2. Crea un script que añada una ip y un nombre de dominio al fichero /hosts. Debemos de comprobar que no existe dicho dominio en el fichero /hosts.
