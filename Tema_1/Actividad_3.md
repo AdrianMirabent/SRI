@@ -65,4 +65,18 @@ Esta instrucción apunta a /var/log/apache2/access.log <br/>
 **Definición:** Tiempo que el servidor espera para recibir una siguiente petición en una conexión persistente antes de cerrarla. <br/>
 **Valor por defecto:** 5 (segundos) <br/>
 **Lugar donde se encuentra definida:** /etc/apache2/apache2.conf <br/>
+<br/>
+## Otras
+
+### LogLevel: 
+**Definición:** Controla en nivel de importancia de los mensajes registrados en el fichero de errores (Errorlog). Cuando se configura un nivel, se registrarán todos los mensajes de ese nivel y de niveles superiores, pero no de niveles inferiores. <br/>
+**Valor por defecto:** warn <br/>
+**Lugar donde se encuentra definida:** /etc/apache2/apache2.conf <br/>
+
+### LogFormat: 
+**Definición:** Define un formato personalizado para registrar las peticiones en los ficheros log, <br/>
+**Valor por defecto:** 
+<img width="867" height="100" alt="image" src="https://github.com/user-attachments/assets/6f0d2f82-96db-40cd-a0a2-cfdbd57406bc" /> <br/>
+**Lugar donde se encuentra definida:** /etc/apache2/apache2.conf <br/>
+
 
