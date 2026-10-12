@@ -9,10 +9,10 @@
 **Valor por defecto:** www.example.com <br/>
 **Lugar donde se encuentra definida:** /etc/apache2/sites-available/000-default.conf <br/>
 						
-ServerAdmin:
-	Definición: Dirección de correo del administrador del servidor.
-	Valor por defecto: webmaster@localhost 
-	Lugar donde se encuentra definida: /etc/apache2/sites-available/000-default.conf
+### ServerAdmin:
+**Definición:** Dirección de correo del administrador del servidor.
+**Valor por defecto:** webmaster@localhost 
+**Lugar donde se encuentra definida:** /etc/apache2/sites-available/000-default.conf
 						
 ServerTokens: 
 Definición: Información que Apache va a devolver en la cabecera HTTP cuando responde a peticiones.
