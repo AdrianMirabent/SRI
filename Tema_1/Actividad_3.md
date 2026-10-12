@@ -44,7 +44,7 @@ Esta instrucción apunta a /var/log/apache2/access.log <br/>
 **Lugar donde se encuentra definida:** /etc/apache2/apache2.conf <br/>
 <br/>
 
-## Directivas de control de la conexión
+## Directivas de control de la conexión.
 
 ### Timeout: 
 **Definición:** Tiempo máximo que el servidor espera a que se completen ciertas operaciones de red, antes de interrumpir la conexión y darla por fallida. <br/>
@@ -66,7 +66,7 @@ Esta instrucción apunta a /var/log/apache2/access.log <br/>
 **Valor por defecto:** 5 (segundos) <br/>
 **Lugar donde se encuentra definida:** /etc/apache2/apache2.conf <br/>
 <br/>
-## Otras
+## Otras.
 
 ### LogLevel: 
 **Definición:** Controla en nivel de importancia de los mensajes registrados en el fichero de errores (Errorlog). Cuando se configura un nivel, se registrarán todos los mensajes de ese nivel y de niveles superiores, pero no de niveles inferiores. <br/>
