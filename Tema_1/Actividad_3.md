@@ -3,11 +3,11 @@
 
 ## Directivas de identificación
 
-ServerName:
+### ServerName:
 
-Definición: Nombre del dominio y el puerto que utiliza el servidor. <br/>
-Valor por defecto: www.example.com <br/>
-Lugar donde se encuentra definida: /etc/apache2/sites-available/000-default.conf <br/>
+**Definición:** Nombre del dominio y el puerto que utiliza el servidor. <br/>
+**Valor por defecto:** www.example.com <br/>
+**Lugar donde se encuentra definida:** /etc/apache2/sites-available/000-default.conf <br/>
 						
 ServerAdmin:
 	Definición: Dirección de correo del administrador del servidor.
