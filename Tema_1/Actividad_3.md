@@ -1,7 +1,7 @@
 # Actividad 3
-## Busca información sobre las siguientes directivas, el valor que toman por defecto y el lugar donde se encuentra definida.
+## Busca información sobre las siguientes directivas, el valor que toman por defecto y el lugar donde se encuentran definidas.
 
-## Directivas de identificación
+## Directivas de identificación.
 
 ### ServerName:
 **Definición:** Nombre del dominio y el puerto que utiliza el servidor. <br/>
@@ -19,7 +19,7 @@
 **Lugar donde se encuentra definida:** /etc/apache2/conf-available/security.conf <br/>
 <br/> 
 
-## Directivas de localización de ficheros
+## Directivas de localización de ficheros.
 
 ### DocumentRoot:  
 **Definición:** Directorio raíz desde el cual Apache sirve los documentos web para las peticiones. <br/>
@@ -43,4 +43,26 @@ Esta instrucción apunta a /var/log/apache2/access.log <br/>
 **Valor por defecto:** /etc/apache2 <br/>
 **Lugar donde se encuentra definida:** /etc/apache2/apache2.conf <br/>
 <br/>
-<br/>
+
+## Directivas de control de la conexión
+
+### Timeout: 
+**Definición:** Tiempo máximo que el servidor espera a que se completen ciertas operaciones de red, antes de interrumpir la conexión y darla por fallida. <br/>
+**Valor por defecto:** 300 (segundos) <br/>
+**Lugar donde se encuentra definida:** /etc/apache2/apache2.conf <br/>
+
+### KeepAlive: 
+**Definición:** Determina si el servidor permite conexiones persistentes (permite múltiples peticiones a través de una única conexión TCP). <br/>
+**Valor por defecto:** On <br/>	
+**Lugar donde se encuentra definida:** /etc/apache2/apache2.conf <br/>
+
+### MaxKeepAliveRequests: 
+**Definición:** Número máximo de peticiones permitidas por conexión persistente antes de cerrarla. <br/>
+**Valor por defecto:** 100 <br/>
+**Lugar donde se encuentra definida:** /etc/apache2/apache2.conf <br/>
+
+### KeepAliveTimeout: 
+**Definición:** Tiempo que el servidor espera para recibir una siguiente petición en una conexión persistente antes de cerrarla. <br/>
+**Valor por defecto:** 5 (segundos) <br/>
+**Lugar donde se encuentra definida:** /etc/apache2/apache2.conf <br/>
+
