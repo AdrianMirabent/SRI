@@ -4,7 +4,6 @@
 ## Directivas de identificación
 
 ### ServerName:
-
 **Definición:** Nombre del dominio y el puerto que utiliza el servidor. <br/>
 **Valor por defecto:** www.example.com <br/>
 **Lugar donde se encuentra definida:** /etc/apache2/sites-available/000-default.conf <br/>
@@ -16,7 +15,10 @@
 **Lugar donde se encuentra definida:** /etc/apache2/sites-available/000-default.conf <br/>
 <br/>	
 
-ServerTokens: 
-Definición: Información que Apache va a devolver en la cabecera HTTP cuando responde a peticiones.
-	Valor por defecto: OS
-	Lugar donde se encuentra definida: /etc/apache2/conf-available/security.conf
+### ServerTokens: 
+**Definición:** Información que Apache va a devolver en la cabecera HTTP cuando responde a peticiones. <br/>
+**Valor por defecto:** OS <br/>
+**Lugar donde se encuentra definida:** /etc/apache2/conf-available/security.conf <br/>
+<br/> 
+<br/>
+
