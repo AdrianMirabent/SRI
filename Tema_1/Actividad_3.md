@@ -1,5 +1,5 @@
 # Actividad 3
-## Busca información sobre las siguientes directivas y el valor que toman por defecto y el lugar donde se encuentra definida.
+## Busca información sobre las siguientes directivas, el valor que toman por defecto y el lugar donde se encuentra definida.
 
 ## Directivas de identificación
 
