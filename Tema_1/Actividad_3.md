@@ -3,7 +3,7 @@
 
 ## Directivas de identificación
 
-<p> <big> ServerName: </big> </p>
+ServerName:
 
 Definición: Nombre del dominio y el puerto que utiliza el servidor. <br/>
 Valor por defecto: www.example.com <br/>
