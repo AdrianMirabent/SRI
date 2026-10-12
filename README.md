@@ -16,7 +16,7 @@ Actividades del módulo de Servicios de Red e Internet.
 | ---------- |  -----------  |
 | [Actividad_1](/Tema_1/Actividad_1.md) | Instalación de Apache |
 | [Actividad_2](/Tema_1/Actividad_2.md) | Configuración básica de Apache |
-| [Actividad_3](/Tema_1/Actividad_3.md) | Directivas básicas |
+| [Actividad_3](/Tema_1/Actividad_3.md) | Trabajando con scripts |
 | [Actividad_4](/Tema_1/Actividad_4.md) | Directivas básicas |
 | [Actividad_5](/Tema_1/Actividad_5.md) | Directiva directory|
 | [Actividad_6](/Tema_1/Actividad_6.md) | Expresiones regulares |
