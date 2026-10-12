@@ -19,5 +19,7 @@ Actividades del módulo de Servicios de Red e Internet.
 | [Script_1_de_la_Actividad_2](/Tema_1/scripts/script1.sh) | Añadir un puerto de escucha |
 | [Script_2_de_la_Actividad_2](/Tema_1/scripts/script2.sh) | Añadir un nombre de dominio y una ip |
 | [Script_3_de_la_Actividad_2](/Tema_1/scripts/script3.sh) | Crear una página web |
+| [Actividad_3](/Tema_1/Actividad_3.md) | Directivas básicas 1 |
+
 
 
