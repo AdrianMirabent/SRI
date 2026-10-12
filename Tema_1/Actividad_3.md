@@ -76,7 +76,7 @@ Esta instrucción apunta a /var/log/apache2/access.log <br/>
 ### LogFormat: 
 **Definición:** Define un formato personalizado para registrar las peticiones en los ficheros log, <br/>
 **Valor por defecto:** 
-<img width="867" height="100" alt="image" src="https://github.com/user-attachments/assets/6f0d2f82-96db-40cd-a0a2-cfdbd57406bc" /> <br/>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/6f0d2f82-96db-40cd-a0a2-cfdbd57406bc" /> <br/>
 **Lugar donde se encuentra definida:** /etc/apache2/apache2.conf <br/>
-
+<br/>
 
