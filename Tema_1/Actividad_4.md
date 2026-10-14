@@ -69,3 +69,19 @@ En el archivo /etc/apache2/apache2.conf, tenemos un ejemplo: <br/>
 
 En este ejemplo, la directiva incluida en él se le aplicará a todos los archivos que comiencen por .ht <br/> <br/>
 
+
+## `<Location>` 
+
+**Uso:** <br/>
+Se utiliza para incluir directivas que sólo se aplicarán a la URL nombrada. <br/>
+La variante `<LocationMatch>` admite el uso de comodines complejos. <br/>
+
+**Ejemplo encontrado:** <br/>
+En /etc/apache2/mods-enabled/status.conf, tenemos un ejemplo: <br/>
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/0e3e7665-a6e6-4cea-9ff3-ada2b9996645" />
+
+En este ejemplo, las directivas incluidas en él se aplicará a la URL /server-status. <br/> <br/>
+
+
+
