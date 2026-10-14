@@ -102,7 +102,7 @@ Un fichero .htaccess te permite aplicar directivas de configuración que afectan
 Para nuestro caso que creamos una Virtualhost con dominio aml.com, colocaríamos el archivo dentro del directorio /var/www/aml.com. <br/>
 
 /var/www/aml.com/ <br/>
- --> .htaccess <br/>         
+ --> .htaccess        
  --> index.html <br/>
 
 Para crearlo, escribiríamos los siguiente: <br/>
