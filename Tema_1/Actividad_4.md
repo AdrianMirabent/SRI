@@ -2,7 +2,7 @@
 
 ## Busca información sobre las siguientes directivas. Indica para que se usan y escribe un ejemplo que hayas encontrado.
 
-## <IfModule>
+<IfModule>
 
 **Uso:**<br/> 
 Las directivas que contiene se procesarán condicionadas por la presencia o no de un módulo de Apache.<br/>
