@@ -32,7 +32,7 @@ En este ejemplo, se indica que se cargue el módulo ssl_module y se indica la ru
 ## Include
 
 **Uso:**<br/> 
-Sirve para incluir otros archivos de configuración dentro de otro archivo de configuración de Apache. <br/>
+Sirve para incluir archivos de configuración dentro de otro archivo de configuración de Apache. <br/>
 
 **Ejemplo encontrado:** <br/>
 En el archivo /etc/apache2/apache2.conf tenemos un ejemplo: <br/>
