@@ -46,7 +46,7 @@ Se indica que debe incluir el contenido del archivo ports.conf, que se encuentra
 
 **Uso:** <br/>
 Se utiliza para incluir directivas que sólo se aplicarán al directorio nombrado y a los subdirectorios incluidos en él. <br/>
-La variante <DirectoryMatch> admite el uso de comodines complejos. <br/>
+La variante `<DirectoryMatch>` admite el uso de comodines complejos. <br/>
 
 **Ejemplo encontrado:** <br/>
 En el archivo /etc/apache2/apache2.conf, tenemos un ejemplo: <br/>
