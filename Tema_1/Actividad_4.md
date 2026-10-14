@@ -95,4 +95,28 @@ En /etc/apache2/sites-available/aml.com.conf, tenemos un ejemplo: <br/>
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/46a309d5-9790-4b42-a0af-7df580a9b637" /> <br/> <br/>
 
 
+## ¿Qué son los ficheros .htaccess?
+	
+Un fichero .htaccess te permite aplicar directivas de configuración que afectan únicamente al directorio donde se encuentra y a todos los subdirectorios. <br/>
+
+Para nuestro caso que creamos una Virtualhost con dominio aml.com, colocaríamos el archivo dentro del directorio /var/www/aml.com. <br/>
+
+/var/www/aml.com/
+ 	.htaccess         
+index.html <br/>
+
+Para crearlo, escribiríamos los siguiente: <br/>
+
+sudo nano /var/www/aml.com/.htaccess <br/>
+
+Para que Apache lea ese .htaccess, tienes que definir en el fichero /etc/apache2/sites-available/aml.com.conf la directiva AllowOverride All dentro del bloque `<Directory>`. <br/>
+
+`<Directory /var/www/aml.com>`
+	  ---
+  		  AllowOverride All
+		  --- 
+`</Directory>` <br/>
+
+Si indicamos AllowOverride None, Apache ignora por completo los ficheros .htaccess. <br/> <br/>
+
 
