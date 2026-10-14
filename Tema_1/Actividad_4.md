@@ -1,8 +1,8 @@
-Actividad 2
+# Actividad 2
 
-Busca información sobre las siguientes directivas. Indica para que se usan y escribe un ejemplo que hayas encontrado.
+## Busca información sobre las siguientes directivas. Indica para que se usan y escribe un ejemplo que hayas encontrado.
 
-<IfModule>
+## <IfModule>
 
 Uso: 
 Las directivas que contiene se procesarán condicionadas por la presencia o no de un módulo de Apache. 
