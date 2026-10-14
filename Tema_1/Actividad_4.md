@@ -114,7 +114,7 @@ Para que Apache lea ese .htaccess, tienes que definir en el fichero /etc/apache2
 `<Directory /var/www/aml.com>` <br/>
 	  --- <br/>
   		  AllowOverride All <br/>
-		  --- 
+	   --- <br/>
 `</Directory>` <br/>
 
 Si indicamos AllowOverride None, Apache ignora por completo los ficheros .htaccess. <br/> <br/>
