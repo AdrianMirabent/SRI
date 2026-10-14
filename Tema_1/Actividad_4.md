@@ -92,7 +92,7 @@ Se utiliza para incluir directivas que sólo se aplicarán al servidor que lo co
 **Ejemplo encontrado:** <br/>
 En /etc/apache2/sites-available/aml.com.conf, tenemos un ejemplo: <br/>
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/46a309d5-9790-4b42-a0af-7df580a9b637" /> <br/> <br/>
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/46a309d5-9790-4b42-a0af-7df580a9b637" /> <br/> <br/>
 
 
 
