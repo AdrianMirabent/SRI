@@ -56,3 +56,16 @@ En el archivo /etc/apache2/apache2.conf, tenemos un ejemplo: <br/>
 En este ejemplo, se indica que al directorio /var/www y a todo su contenido se le aplicarán las directivas aquí incluidas. <br/> <br/>
 
 
+## `<Files>` 
+
+**Uso:** <br/>
+Se utiliza para incluir directivas que sólo se aplicarán a un archivo nombrado. <br/>
+La variante `<FilesMatch>` admite el uso de comodines complejos. <br/>
+
+**Ejemplo encontrado:** <br/>
+En el archivo /etc/apache2/apache2.conf, tenemos un ejemplo: <br/>
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/c84df2fa-8b04-44ef-ae17-726e006f45da" />
+
+En este ejemplo, la directiva incluida en él se le aplicará a todos los archivos que comiencen por .ht <br/> <br/>
+
