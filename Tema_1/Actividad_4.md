@@ -24,7 +24,7 @@ Carga módulos de Apache.<br/>
 **Ejemplo encontrado:**<br/>
 En el archivo /etc/apache2/mods-available/ssl.load, tenemos un ejemplo:<br/> 
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/6708246f-f9e3-469d-8400-2cbcda6985b4" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/6708246f-f9e3-469d-8400-2cbcda6985b4" />
 
 En este ejemplo, se indica que se cargue el módulo ssl_module y se indica la ruta absoluta del archivo del módulo. 
 
