@@ -101,8 +101,8 @@ Un fichero .htaccess te permite aplicar directivas de configuración que afectan
 
 Para nuestro caso que creamos una Virtualhost con dominio aml.com, colocaríamos el archivo dentro del directorio /var/www/aml.com. <br/>
 
-/var/www/aml.com/
- 	.htaccess         
+/var/www/aml.com/ <br/>
+ 	.htaccess <br/>         
 index.html <br/>
 
 Para crearlo, escribiríamos los siguiente: <br/>
@@ -111,9 +111,9 @@ sudo nano /var/www/aml.com/.htaccess <br/>
 
 Para que Apache lea ese .htaccess, tienes que definir en el fichero /etc/apache2/sites-available/aml.com.conf la directiva AllowOverride All dentro del bloque `<Directory>`. <br/>
 
-`<Directory /var/www/aml.com>`
-	  ---
-  		  AllowOverride All
+`<Directory /var/www/aml.com>` <br/>
+	  --- <br/>
+  		  AllowOverride All <br/>
 		  --- 
 `</Directory>` <br/>
 
