@@ -26,5 +26,20 @@ En el archivo /etc/apache2/mods-available/ssl.load, tenemos un ejemplo:<br/>
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/6708246f-f9e3-469d-8400-2cbcda6985b4" />
 
-En este ejemplo, se indica que se cargue el módulo ssl_module y se indica la ruta absoluta del archivo del módulo. 
+En este ejemplo, se indica que se cargue el módulo ssl_module y se indica la ruta absoluta del archivo del módulo. <br/> <br/>
+
+
+## Include
+
+**Uso:**<br/> 
+Sirve para incluir otros archivos de configuración dentro de otro archivo de configuración de Apache. <br/>
+
+**Ejemplo encontrado:** <br/>
+En el archivo /etc/apache2/apache2.conf tenemos un ejemplo: <br/>
+
+<img width="494" height="30" alt="image" src="https://github.com/user-attachments/assets/8a9a6970-c7af-4ccb-ad70-d3f9578ae901" />
+
+Se indica que debe incluir el contenido del archivo ports.conf, que se encuentra en /etc/apache2. <br/> <br/>
+
+
 
