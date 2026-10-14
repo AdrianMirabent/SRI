@@ -37,7 +37,7 @@ Sirve para incluir otros archivos de configuración dentro de otro archivo de co
 **Ejemplo encontrado:** <br/>
 En el archivo /etc/apache2/apache2.conf tenemos un ejemplo: <br/>
 
-<img width="494" height="30" alt="image" src="https://github.com/user-attachments/assets/8a9a6970-c7af-4ccb-ad70-d3f9578ae901" />
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/8a9a6970-c7af-4ccb-ad70-d3f9578ae901" />
 
 Se indica que debe incluir el contenido del archivo ports.conf, que se encuentra en /etc/apache2. <br/> <br/>
 
