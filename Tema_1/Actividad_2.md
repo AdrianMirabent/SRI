@@ -171,7 +171,7 @@ La directiva userdir permite habilitar directorios web personales para cada usua
 
 Cuando este módulo está activo, cualquier usuario del sistema puede crear una carpeta llamada public_html dentro de su directorio personal, y todo lo que guarde dentro de ella se publicará automáticamente en la web utilizando la url.
 
-Lo primero que tenemos que hacer es activar el módulo userdir.
+Lo primero que tenemos que hacer es activar el módulo userdir. Y recargamos el servicio Apache. 
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/bb8c55a6-d11e-4144-b944-8ff9614a142b" />
 
