@@ -187,7 +187,7 @@ Le damos permisos de ejecución a otros para que Apache pueda leerlo.
 
 Comprobamos que podemos acceder al contenido del archivo del usuario desde el navegador.
 
-<img width="550" alt="image" src="https://github.com/user-attachments/assets/cd544b9f-d129-4953-80d5-5a798638d3f0" />
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/cd544b9f-d129-4953-80d5-5a798638d3f0" />
 <br>
 
 
