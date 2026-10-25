@@ -209,7 +209,7 @@ Recargamos el servicio Apache con sudo systemctl reload apache2.
 
 Probamos desde el navegador.
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/b122085f-1e63-4bf0-aa94-d2bddf4c2e91" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/b122085f-1e63-4bf0-aa94-d2bddf4c2e91" />
 <br>
 
 ## 10. ¿Para que sirve la directiva Options y donde aparece? Comprueba si apache indexa los directorios. Si es así, ¿cómo lo desactivamos?
