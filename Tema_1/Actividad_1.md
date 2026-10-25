@@ -27,7 +27,7 @@ Ya tenemos el servidor web Apache funcional. Ahora vamos a instalar MySQL, que e
 
 <img width="698" height="20" alt="image" src="https://github.com/user-attachments/assets/aed1e70b-14f3-4265-b61e-c3b72645ef5b" />
 
-A continuación ejecutamos una secuencia preestablecida de comandos que elimina algunos ajustes predeterminados poco seguros. Solo hemos aceptado que recarguen las tablas de privilegios (4º y última opción). Las demás opciones las dejamos en no por comodidad.
+A continuación ejecutamos una secuencia preestablecida de comandos que elimina algunos ajustes predeterminados poco seguros. Solo hemos aceptado que recarguen las tablas de privilegios (5º y última opción). Las demás opciones las dejamos en no por comodidad.
 
 <img width="654" height="18" alt="image" src="https://github.com/user-attachments/assets/bdcb3610-44f3-4e7a-ae76-363e77a38f99" />
 
