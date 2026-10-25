@@ -148,7 +148,7 @@ Y vemos que se redirige a http://localhost/prueba2.
 
 Sí, es posible. Para comprobarlo, primero en /var/www/html vamos a crear en la carpeta prueba2 otro archivo html (que vamos a llamar test.html).
 
-<img width="550" alt="image" src="https://github.com/user-attachments/assets/6e97c3ad-7f48-4167-9b50-c63e11dadcba" />
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/6e97c3ad-7f48-4167-9b50-c63e11dadcba" />
 
 Luego vamos a configurar que la redirección sea de /prueba a /prueba2/test.html. Para eso, nos situamos en el directorio /etc/apache2. Y abrimos el archivo apache2.conf. Introducimos lo siguiente al final. 
 
