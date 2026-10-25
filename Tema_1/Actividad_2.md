@@ -51,7 +51,7 @@ Si entramos en el archivo security.conf, vemos que hay varias opciones de Server
 
 Tenemos las siguientes opciones: 
 * Full: Muestra la máxima información posible.
-* OS: Muestra la versión de Apache y el nombr del sistema operativo.
+* OS: Muestra la versión de Apache y el nombre del sistema operativo.
 * Minimal: Envía únicamente el nombre y versión del servidor.
 * Minor: Muestra el nombre del servidor y la versión principal y secundaria.
 * Major: Muestra el nombre del servidor y la versión principal del servidor.
