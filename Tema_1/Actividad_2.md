@@ -47,7 +47,7 @@ Nos situamos en el directorio /etc/apache2/conf-available, que contiene archivos
 
 Uno de estos archivos es el security.conf, enfocado a endurecer la seguridad del servidor. 
 
-Si entramos en el archivo security.conf, vemos que hay varias opciones de ServerTokens. Determina la información que el servidor Apache va a devolver en la cabecera HTTP cuando responde a peticiones. Viene predeterminada la opción ServerTokens OS. 
+Si entramos en el archivo security.conf, vemos que hay varias opciones de ServerTokens. Determina la información que Apache va a devolver en la cabecera HTTP en el apartado Server cuando responde a peticiones. Viene predeterminada la opción ServerTokens OS. 
 
 Tenemos las siguientes opciones: 
 * Full: Muestra la máxima información posible.
