@@ -150,7 +150,7 @@ Sí, es posible. Para comprobarlo, primero en /var/www/html vamos a crear en la 
 
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/6e97c3ad-7f48-4167-9b50-c63e11dadcba" />
 
-Luego vamos a configurar que la redirección sea de /prueba a /prueba2/test.html. Para eso, nos situamos en el directorio /etc/apache2. Y abrimos el archivo apache2.conf. Introducimos lo siguiente al final. 
+Luego vamos a configurar que la redirección sea de /prueba a /prueba2/test.html. Para eso, nos situamos en el directorio /etc/apache2. Y abrimos el archivo apache2.conf. Borramos la anterior redirección e introducimos lo siguiente. 
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/70b81d88-8aaf-4568-99c8-c50f9ff9aca3" />
 
