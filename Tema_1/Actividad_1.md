@@ -52,7 +52,7 @@ Una vez terminada la instalación, ejecutamos el siguiente comando para confirma
 
 <img width="670" height="90" alt="image" src="https://github.com/user-attachments/assets/e15d5e77-da9f-4075-8599-57152a1e655f" />
 
-Con este paso, la instalación de la máquina LAMP. 
+Con este paso, la instalación de la máquina LAMP ya está completada. 
 <br>
 
 ## PASO 4. CREACIÓN DE UN HOST VIRTUAL.
