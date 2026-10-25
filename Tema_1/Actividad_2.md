@@ -205,7 +205,7 @@ Ahora creamos en /home/adrian/Documentos el archivo index.html, con el siguiente
 
 Recargamos el servicio Apache con sudo systemctl reload apache2.
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/3ba3a88d-eb06-40ca-9fce-2db41a455814" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/417bef98-780e-407b-9b8d-cac06cb94230" />
 
 Probamos desde el navegador.
 
