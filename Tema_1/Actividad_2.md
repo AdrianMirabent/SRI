@@ -233,6 +233,8 @@ Indexar se refiere a la capacidad del servidor de mostrar automáticamente una p
 
 El archivo debe ejecutarse con sudo, ya que vamos a modificar un archivo protegido del sistema. 
 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/941e6567-ede1-48e8-b5c9-adc88fa1ef9d" />
+
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/370623c4-a649-4555-ba5c-ff6cd7c0aab2" />
 <br>
 
