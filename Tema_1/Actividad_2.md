@@ -261,7 +261,7 @@ Nos vamos al navegador web y comprobamos que Apache puede escuchar por el puerto
 
 El archivo debe ejecutarse con sudo, ya que vamos a modificar un archivo protegido del sistema. 
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/679bcab8-42bf-4b87-941b-fff1c566e9a8" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/4f62fe9f-96e1-42f8-8cf6-020e91efbc64" />
 
 Si nos vamos ahora al directorio /etc y abrimos el archivo hosts, vemos que se ha introducido una nueva línea al final del fichero.
 
