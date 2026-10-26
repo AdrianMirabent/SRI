@@ -255,7 +255,7 @@ Nos vamos al navegador web y comprobamos que Apache puede escuchar por el puerto
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/eafb74a6-bb78-45b2-abed-bf4bc63d7a59" />
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/3128f55b-b029-445b-9419-2e0db8ad16dd" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/3128f55b-b029-445b-9419-2e0db8ad16dd" />
 
 <br>
 
