@@ -255,7 +255,8 @@ Nos vamos al navegador web y comprobamos que Apache puede escuchar por el puerto
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/eafb74a6-bb78-45b2-abed-bf4bc63d7a59" />
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/14e49961-35b7-4727-8c68-054a881a67b8" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/3128f55b-b029-445b-9419-2e0db8ad16dd" />
+
 <br>
 
 El archivo debe ejecutarse con sudo, ya que vamos a modificar un archivo protegido del sistema. 
