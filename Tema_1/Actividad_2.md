@@ -265,7 +265,7 @@ El archivo debe ejecutarse con sudo, ya que vamos a modificar un archivo protegi
 
 Si nos vamos ahora al directorio /etc y abrimos el archivo hosts, vemos que se ha introducido una nueva línea al final del fichero.
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/616e20ea-c6be-41a6-9a27-3352cb0b3f41" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/1897e848-93dd-437f-a229-339e91260412" />
 <br>
 
 ## 3. Crea un script que nos permita crear una página web con un título, una cabecera y un mensaje
