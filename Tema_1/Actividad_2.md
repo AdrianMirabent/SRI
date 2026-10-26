@@ -235,8 +235,7 @@ El archivo debe ejecutarse con sudo, ya que vamos a modificar un archivo protegi
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/941e6567-ede1-48e8-b5c9-adc88fa1ef9d" />
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/370623c4-a649-4555-ba5c-ff6cd7c0aab2" />
-<br>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/eb93fbec-85b8-454e-b2fa-78f536048c38" />
 
 Ahora nos vamos al directorio /etc/apache2/ y abrimos el fichero ports.conf. Vemos que al final se ha añadido en nuevo puerto.
 
