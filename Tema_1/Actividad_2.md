@@ -273,6 +273,11 @@ Vamos al navegador y comprobamos que podemos acceder al dominio local prueba.
 <img width="600"  alt="image" src="https://github.com/user-attachments/assets/472ba1fe-d48d-47ed-bd9e-20995ce9cad7" />
 <br>
 
+Por último vamos a intentar introducir de nuevo el dominio prueba. Vemos que no nos deja porque ya existe en el fichero hosts. 
+
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/48a43570-de7e-4dfd-8e25-6d0398616ebf" />
+<br>
+
 ## 3. Crea un script que nos permita crear una página web con un título, una cabecera y un mensaje
 
 Vamos a crear el fichero.
