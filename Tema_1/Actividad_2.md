@@ -244,6 +244,8 @@ Ahora nos vamos al directorio /etc/apache2/ y abrimos el fichero ports.conf. Vem
 
 Nos vamos al navegador web y comprobamos que Apache puede escuchar por el puerto 85. 
 
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/e8e47a63-34d6-4fd7-91a4-30325ca4c8ad" />
+
 
 ## 2. Crea un script que añada una ip y un nombre de dominio al fichero hosts. Debemos de comprobar que no existe dicho dominio en el fichero hosts.
 
