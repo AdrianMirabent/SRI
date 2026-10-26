@@ -283,7 +283,7 @@ Vamos a crear el fichero.
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/aaa0933d-9b95-4306-91d5-eb8a45af57ae" />
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/40bd6d9e-e978-419a-947c-bf3e1a2920bb" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/e8a8b093-67ae-46e3-8bf8-d99f82f13d97" />
 
 Ahora lo vamos a probar. 
 
