@@ -268,6 +268,11 @@ Si nos vamos ahora al directorio /etc y abrimos el archivo hosts, vemos que se h
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/1897e848-93dd-437f-a229-339e91260412" />
 <br>
 
+Vamos al navegador y comprobamos que podemos acceder al dominio local prueba.
+
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/472ba1fe-d48d-47ed-bd9e-20995ce9cad7" />
+<br>
+
 ## 3. Crea un script que nos permita crear una página web con un título, una cabecera y un mensaje
 
 Vamos a crear el fichero.
