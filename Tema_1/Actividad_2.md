@@ -229,7 +229,7 @@ Indexar se refiere a la capacidad del servidor de mostrar automáticamente una p
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/974e43a7-a850-4dbb-9c55-5cec57de2674" />
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/5623a26a-545a-4630-a9b1-d7b7aeda678f" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/5623a26a-545a-4630-a9b1-d7b7aeda678f" />
 
 El archivo debe ejecutarse con sudo, ya que vamos a modificar un archivo protegido del sistema. 
 
@@ -255,7 +255,7 @@ Nos vamos al navegador web y comprobamos que Apache puede escuchar por el puerto
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/eafb74a6-bb78-45b2-abed-bf4bc63d7a59" />
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/70d97238-41dd-470f-81d9-67be6c18ae08" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/70d97238-41dd-470f-81d9-67be6c18ae08" />
 <br>
 
 El archivo debe ejecutarse con sudo, ya que vamos a modificar un archivo protegido del sistema. 
@@ -283,7 +283,7 @@ Vamos a crear el fichero.
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/aaa0933d-9b95-4306-91d5-eb8a45af57ae" />
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/e8a8b093-67ae-46e3-8bf8-d99f82f13d97" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/e8a8b093-67ae-46e3-8bf8-d99f82f13d97" />
 
 Ahora lo vamos a probar. 
 
