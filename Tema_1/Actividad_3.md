@@ -24,7 +24,7 @@
 ### DocumentRoot:  
 **Definición:** Directorio raíz desde el cual Apache sirve los documentos web para las peticiones. <br/>
 **Valor por defecto:** /var/www/html <br/>
-**Lugar donde se encuentra definida:**  /etc/apache2/sites-available/000-default.conf <br/>
+**Lugar donde se encuentra definida:**  /etc/apache2/sites-available/000-default.conf <br/> (Lo que dijo el profesor fue: )
 
 ### ErrorLog:
 **Definición:** Ruta del fichero donde se registran los errores. <br/>
@@ -47,17 +47,17 @@ Esta instrucción apunta a /var/log/apache2/access.log <br/>
 ## Directivas de control de la conexión.
 
 ### Timeout: 
-**Definición:** Tiempo máximo que el servidor espera a que se completen ciertas operaciones de red, antes de interrumpir la conexión y darla por fallida. <br/>
+**Definición:** Tiempo máximo que el servidor espera a que se completen ciertas operaciones de red, antes de interrumpir la conexión y darla por fallida. Cantidad de tiempo que el servidor esperará para que ocurra determinados eventos antes de cerrar una petición <br/>
 **Valor por defecto:** 300 (segundos) <br/>
 **Lugar donde se encuentra definida:** /etc/apache2/apache2.conf <br/>
 
 ### KeepAlive: 
-**Definición:** Determina si el servidor permite conexiones persistentes (permite múltiples peticiones a través de una única conexión TCP). <br/>
+**Definición:** Permite que se puedan enviar múltiples peticiones sobre la misma conexión TCP <br/>
 **Valor por defecto:** On <br/>	
 **Lugar donde se encuentra definida:** /etc/apache2/apache2.conf <br/>
 
 ### MaxKeepAliveRequests: 
-**Definición:** Número máximo de peticiones permitidas por conexión persistente antes de cerrarla. <br/>
+**Definición:** Limita el número de peticiones permitidas por conexión <br/>
 **Valor por defecto:** 100 <br/>
 **Lugar donde se encuentra definida:** /etc/apache2/apache2.conf <br/>
 
@@ -69,7 +69,7 @@ Esta instrucción apunta a /var/log/apache2/access.log <br/>
 ## Otras.
 
 ### LogLevel: 
-**Definición:** Controla en nivel de importancia de los mensajes registrados en el fichero de errores (Errorlog). Cuando se configura un nivel, se registrarán todos los mensajes de ese nivel y de niveles superiores, pero no de niveles inferiores. <br/>
+**Definición:** Controla en nivel de importancia de los mensajes registrados en el fichero de errores (Errorlog). Cuando se configura un nivel, se registrarán todos los mensajes de ese nivel y de niveles superiores, pero no de niveles inferiores. Indica el nivel de verborrea de Apache. <br/>
 **Valor por defecto:** warn <br/>
 **Lugar donde se encuentra definida:** /etc/apache2/apache2.conf <br/>
 
