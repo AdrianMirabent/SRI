@@ -52,6 +52,7 @@ La variante `<DirectoryMatch>` admite el uso de comodines complejos. <br/>
 En el archivo /etc/apache2/apache2.conf, tenemos un ejemplo: <br/>
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/b02585d4-c0ea-4417-b66f-b4b30e024d58" />
+(En la versión corregida por el profesor, en el atributo de Options se elimina el indexes)
 
 En este ejemplo, se indica que al directorio /var/www y a todo su contenido se le aplicarán las directivas aquí incluidas. <br/> <br/>
 
