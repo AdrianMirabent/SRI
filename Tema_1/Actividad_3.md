@@ -22,7 +22,7 @@
 ## Directivas de localización de ficheros.
 
 ### DocumentRoot:  
-**Definición:** Directorio raíz desde el cual Apache sirve los documentos web para las peticiones. <br/>
+**Uso:** Es la directiva en servidores web (como Apache o Nginx) que define la carpeta raíz del servidor desde la cual se sirven los archivos visibles para los usuarios cuando acceden a un dominio o dirección IP. <br/>
 **Valor por defecto:** /var/www/html <br/>
 **Lugar donde se encuentra definida:**  /etc/apache2/sites-available/000-default.conf <br/> (Lo que dijo el profesor fue: )
 
