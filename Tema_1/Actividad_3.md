@@ -4,12 +4,12 @@
 ## Directivas de identificación.
 
 ### ServerName:
-**Uso:** Se utiliza principalmente en servidores web como Apache para definir el nombre de dominio principal y el puerto que un host virtual (VirtualHost) para identificarse ante los clientes.  <br/>
+**Uso:** Se utiliza principalmente en servidores web como Apache para definir el nombre de dominio principal y el puerto que un host virtual (VirtualHost) utiliza para identificarse ante los clientes. <br/>
 **Valor por defecto:** www.example.com <br/>
 **Lugar donde se encuentra definida:** /etc/apache2/sites-available/000-default.conf <br/>
 
 ### ServerAdmin:
-**Definición:** Dirección de correo del administrador del servidor. <br/>
+**Uso:** Se usa para definir la dirección de correo electrónico de contacto que el servidor incluirá en los mensajes de error enviados al usuario.  <br/>
 **Valor por defecto:** webmaster@localhost <br/>
 **Lugar donde se encuentra definida:** /etc/apache2/sites-available/000-default.conf <br/>
 
