@@ -4,7 +4,7 @@
 ## Directivas de identificación.
 
 ### ServerName:
-**Definición:** Nombre del dominio y el puerto que utiliza el servidor. <br/>
+**Uso:** Se utiliza principalmente en servidores web como Apache para definir el nombre de dominio principal y el puerto que un host virtual (VirtualHost) para identificarse ante los clientes.  <br/>
 **Valor por defecto:** www.example.com <br/>
 **Lugar donde se encuentra definida:** /etc/apache2/sites-available/000-default.conf <br/>
 
