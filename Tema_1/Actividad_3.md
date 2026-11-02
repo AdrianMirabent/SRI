@@ -14,7 +14,7 @@
 **Lugar donde se encuentra definida:** /etc/apache2/sites-available/000-default.conf <br/>
 
 ### ServerTokens: 
-**Definición:** Información que Apache va a devolver en la cabecera HTTP cuando responde a peticiones. <br/>
+**Uso:** De Apache. Sirve para controlar qué información sobre el software del servidor se muestra en la cabecera Server: de las respuestas HTTP. <br/>
 **Valor por defecto:** OS <br/>
 **Lugar donde se encuentra definida:** /etc/apache2/conf-available/security.conf <br/>
 <br/> 
