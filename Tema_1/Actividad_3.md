@@ -47,34 +47,35 @@ Esta instrucción apunta a /var/log/apache2/access.log <br/>
 ## Directivas de control de la conexión.
 
 ### Timeout: 
-**Definición:** Tiempo máximo que el servidor espera a que se completen ciertas operaciones de red, antes de interrumpir la conexión y darla por fallida. Cantidad de tiempo que el servidor esperará para que ocurra determinados eventos antes de cerrar una petición <br/>
+**Uso:** Se utiliza para definir el tiempo máximo de espera (en segundos) que el servidor aguardará para ciertas operaciones antes de abortar la conexión. <br/>
 **Valor por defecto:** 300 (segundos) <br/>
 **Lugar donde se encuentra definida:** /etc/apache2/apache2.conf <br/>
 
 ### KeepAlive: 
-**Definición:** Permite que se puedan enviar múltiples peticiones sobre la misma conexión TCP <br/>
+**Uso:** Sirve para mantener una conexión de red (generalmente TCP o HTTP) abierta durante un periodo de tiempo, permitiendo que se reutilice para múltiples peticiones sin necesidad de abrir y cerrar una nueva conexión en cada intercambio.  <br/>
 **Valor por defecto:** On <br/>	
 **Lugar donde se encuentra definida:** /etc/apache2/apache2.conf <br/>
 
 ### MaxKeepAliveRequests: 
-**Definición:** Limita el número de peticiones permitidas por conexión <br/>
+**Uso:** Establece el número máximo de solicitudes permitidas en una sola conexión persistente. <br/>
 **Valor por defecto:** 100 <br/>
 **Lugar donde se encuentra definida:** /etc/apache2/apache2.conf <br/>
 
 ### KeepAliveTimeout: 
-**Definición:** Tiempo que el servidor espera para recibir una siguiente petición en una conexión persistente antes de cerrarla. <br/>
+**Uso:** Define el tiempo (en segundos o milisegundos) que el servidor espera para recibir una siguiente petición del cliente a través de la misma conexión TCP persistente, antes de cerrarla.  <br/>
 **Valor por defecto:** 5 (segundos) <br/>
 **Lugar donde se encuentra definida:** /etc/apache2/apache2.conf <br/>
 <br/>
+
 ## Otras.
 
 ### LogLevel: 
-**Definición:** Controla en nivel de importancia de los mensajes registrados en el fichero de errores (Errorlog). Cuando se configura un nivel, se registrarán todos los mensajes de ese nivel y de niveles superiores, pero no de niveles inferiores. Indica el nivel de verborrea de Apache. <br/>
+**Uso:** Controla en nivel de importancia de los mensajes registrados en el fichero de errores (ErrorLog). Cuando se configura un nivel, se registrarán todos los mensajes de ese nivel y de niveles superiores, pero no de niveles inferiores. Indica el nivel de verborrea de Apache.  <br/>
 **Valor por defecto:** warn <br/>
 **Lugar donde se encuentra definida:** /etc/apache2/apache2.conf <br/>
 
 ### LogFormat: 
-**Definición:** Define un formato personalizado para registrar las peticiones en los ficheros log, <br/>
+**Uso:** Se utiliza para definir el formato en el que se almacenarán las peticiones en los archivos de registro (logs) de accesos. <br/>
 **Valor por defecto:** <br/>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/6f0d2f82-96db-40cd-a0a2-cfdbd57406bc" /> <br/>
 **Lugar donde se encuentra definida:** /etc/apache2/apache2.conf <br/>
