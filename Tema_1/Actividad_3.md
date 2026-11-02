@@ -27,7 +27,7 @@
 **Lugar donde se encuentra definida:**  /etc/apache2/sites-available/000-default.conf <br/> (Lo que dijo el profesor fue: )
 
 ### ErrorLog:
-**Definición:** Ruta del fichero donde se registran los errores. <br/>
+**Uso:** Es un registro de texto generado automáticamente por servidores web (como Apache o PHP), bases de datos (como SQL Server) o aplicaciones para documentar fallos, advertencias y eventos críticos en tiempo real. <br/>
 **Valor por defecto:** ${APACHE_LOG_DIR}/error.log <br/>
 Esta instrucción apunta a /var/log/apache2/error.log <br/>
 **Lugar donde se encuentra definida:** /etc/apache2/sites-available/000-default.conf <br/>
