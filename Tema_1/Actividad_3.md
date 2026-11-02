@@ -33,13 +33,13 @@ Esta instrucción apunta a /var/log/apache2/error.log <br/>
 **Lugar donde se encuentra definida:** /etc/apache2/sites-available/000-default.conf <br/>
 
 ### CustomLog:	
-**Definición:** Ruta del fichero donde se registran las peticiones de los clientes. <br/>
+**Uso:** En el servidor web Apache HTTP Server se utiliza para registrar las peticiones y los accesos que recibe el servidor en un archivo específico. <br/>
 **Valor por defecto:** ${APACHE_LOG_DIR}/access.log combined <br/>
 Esta instrucción apunta a /var/log/apache2/access.log <br/>
 **Lugar donde se encuentra definida:** /etc/apache2/sites-available/000-default.conf <br/>
 
 ### ServerRoot:	
-**Definición:** El directorio raíz donde reside la instalación del servidor. <br/>
+**Uso:** En el servidor web Apache define el directorio raíz en el que se encuentra instalado el servidor. <br/>
 **Valor por defecto:** /etc/apache2 <br/>
 **Lugar donde se encuentra definida:** /etc/apache2/apache2.conf <br/>
 <br/>
