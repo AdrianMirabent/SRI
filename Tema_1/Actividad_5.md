@@ -8,6 +8,8 @@ Creo dos carpetas que se llaman dir1 y dir2 en /var/www
 
 ## 2. Explica qué diferencia existe entre ambos y muestra su equivalencia con la directiva Require:
 
+En estos casos, se hace uso de las directivas Order, Deny y Allow.
+
 <img width="514" height="225" alt="image" src="https://github.com/user-attachments/assets/79a88e79-6a76-4f34-95b5-3e2f73b2a623" />
 
 La diferencia radica en el orden en el que Apache va a permitir/denegar el acceso en este ejemplo concreto. 
@@ -51,6 +53,6 @@ Vamos a trabajar dentro de etc/apache2/apache2.conf:
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/9706052c-d4c7-4c27-b271-9e3ade2b84fa" /><br><br>
 
 
-## 4. Modifica la configuración de forma que el acceso a dir1:
+## 4. Modifica la configuración de forma que el acceso a dir1 se permita a "marisma.intranet" y no se permita desde "10.3.0.101".
 
 ## 5. Modifica la configuración de forma que el acceso a dir2:
