@@ -83,7 +83,7 @@ Usando la directiva Require:
 
 Usando las directivas  Order, Deny y Allow:
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/199c68df-9cec-4f22-9af9-f08c73d87aa2" />
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/199c68df-9cec-4f22-9af9-f08c73d87aa2" />
 
 Usando la directiva Require:
 
@@ -93,6 +93,8 @@ Usando la directiva Require:
 ## 5. Modifica la configuración de forma que el acceso a dir2:
 
 Usando las directivas  Order, Deny y Allow:
+
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/d087a655-d3bc-4a11-94f2-9d0723ab500d" />
 
 Usando la directiva Require:
 
