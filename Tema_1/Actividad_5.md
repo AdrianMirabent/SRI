@@ -48,7 +48,7 @@ Vamos a trabajar dentro de etc/apache2/apache2.conf:
 
 ### d. Permite el acceso de las peticiones provenientes de "10.3.0.101".
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/9706052c-d4c7-4c27-b271-9e3ade2b84fa" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/9706052c-d4c7-4c27-b271-9e3ade2b84fa" /><br><br>
 
 
 ## 4. Modifica la configuración de forma que el acceso a dir1:
