@@ -16,6 +16,7 @@ La diferencia radica en el orden en el que Apache va a permitir/denegar el acces
 
 * En el segundo caso primero permitirá todo el acceso de forma predeterminada y luego denegará el acceso a todos excepto a 192.168.1.100.
 
+
 La equivalencia con la directiva Require del primer bloque sería: <br>
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/2b3b65f1-9de8-4a9b-9b44-132f4c568ec2" />
