@@ -19,7 +19,7 @@ La diferencia radica en el orden en el que Apache va a permitir/denegar el acces
 La equivalencia con la directiva Require del primer bloque sería: <br>
 <Directory /var/www/example> <br>
   Require ip 192.168.1.100 <br>
-</Directory>
+</Directory><br>
 
 ## 3. Para dir1
 Vamos a trabajar dentro de etc/apache2/apache2.conf:
