@@ -1,6 +1,6 @@
 # Actividad 1.5
 
-## 1. Crea un directorio llamado "dir1" y otro llamado "dir2"
+## 1. Crea un directorio llamado "dir1" y otro llamado "dir2".
 
 Creo dos carpetas que se llaman dir1 y dir2 en /var/www 
 
@@ -31,8 +31,11 @@ Por defecto, será denegado todo acceso. <br><br>
 
 
 ## 3. Para dir1
+
 Vamos a trabajar dentro de etc/apache2/apache2.conf:
-a. Permite el acceso de las peticiones provenientes de 10.3.0.100
+
+### a. Permite el acceso de las peticiones provenientes de 10.3.0.100
+
 <img width="156" height="45" alt="image" src="https://github.com/user-attachments/assets/dc5b200b-777e-4a9c-bdab-4a25f122c265" />
 
 
