@@ -40,7 +40,7 @@ Vamos a trabajar dentro de etc/apache2/apache2.conf:
 
 Usando las directivas  Order, Deny y Allow:
 
-
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/357dc23c-f68a-48b4-a3b2-64b23a134a06" />
 
 Usando la directiva Require:
 
