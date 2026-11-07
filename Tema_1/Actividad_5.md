@@ -38,6 +38,12 @@ Vamos a trabajar dentro de etc/apache2/apache2.conf:
 
 <img width="156" height="45" alt="image" src="https://github.com/user-attachments/assets/dc5b200b-777e-4a9c-bdab-4a25f122c265" />
 
+### b. Permite el acceso desde "marisma.intranet".
+
+### c. Permite el acceso desde cualquier subdominio de "marisma.intranet".
+
+### d. Permite el acceso de las peticiones provenientes de "10.3.0.101".
+
 
 
 
