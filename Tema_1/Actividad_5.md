@@ -25,7 +25,7 @@ Por defecto, cualquier ip que no coincida con la regla Require tendrá el acceso
 
 La equivalencia con la directiva Require del segundo bloque sería: <br>
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/2152ceab-59bf-4122-a59a-002f5104da81" />
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/2152ceab-59bf-4122-a59a-002f5104da81" />
 
 Por defecto, será denegado todo acceso. <br><br>
 
@@ -36,20 +36,19 @@ Vamos a trabajar dentro de etc/apache2/apache2.conf:
 
 ### a. Permite el acceso de las peticiones provenientes de 10.3.0.100
 
-<img width="560" height="94" alt="image" src="https://github.com/user-attachments/assets/8cfe1f5d-400f-48c9-89f0-243eaf508af8" />
-
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/8cfe1f5d-400f-48c9-89f0-243eaf508af8" />
 
 ### b. Permite el acceso desde "marisma.intranet".
 
-<img width="565" height="102" alt="image" src="https://github.com/user-attachments/assets/95d39309-ceb8-4c32-add5-d9638dc25fd5" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/95d39309-ceb8-4c32-add5-d9638dc25fd5" />
 
 ### c. Permite el acceso desde cualquier subdominio de "marisma.intranet".
 
-<img width="581" height="100" alt="image" src="https://github.com/user-attachments/assets/a66e11cc-5229-4944-a008-128b62c1a5ab" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/a66e11cc-5229-4944-a008-128b62c1a5ab" />
 
 ### d. Permite el acceso de las peticiones provenientes de "10.3.0.101".
 
-<img width="579" height="99" alt="image" src="https://github.com/user-attachments/assets/9706052c-d4c7-4c27-b271-9e3ade2b84fa" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/9706052c-d4c7-4c27-b271-9e3ade2b84fa" />
 
 
 ## 4. Modifica la configuración de forma que el acceso a dir1:
