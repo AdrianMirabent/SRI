@@ -83,6 +83,8 @@ Usando la directiva Require:
 
 Usando las directivas  Order, Deny y Allow:
 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/199c68df-9cec-4f22-9af9-f08c73d87aa2" />
+
 Usando la directiva Require:
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/429cf07f-c96f-4c20-9345-2c619e81b05c" />
