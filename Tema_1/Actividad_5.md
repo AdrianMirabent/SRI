@@ -1,4 +1,4 @@
-# Actividad 1.5
+# Actividad 5
 
 ## 1. Crea un directorio llamado "dir1" y otro llamado "dir2".
 
