@@ -12,9 +12,9 @@ Creo dos carpetas que se llaman dir1 y dir2 en /var/www
 
 La diferencia radica en el orden en el que Apache va a permitir/denegar el acceso en este ejemplo concreto. 
 
-En el primer caso, primero denegará todo el acceso de forma predeterminada y luego permitirá la conexión desde 192.168.1.100.
+* En el primer caso, primero denegará todo el acceso de forma predeterminada y luego permitirá la conexión desde 192.168.1.100.
 
-En el segundo caso primero permitirá todo el acceso de forma predeterminada y luego denegará el acceso a todos excepto a 192.168.1.100.
+* En el segundo caso primero permitirá todo el acceso de forma predeterminada y luego denegará el acceso a todos excepto a 192.168.1.100.
 
 
 ## 3. Para dir1
