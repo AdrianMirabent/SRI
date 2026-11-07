@@ -36,19 +36,19 @@ Vamos a trabajar dentro de etc/apache2/apache2.conf:
 
 ### a. Permite el acceso de las peticiones provenientes de 10.3.0.100
 
-<img width="350" alt="image" src="https://github.com/user-attachments/assets/8cfe1f5d-400f-48c9-89f0-243eaf508af8" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/8cfe1f5d-400f-48c9-89f0-243eaf508af8" />
 
 ### b. Permite el acceso desde "marisma.intranet".
 
-<img width="350" alt="image" src="https://github.com/user-attachments/assets/95d39309-ceb8-4c32-add5-d9638dc25fd5" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/95d39309-ceb8-4c32-add5-d9638dc25fd5" />
 
 ### c. Permite el acceso desde cualquier subdominio de "marisma.intranet".
 
-<img width="350" alt="image" src="https://github.com/user-attachments/assets/a66e11cc-5229-4944-a008-128b62c1a5ab" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a66e11cc-5229-4944-a008-128b62c1a5ab" />
 
 ### d. Permite el acceso de las peticiones provenientes de "10.3.0.101".
 
-<img width="350" alt="image" src="https://github.com/user-attachments/assets/9706052c-d4c7-4c27-b271-9e3ade2b84fa" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/9706052c-d4c7-4c27-b271-9e3ade2b84fa" />
 
 
 ## 4. Modifica la configuración de forma que el acceso a dir1:
