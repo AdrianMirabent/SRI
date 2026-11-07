@@ -87,7 +87,7 @@ Usando las directivas  Order, Deny y Allow:
 
 Usando la directiva Require:
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/429cf07f-c96f-4c20-9345-2c619e81b05c" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/429cf07f-c96f-4c20-9345-2c619e81b05c" /><br><br>
 
 
 ## 5. Modifica la configuración de forma que el acceso a dir2:
@@ -98,7 +98,7 @@ Usando las directivas  Order, Deny y Allow:
 
 Usando la directiva Require:
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/6e0c76ea-5044-4045-bb65-13bdcb3f2b76" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/6e0c76ea-5044-4045-bb65-13bdcb3f2b76" /><br><br>
 
 
 
