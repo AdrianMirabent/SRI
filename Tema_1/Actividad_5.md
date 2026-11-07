@@ -27,7 +27,7 @@ La equivalencia con la directiva Require del segundo bloque sería: <br>
 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/2152ceab-59bf-4122-a59a-002f5104da81" />
 
-Por defecto, será denegado todo acceso. <br>
+Por defecto, será denegado todo acceso. <br><br>
 
 
 ## 3. Para dir1
