@@ -1,11 +1,12 @@
 # Actividad 1.5
 
 ## 1. Crea un directorio llamado "dir1" y otro llamado "dir2"
-Creo dos carpetas que se llaman dir1 y dir2 en /var/www
-
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/96581c79-01ec-4756-bb01-0f8d335b6b2b" />
+Creo dos carpetas que se llaman dir1 y dir2 en /var/www <br>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/96581c79-01ec-4756-bb01-0f8d335b6b2b" /><br>
 
 ## 2. Explica qué diferencia existe entre ambos y muestra su equivalencia con la directiva Require:
+<img width="514" height="225" alt="image" src="https://github.com/user-attachments/assets/79a88e79-6a76-4f34-95b5-3e2f73b2a623" />
+
 `<Directory /var/www/example1>
 Order Deny,Allow
 Deny from All
