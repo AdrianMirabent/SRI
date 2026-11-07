@@ -40,34 +40,40 @@ Vamos a trabajar dentro de etc/apache2/apache2.conf:
 
 Usando las directivas  Order, Deny y Allow:
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/8cfe1f5d-400f-48c9-89f0-243eaf508af8" />
+
 
 Usando la directiva Require:
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/8cfe1f5d-400f-48c9-89f0-243eaf508af8" />
 
 ### b. Permite el acceso desde "marisma.intranet".
 
 Usando las directivas  Order, Deny y Allow:
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/95d39309-ceb8-4c32-add5-d9638dc25fd5" />
 
 Usando la directiva Require:
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/95d39309-ceb8-4c32-add5-d9638dc25fd5" />
+
 
 ### c. Permite el acceso desde cualquier subdominio de "marisma.intranet".
 
 Usando las directivas  Order, Deny y Allow:
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/a66e11cc-5229-4944-a008-128b62c1a5ab" />
 
 Usando la directiva Require:
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a66e11cc-5229-4944-a008-128b62c1a5ab" />
 
 
 ### d. Permite el acceso de las peticiones provenientes de "10.3.0.101".
 
 Usando las directivas  Order, Deny y Allow:
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/9706052c-d4c7-4c27-b271-9e3ade2b84fa" /><br><br>
 
 Usando la directiva Require:
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/9706052c-d4c7-4c27-b271-9e3ade2b84fa" /><br><br>
 
 
 ## 4. Modifica la configuración de forma que el acceso a dir1 se permita a "marisma.intranet" y no se permita desde "10.3.0.101".
