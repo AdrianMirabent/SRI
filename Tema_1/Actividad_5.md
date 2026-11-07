@@ -1,7 +1,9 @@
 # Actividad 1.5
 
 ## 1. Crea un directorio llamado "dir1" y otro llamado "dir2"
-Creo dos carpetas que se llaman dir1 y dir2 en /var/www <br>
+
+Creo dos carpetas que se llaman dir1 y dir2 en /var/www 
+
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/96581c79-01ec-4756-bb01-0f8d335b6b2b" /><br>
 
 ## 2. Explica qué diferencia existe entre ambos y muestra su equivalencia con la directiva Require:
