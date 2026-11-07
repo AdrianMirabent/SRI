@@ -17,9 +17,12 @@ La diferencia radica en el orden en el que Apache va a permitir/denegar el acces
 * En el segundo caso primero permitirá todo el acceso de forma predeterminada y luego denegará el acceso a todos excepto a 192.168.1.100.
 
 La equivalencia con la directiva Require del primer bloque sería: <br>
-<Directory /var/www/example> <br>
-  Require ip 192.168.1.100 <br>
-</Directory><br>
+<img width="605" height="103" alt="image" src="https://github.com/user-attachments/assets/2b3b65f1-9de8-4a9b-9b44-132f4c568ec2" />
+Por defecto, cualquier ip que no coincida con la regla Require tendrá el acceso denegado.
+La equivalencia con la directiva Require del segundo bloque sería: <br>
+<img width="499" height="95" alt="image" src="https://github.com/user-attachments/assets/2152ceab-59bf-4122-a59a-002f5104da81" />
+Por defecto, será denegado todo acceso.
+
 
 ## 3. Para dir1
 Vamos a trabajar dentro de etc/apache2/apache2.conf:
