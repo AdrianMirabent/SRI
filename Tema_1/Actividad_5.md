@@ -4,7 +4,7 @@
 
 Creo dos carpetas que se llaman dir1 y dir2 en /var/www 
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/96581c79-01ec-4756-bb01-0f8d335b6b2b" /><br>
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/96581c79-01ec-4756-bb01-0f8d335b6b2b" /><br><br>
 
 ## 2. Explica qué diferencia existe entre ambos y muestra su equivalencia con la directiva Require:
 
@@ -14,7 +14,7 @@ La diferencia radica en el orden en el que Apache va a permitir/denegar el acces
 
 * En el primer caso, primero denegará todo el acceso de forma predeterminada y luego permitirá la conexión desde 192.168.1.100.
 
-* En el segundo caso primero permitirá todo el acceso de forma predeterminada y luego denegará el acceso a todos excepto a 192.168.1.100.
+* En el segundo caso primero permitirá todo el acceso de forma predeterminada y luego denegará el acceso a todos excepto a 192.168.1.100. <br>
 
 
 La equivalencia con la directiva Require del primer bloque sería: <br>
@@ -27,7 +27,7 @@ La equivalencia con la directiva Require del segundo bloque sería: <br>
 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/2152ceab-59bf-4122-a59a-002f5104da81" />
 
-Por defecto, será denegado todo acceso.
+Por defecto, será denegado todo acceso. <br>
 
 
 ## 3. Para dir1
