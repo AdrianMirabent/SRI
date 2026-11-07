@@ -50,6 +50,7 @@ Usando la directiva Require:
 
 Usando las directivas  Order, Deny y Allow:
 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/b2f5d928-bc42-4857-b701-64a03d8d3f18" />
 
 Usando la directiva Require:
 
