@@ -16,7 +16,7 @@ La diferencia radica en el orden en el que Apache va a permitir/denegar el acces
 
 * En el segundo caso primero permitirá todo el acceso de forma predeterminada y luego denegará el acceso a todos excepto a 192.168.1.100.
 
-La equivalencia con la directiva Require del primer bloque sería: 
+La equivalencia con la directiva Require del primer bloque sería: <br>
 <Directory /var/www/example> <br>
   Require ip 192.168.1.100 <br>
 </Directory>
