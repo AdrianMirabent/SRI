@@ -50,11 +50,11 @@ Para que recoja los dos tipos de números, será:
 
 Un código de color de 24 bits está compuesto por 6 caracteres hexadecimales (por ejemplo: #FF5733). Utiliza los números del 0 al 9 y letras de la A a la F.
 
-^#[a-fA-F0-9]{6}$
+    ^#[a-fA-F0-9]{6}$
 
 Y un código de 32 bits está compuesto por 8 caracteres (por ejemplo: #FF573388).
 
-^#[a-fA-F0-9]{8}$
+    ^#[a-fA-F0-9]{8}$
 
 Para que recoja los dos casos, tenemos que poner: 
 
