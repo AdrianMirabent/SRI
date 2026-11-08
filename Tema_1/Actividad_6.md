@@ -141,10 +141,10 @@ Para que contemple todas las opciones, quedaría:
 
 ## Resumen Expresiones regulares.
 
-<img width="777" height="781" alt="image" src="https://github.com/user-attachments/assets/f6c09691-87ad-463a-931c-bb16538adb99" />
-<img width="777" height="342" alt="image" src="https://github.com/user-attachments/assets/87b668b3-dc60-4178-adfb-7f8f080023f2" />
-<img width="777" height="197" alt="image" src="https://github.com/user-attachments/assets/f279c661-48ea-4b44-bae8-2599f7da9b22" />
-<img width="777" height="291" alt="image" src="https://github.com/user-attachments/assets/43026072-5d10-4068-9fa7-4e712bca02ae" />
+<img width="720" height="730" alt="image" src="https://github.com/user-attachments/assets/cf2959e2-ea80-43f3-984b-da2933b62a13" />
+<img width="720" height="334" alt="image" src="https://github.com/user-attachments/assets/53b28beb-cbd1-47c6-b05e-67d98c78d694" />
+<img width="720" height="186" alt="image" src="https://github.com/user-attachments/assets/4bdf27a8-0077-4f45-b877-9665a8547fda" />
+<img width="720" height="277" alt="image" src="https://github.com/user-attachments/assets/eeda9554-e77e-40ca-baf0-6845eeb55a54" />
 
 
 
