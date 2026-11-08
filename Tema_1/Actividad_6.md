@@ -12,7 +12,7 @@
 
 ### Escribe una directiva para redireccionar todos los GIF a ficheros JPEG en otro servidor.
 
-  RedirectMatch ^/(.*)\.gif$ http://otroservidor.com/$1.jpeg
+        RedirectMatch ^/(.*)\.gif$ http://otroservidor.com/$1.jpeg
 
 ### Números enteros y decimales. 
 
