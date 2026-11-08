@@ -48,12 +48,12 @@
 
 
 
-## Expresiones regulares.
+## Resumen Expresiones regulares.
 
 <img width="777" height="781" alt="image" src="https://github.com/user-attachments/assets/f6c09691-87ad-463a-931c-bb16538adb99" />
 <img width="777" height="342" alt="image" src="https://github.com/user-attachments/assets/87b668b3-dc60-4178-adfb-7f8f080023f2" />
 <img width="777" height="197" alt="image" src="https://github.com/user-attachments/assets/f279c661-48ea-4b44-bae8-2599f7da9b22" />
-<img width="774" height="291" alt="image" src="https://github.com/user-attachments/assets/43026072-5d10-4068-9fa7-4e712bca02ae" />
+<img width="777" height="291" alt="image" src="https://github.com/user-attachments/assets/43026072-5d10-4068-9fa7-4e712bca02ae" />
 
 
 
