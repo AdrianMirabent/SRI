@@ -6,13 +6,16 @@
 
     ^/www/\d{3}$
 
+
 ### Ficheros: *.gif, *.jpeg, *.jpg, *.png
 
     ^.+\.(gif|jpe?g|png)$
 
+
 ### Escribe una directiva para redireccionar todos los GIF a ficheros JPEG en otro servidor.
 
         RedirectMatch ^/(.*)\.gif$ http://otroservidor.com/$1.jpeg
+
 
 ### Números enteros y decimales. 
 
@@ -33,6 +36,7 @@ Para que recoja los dos tipos de números, será:
 
         ^\d{3}-\d{3}-\d{4}$
 
+
 ### Palabras.
 
         ^[A-Za-z]+$
@@ -40,6 +44,7 @@ Para que recoja los dos tipos de números, será:
 [A-Z] contiene todas las letras mayúsculas del alfabeto inglés y [a-z] contiene todas las letras minúsculas. Pero no contempla las letras con acento ni la ñ. Si queremos que se contemple, hay que introducir esta mejora. 
 
         ^[A-Za-zÁÉÍÓÚáéíóúÑñ]+$
+
 
 ### Códigos hexadecimales de color de 24 o 32 bits.
 
