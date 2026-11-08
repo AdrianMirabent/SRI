@@ -104,17 +104,17 @@ Un email tiene tres partes principales:
 
 ejemplo: adrian2004@gmail.com
 
-    • La [parte local] permite letras (a-z, A-Z), números (0-9) y algunos caracteres especiales como el punto, guion bajo, porcentaje, más  y guion medio.
+• La [parte local] permite letras (a-z, A-Z), números (0-9) y algunos caracteres especiales como el punto, guion bajo, porcentaje, más  y guion medio.
       
-              [a-zA-Z0-9._%+-]+ 
+[a-zA-Z0-9._%+-]+ 
       
-    • El [dominio] permite letras, números, punto y guion medio.
+• El [dominio] permite letras, números, punto y guion medio.
       	
-              [a-zA-Z0-9.-]
+[a-zA-Z0-9.-]
       	
-    • La [extensión] permite letras con una longitud habitual de 2 a 6 caracteres (como mínimo 2 y sin un máximo estricto).
+• La [extensión] permite letras con una longitud habitual de 2 a 6 caracteres (como mínimo 2 y sin un máximo estricto).
       
-	        [a-zA-Z]{2,}
+[a-zA-Z]{2,}
 
 La expresión final con todos los componentes quedaría: 
 
