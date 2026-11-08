@@ -90,7 +90,7 @@ Usando la directiva Require:
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/429cf07f-c96f-4c20-9345-2c619e81b05c" /><br><br>
 
 
-## 5. Modifica la configuración de forma que el acceso a dir2:
+## 5. Modifica la configuración de forma que el acceso a dir2 se permita a "10.3.0.100/8" y no a "marisma.intranet".
 
 Usando las directivas  Order, Deny y Allow:
 
