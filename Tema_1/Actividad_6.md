@@ -2,17 +2,31 @@
 
 ## Escribe las expresiones regulares para los siguientes supuestos:
 
-
 ### Directorios en /www/ cuyo nombre consista en tres dígitos.
 
+   ^/www/\d{3}$
 
 ### Ficheros: *.gif, *.jpeg, *.jpg, *.png
 
+  ^.+\.(gif|jpe?g|png)$
 
 ### Escribe una directiva para redireccionar todos los GIF a ficheros JPEG en otro servidor.
 
+RedirectMatch ^/(.*)\.gif$ http://otroservidor.com/$1.jpeg
 
 ### Números enteros y decimales. 
+
+Los números enteros son los que no tienen parte decimal, pueden ser positivos o negativos.
+
+	^[+-]?\d+$
+
+Los números decimales son los que tienen parte decimal, pueden ser positivos o negativos. 
+
+	^[+-]?\d+(\.\d+)$
+
+Para que recoja los dos tipos de números, será:
+
+	^[+-]?\d+(\.\d+)?$
 
 
 ### Números de teléfono en el formato americano: 123-123-1234.
