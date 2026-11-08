@@ -110,7 +110,7 @@ ejemplo: adrian2004@gmail.com
       
 • El [dominio] permite letras, números, punto y guion medio.
       	
-[a-zA-Z0-9.-]
+[a-zA-Z0-9.-]+
       	
 • La [extensión] permite letras con una longitud habitual de 2 a 6 caracteres (como mínimo 2 y sin un máximo estricto).
       
