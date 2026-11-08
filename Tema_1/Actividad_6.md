@@ -21,11 +21,11 @@
 
 Los números enteros son los que no tienen parte decimal, pueden ser positivos o negativos.
 
-    ^[+-]?\d+$
+ ^[+-]?\d+$
 
 Los números decimales son los que tienen parte decimal, pueden ser positivos o negativos. 
 
-    ^[+-]?\d+(\.\d+)$
+^[+-]?\d+(\.\d+)$
 
 Para que recoja los dos tipos de números, será:
 
