@@ -4,11 +4,11 @@
 
 ### Directorios en /www/ cuyo nombre consista en tres dígitos.
 
-  ^/www/\d{3}$
+    ^/www/\d{3}$
 
 ### Ficheros: *.gif, *.jpeg, *.jpg, *.png
 
-  ^.+\.(gif|jpe?g|png)$
+    ^.+\.(gif|jpe?g|png)$
 
 ### Escribe una directiva para redireccionar todos los GIF a ficheros JPEG en otro servidor.
 
