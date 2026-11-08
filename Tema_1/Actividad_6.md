@@ -63,14 +63,23 @@ Para que recoja los dos casos, tenemos que poner:
 
 ### Palabras de 4 letras.
 
+        ^[A-Za-z]{4}$
+
+De forma más completa, sería: 
+
+        ^[A-Za-zÁÉÍÓÚáéíóúÑñ]{4}$
+
 
 ### Número entero sin signo.
+
 
 
 ### Número entero con signo. 
 
 
+
 ### Números reales.
+
 
 
 ### Números reales con exponente. 
