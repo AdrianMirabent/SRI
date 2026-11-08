@@ -72,26 +72,71 @@ De forma más completa, sería:
 
 ### Número entero sin signo.
 
+Los números enteros son los que no tienen parte decimal, pueden ser positivos o negativos.
+
+        ^\d+$
 
 
 ### Número entero con signo. 
 
+        ^[+-]\d+$
 
 
 ### Números reales.
 
+Los números reales incluyen a los números enteros y a los decimales, y además añade a los números iracionales  (por ejemplo el número pi, con infinitos decimales). Es decir, los números reales incluyen los enteros (ejemplo: -3), los decimales (ejemplo: 4.17) y los irracionales (3.14159…).
+
+        ^[+-]?\d+(\.\d+)?$
 
 
 ### Números reales con exponente. 
 
+La notación científica de los números reales con exponente es: -3.2E+4 ó 1.5e-10. Teniendo en cuenta esto, se puede expresar de la siguiente forma:
+
+        ^[+-]?\d+(\.\d+)?([Ee][+-]?\d+)?$
 
 
 ### Email.
 
+Un email tiene tres partes principales:
+
+[parte local]@[dominio].[extensión]
+
+ejemplo: adrian2004@gmail.com
+
+    • La [parte local] permite letras (a-z, A-Z), números (0-9) y algunos caracteres especiales como el punto, guion bajo, porcentaje, más  y guion medio.
+      
+              [a-zA-Z0-9._%+-]+ 
+      
+    • El [dominio] permite letras, números, punto y guion medio.
+      	
+              [a-zA-Z0-9.-]
+      	
+    • La [extensión] permite letras con una longitud habitual de 2 a 6 caracteres (como mínimo 2 y sin un máximo estricto).
+      
+	        [a-zA-Z]{2,}
+
+La expresión final con todos los componentes quedaría: 
+
+        ^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$ 
 
 
 ### Números del 0 al 255.
 
+Vamos a hacerlo por partes:
+
+números de 0 al 99		[1-9]?[0-9]	–>	[1-9]?\d
+
+números de 100 a 199		1[0-9][0-9]	–>	1\d\d
+
+números del 200 al 249	2[0-4][0-9]	–>	2[0-4]\d
+
+números del 250 al 255	25[0-5]	–>	25[0-5]
+
+
+Para que contemple todas las opciones, quedaría: 
+        
+        ^([1-9]?\d|1\d\d|2[0-4]\d|25[0-5])$ 
 
 
 ## Resumen Expresiones regulares.
