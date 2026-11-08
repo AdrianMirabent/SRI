@@ -5,7 +5,7 @@
 ### Directorios en /www/ cuyo nombre consista en tres dígitos.
 
     ^/www/\d{3}$
-
+<br>
 ### Ficheros: *.gif, *.jpeg, *.jpg, *.png
 
     ^.+\.(gif|jpe?g|png)$
