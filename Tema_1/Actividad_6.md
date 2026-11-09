@@ -1,6 +1,56 @@
 # Actividad 6
+Lleva a cabo los problemas planteados en la web:
+http://regexone.com
+
+
 
 ## Escribe las expresiones regulares para los siguientes supuestos:
+<img width="484" height="50" alt="image" src="https://github.com/user-attachments/assets/3dbae5bb-ca45-47e1-a9b0-0a9f84e6d825" />
+
+<img width="867" height="363" alt="image" src="https://github.com/user-attachments/assets/99ed6cf4-e83c-4ec7-9f60-ac764028afbb" />
+
+
+
+<img width="279" height="55" alt="image" src="https://github.com/user-attachments/assets/940289e5-d3ad-4364-9369-9722195ea267" />
+
+
+<img width="854" height="285" alt="image" src="https://github.com/user-attachments/assets/c9dc9841-b407-4d3c-a9ed-88b47255e828" />
+
+<img width="235" height="50" alt="image" src="https://github.com/user-attachments/assets/ada41548-5241-43f1-b5f9-2424de799883" />
+
+<img width="847" height="279" alt="image" src="https://github.com/user-attachments/assets/afad9257-eb2c-44b3-809e-4dc89700d18e" />
+
+<img width="473" height="61" alt="image" src="https://github.com/user-attachments/assets/3478759a-d720-4357-ba91-164a63e105db" />
+
+<img width="857" height="354" alt="image" src="https://github.com/user-attachments/assets/a41fa6be-78da-4c43-85ed-43f7fc5087ed" />
+
+<img width="529" height="47" alt="image" src="https://github.com/user-attachments/assets/da1f1726-0639-4531-a404-2ba3c1149274" />
+
+<img width="852" height="257" alt="image" src="https://github.com/user-attachments/assets/e221b1a8-ac7f-4e47-a7ef-e92f136f189b" />
+
+<img width="327" height="42" alt="image" src="https://github.com/user-attachments/assets/effc364e-462a-4f41-96a7-454cd7f560c3" />
+
+<img width="740" height="353" alt="image" src="https://github.com/user-attachments/assets/0a19fc04-e516-4572-ae21-43c457d910e0" />
+
+<img width="385" height="58" alt="image" src="https://github.com/user-attachments/assets/6f751e5d-613a-4559-bb28-92908dec8335" />
+
+<img width="741" height="245" alt="image" src="https://github.com/user-attachments/assets/4306252a-dd71-4be5-9300-82e7fe3185d0" />
+
+<img width="406" height="56" alt="image" src="https://github.com/user-attachments/assets/dab32f41-754f-4349-8185-7afd0d119bd5" />
+
+<img width="727" height="271" alt="image" src="https://github.com/user-attachments/assets/7cb0701b-ae3c-4609-abd2-e7f26fec40bf" />
+
+<img width="366" height="45" alt="image" src="https://github.com/user-attachments/assets/d1b8c448-b69e-489b-b01f-959053bc2035" />
+
+<img width="753" height="287" alt="image" src="https://github.com/user-attachments/assets/efe7dce4-d81a-4831-8fa8-bb973b015ab4" />
+
+<img width="358" height="51" alt="image" src="https://github.com/user-attachments/assets/aad2be13-15f8-41ab-9c8c-dec5046c00ac" />
+
+<img width="746" height="274" alt="image" src="https://github.com/user-attachments/assets/f9af60b7-cec6-4766-9246-0feee6901c26" />
+
+<img width="383" height="56" alt="image" src="https://github.com/user-attachments/assets/cc1c44b3-66e3-4e8b-9fa4-0d9e8d9c0dba" />
+
+<img width="750" height="251" alt="image" src="https://github.com/user-attachments/assets/09023157-e611-4a7f-a99b-6b70e75329e2" />
 
 ### Directorios en /www/ cuyo nombre consista en tres dígitos.
 
