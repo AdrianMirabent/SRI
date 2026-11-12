@@ -5,72 +5,72 @@ http://regexone.com
 
 
 ## Escribe las expresiones regulares para los siguientes supuestos:
-<img width="484" height="50" alt="image" src="https://github.com/user-attachments/assets/3dbae5bb-ca45-47e1-a9b0-0a9f84e6d825" />
+<img width="484" height="50" alt="image" src="https://github.com/user-attachments/assets/3dbae5bb-ca45-47e1-a9b0-0a9f84e6d825" /> <!-- Enunciado 1
 
 <img width="867" height="363" alt="image" src="https://github.com/user-attachments/assets/99ed6cf4-e83c-4ec7-9f60-ac764028afbb" />
 
 
 
-<img width="279" height="55" alt="image" src="https://github.com/user-attachments/assets/940289e5-d3ad-4364-9369-9722195ea267" />
+<img width="279" height="55" alt="image" src="https://github.com/user-attachments/assets/940289e5-d3ad-4364-9369-9722195ea267" /> Enunciado 1/2
 
 
 <img width="854" height="285" alt="image" src="https://github.com/user-attachments/assets/c9dc9841-b407-4d3c-a9ed-88b47255e828" />
 
-<img width="235" height="50" alt="image" src="https://github.com/user-attachments/assets/ada41548-5241-43f1-b5f9-2424de799883" />
+<img width="235" height="50" alt="image" src="https://github.com/user-attachments/assets/ada41548-5241-43f1-b5f9-2424de799883" /> Enunciado 2
 
 <img width="847" height="279" alt="image" src="https://github.com/user-attachments/assets/afad9257-eb2c-44b3-809e-4dc89700d18e" />
 
-<img width="473" height="61" alt="image" src="https://github.com/user-attachments/assets/3478759a-d720-4357-ba91-164a63e105db" />
+<img width="473" height="61" alt="image" src="https://github.com/user-attachments/assets/3478759a-d720-4357-ba91-164a63e105db" /> Enunciado 3
 
 <img width="857" height="354" alt="image" src="https://github.com/user-attachments/assets/a41fa6be-78da-4c43-85ed-43f7fc5087ed" />
 
-<img width="529" height="47" alt="image" src="https://github.com/user-attachments/assets/da1f1726-0639-4531-a404-2ba3c1149274" />
+<img width="529" height="47" alt="image" src="https://github.com/user-attachments/assets/da1f1726-0639-4531-a404-2ba3c1149274" /> Enunciado 4
 
 <img width="852" height="257" alt="image" src="https://github.com/user-attachments/assets/e221b1a8-ac7f-4e47-a7ef-e92f136f189b" />
 
-<img width="327" height="42" alt="image" src="https://github.com/user-attachments/assets/effc364e-462a-4f41-96a7-454cd7f560c3" />
+<img width="327" height="42" alt="image" src="https://github.com/user-attachments/assets/effc364e-462a-4f41-96a7-454cd7f560c3" /> Enunciado 5
 
 <img width="740" height="353" alt="image" src="https://github.com/user-attachments/assets/0a19fc04-e516-4572-ae21-43c457d910e0" />
 
-<img width="385" height="58" alt="image" src="https://github.com/user-attachments/assets/6f751e5d-613a-4559-bb28-92908dec8335" />
+<img width="385" height="58" alt="image" src="https://github.com/user-attachments/assets/6f751e5d-613a-4559-bb28-92908dec8335" /> Enunciado 6
 
-<img width="741" height="245" alt="image" src="https://github.com/user-attachments/assets/4306252a-dd71-4be5-9300-82e7fe3185d0" />
+<img width="875" height="297" alt="image" src="https://github.com/user-attachments/assets/421786a6-3cb0-4fbc-a162-6ec98b294e37" />
 
-<img width="406" height="56" alt="image" src="https://github.com/user-attachments/assets/dab32f41-754f-4349-8185-7afd0d119bd5" />
+<img width="406" height="56" alt="image" src="https://github.com/user-attachments/assets/dab32f41-754f-4349-8185-7afd0d119bd5" /> Enunciado 7   
 
 <img width="727" height="271" alt="image" src="https://github.com/user-attachments/assets/7cb0701b-ae3c-4609-abd2-e7f26fec40bf" />
 
-<img width="366" height="45" alt="image" src="https://github.com/user-attachments/assets/d1b8c448-b69e-489b-b01f-959053bc2035" />
+<img width="366" height="45" alt="image" src="https://github.com/user-attachments/assets/d1b8c448-b69e-489b-b01f-959053bc2035" /> Enunciado 8
 
 <img width="753" height="287" alt="image" src="https://github.com/user-attachments/assets/efe7dce4-d81a-4831-8fa8-bb973b015ab4" />
 
-<img width="358" height="51" alt="image" src="https://github.com/user-attachments/assets/aad2be13-15f8-41ab-9c8c-dec5046c00ac" />
+<img width="358" height="51" alt="image" src="https://github.com/user-attachments/assets/aad2be13-15f8-41ab-9c8c-dec5046c00ac" /> Enunciado 9
 
-<img width="746" height="274" alt="image" src="https://github.com/user-attachments/assets/f9af60b7-cec6-4766-9246-0feee6901c26" />
+<img width="746" height="274" alt="image" src="https://github.com/user-attachments/assets/f9af60b7-cec6-4766-9246-0feee6901c26" /> 
 
-<img width="383" height="56" alt="image" src="https://github.com/user-attachments/assets/cc1c44b3-66e3-4e8b-9fa4-0d9e8d9c0dba" />
+<img width="383" height="56" alt="image" src="https://github.com/user-attachments/assets/cc1c44b3-66e3-4e8b-9fa4-0d9e8d9c0dba" /> Enunciado 10
 
-<img width="750" height="251" alt="image" src="https://github.com/user-attachments/assets/09023157-e611-4a7f-a99b-6b70e75329e2" />
+<img width="857" height="247" alt="image" src="https://github.com/user-attachments/assets/40da1743-317d-4d7f-a43f-c4a9868d7661" />
 
-<img width="402" height="83" alt="image" src="https://github.com/user-attachments/assets/c9c67086-fc2b-4c24-8126-cfca0611d976" />
+<img width="327" height="47" alt="image" src="https://github.com/user-attachments/assets/575325c9-cbdd-489b-9c98-019f184c5a90" /> Enunciado 11
 
-<img width="1056" height="322" alt="image" src="https://github.com/user-attachments/assets/09344c32-3d47-4303-9605-29fadf51f513" />
+<img width="858" height="256" alt="image" src="https://github.com/user-attachments/assets/05401016-5e6f-4daf-a5d6-b64047b75481" />
 
-<img width="395" height="67" alt="image" src="https://github.com/user-attachments/assets/47b6b524-974b-4162-80e0-9125b143ab78" />
+<img width="321" height="50" alt="image" src="https://github.com/user-attachments/assets/f6cb040d-e529-4c44-8fd4-20a4089d1e86" /> Enunciado 12
 
-<img width="1058" height="366" alt="image" src="https://github.com/user-attachments/assets/aa904b53-f5c1-4770-a5da-ade7d0ff3092" />
+<img width="844" height="260" alt="image" src="https://github.com/user-attachments/assets/e19e69f5-0bb0-4468-990e-f4bc10eba2c1" />
 
-<img width="428" height="66" alt="image" src="https://github.com/user-attachments/assets/12f8cddf-14f3-4ada-855c-99fa6e669df1" />
+<img width="349" height="52" alt="image" src="https://github.com/user-attachments/assets/d8f17641-bd1c-4c4d-a493-b35623f8ef33" /> Enunciado 13
 
-<img width="1062" height="320" alt="image" src="https://github.com/user-attachments/assets/31b9bef4-ea33-4d8c-9617-cbfdf85e0646" />
+<img width="843" height="260" alt="image" src="https://github.com/user-attachments/assets/80b2d171-efd4-48e4-9d2e-27bd6b786874" />
 
-<img width="444" height="57" alt="image" src="https://github.com/user-attachments/assets/6e47776f-b31e-47c2-bce0-ed67f35941f2" />
+<img width="351" height="64" alt="image" src="https://github.com/user-attachments/assets/85bec24d-4b0b-4df4-ab51-44aec1c30196" /> Enunciado 14
 
-<img width="1059" height="350" alt="image" src="https://github.com/user-attachments/assets/5fea82ed-6f98-4cdb-8766-28c88c5d4846" />
+<img width="842" height="279" alt="image" src="https://github.com/user-attachments/assets/ff7a516f-9707-4e13-ba54-626497b02122" />
 
-<img width="538" height="62" alt="image" src="https://github.com/user-attachments/assets/2eb3c809-210f-4231-8def-3c4d963a9540" />
+<img width="456" height="57" alt="image" src="https://github.com/user-attachments/assets/a6249a0f-30c2-477d-90c2-27fe43a2968b" /> Enunciado 15
 
-<img width="1052" height="308" alt="image" src="https://github.com/user-attachments/assets/f15de447-05a0-4bab-a3b7-4c23eac6630e" />
+<img width="849" height="253" alt="image" src="https://github.com/user-attachments/assets/a21e48fc-1ae0-4999-9ce3-923a0ffff6ed" />
 
 
 ### Directorios en /www/ cuyo nombre consista en tres dígitos.
