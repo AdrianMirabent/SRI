@@ -52,6 +52,27 @@ http://regexone.com
 
 <img width="750" height="251" alt="image" src="https://github.com/user-attachments/assets/09023157-e611-4a7f-a99b-6b70e75329e2" />
 
+<img width="402" height="83" alt="image" src="https://github.com/user-attachments/assets/c9c67086-fc2b-4c24-8126-cfca0611d976" />
+
+<img width="1056" height="322" alt="image" src="https://github.com/user-attachments/assets/09344c32-3d47-4303-9605-29fadf51f513" />
+
+<img width="395" height="67" alt="image" src="https://github.com/user-attachments/assets/47b6b524-974b-4162-80e0-9125b143ab78" />
+
+<img width="1058" height="366" alt="image" src="https://github.com/user-attachments/assets/aa904b53-f5c1-4770-a5da-ade7d0ff3092" />
+
+<img width="428" height="66" alt="image" src="https://github.com/user-attachments/assets/12f8cddf-14f3-4ada-855c-99fa6e669df1" />
+
+<img width="1062" height="320" alt="image" src="https://github.com/user-attachments/assets/31b9bef4-ea33-4d8c-9617-cbfdf85e0646" />
+
+<img width="444" height="57" alt="image" src="https://github.com/user-attachments/assets/6e47776f-b31e-47c2-bce0-ed67f35941f2" />
+
+<img width="1059" height="350" alt="image" src="https://github.com/user-attachments/assets/5fea82ed-6f98-4cdb-8766-28c88c5d4846" />
+
+<img width="538" height="62" alt="image" src="https://github.com/user-attachments/assets/2eb3c809-210f-4231-8def-3c4d963a9540" />
+
+<img width="1052" height="308" alt="image" src="https://github.com/user-attachments/assets/f15de447-05a0-4bab-a3b7-4c23eac6630e" />
+
+
 ### Directorios en /www/ cuyo nombre consista en tres dígitos.
 
     ^/www/\d{3}$
