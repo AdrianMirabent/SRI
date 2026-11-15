@@ -27,14 +27,14 @@ Actividades del módulo de Servicios de Red e Internet.
 ## Practica Servidores Web 1er Trimestre
 | Apartado  |  Descripción  |
 | ---------- |  -----------  |
-| [Punto 0](/Tema_1/Actividad0.md) | Preparación de la máquina virtual |
-| [Punto 1](/Tema_1/Actividad_1.md) | Instalación del servidor web Apache |
-| [Punto 2](/Tema_1/Actividad_3.md) | Instalación de PHP y MySQL |
-| [Punto 3](/Tema_1/Actividad_4) | Instalación y configuración de WordPress |
-| [Punto 4](/Tema_1/scripts/script3.sh) | Activación del módulo WSGI |
-| [Punto 5](/Tema_1/Actividad_3.md) | Creación de una aplicación python |
-| [Punto 6](/Tema_1/Actividad_4.md) | Acceso a la aplicación python mediante autenticación |
-| [Punto 7](/Tema_1/Actividad_5.md) | Instalación y configuración de AWStats |
-| [Punto 8](/Tema_1/Actividad_6.md) | Instalación de un segundo servidor web con Nginx |
+| [Punto 0](/Proyecto_Primer_Trimestre/Punto_0.md) | Preparación de la máquina virtual |
+| [Punto 1](/Proyecto_Primer_Trimestre/Punto_1.md) | Instalación del servidor web Apache |
+| [Punto 2](/Proyecto_Primer_Trimestre/Punto_2.md) | Instalación de PHP y MySQL |
+| [Punto 3](/Proyecto_Primer_Trimestre/Punto_3.md) | Instalación y configuración de WordPress |
+| [Punto 4](/Proyecto_Primer_Trimestre/Punto_4.md) | Activación del módulo WSGI |
+| [Punto 5](/Proyecto_Primer_Trimestre/Punto_5.md) | Creación de una aplicación python |
+| [Punto 6](/Proyecto_Primer_Trimestre/Punto_6.md) | Acceso a la aplicación python mediante autenticación |
+| [Punto 7](/Proyecto_Primer_Trimestre/Punto_7.md) | Instalación y configuración de AWStats |
+| [Punto 8](/Proyecto_Primer_Trimestre/Punto_8.md) | Instalación de un segundo servidor web con Nginx |
 
 
