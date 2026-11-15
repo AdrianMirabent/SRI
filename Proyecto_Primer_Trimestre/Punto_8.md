@@ -64,6 +64,27 @@ Por último, me voy al navegador y escribo http://servidor2.centro.intranet:8080
 
 <img height="250" alt="image" src="https://github.com/user-attachments/assets/6c41abf7-380b-40ce-b9c0-ab86e62efa3c" />
 
+## 3º Instalación de phpMyAdmin.
+
+Vamos a instalar phpMyAdmin.
+
+<img height="25" alt="image" src="https://github.com/user-attachments/assets/bb1386e7-ac8e-4b39-9589-9ce2bb113c30" />
+
+Comienza la instalación. Pulsamos siempre ENTER en el teclado. Y termina la instalación.
+
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/9f9496a8-1545-4f5b-ab7e-324844fd32f5" />
+
+<img height="250" alt="image" src="https://github.com/user-attachments/assets/c174c9dc-85e7-4cf2-8809-ee3c974663af" />
+
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/d3607f73-8d38-44b5-b7de-bd554c794cae" />
+
+Ahora creamos un enlace simbólico desde la ruta de phpMyAdmin hasta la carpeta raiz del servidor servidor2.centro.intranet.
+
+<img  height="25" alt="image" src="https://github.com/user-attachments/assets/13ebe9b9-cf4c-4af7-a0f8-502f136d3a88" />
+
+Ahora nos vamos al navegador y escribimos lo siguiente: http://servidor2.centro.intranet:8080/phpmyadmin. Vemos que todo es correcto.
+
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/0b3f8455-f024-4fd6-8c95-6c8bc7dbbce7" />
 
 
 
