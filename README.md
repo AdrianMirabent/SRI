@@ -24,6 +24,17 @@ Actividades del módulo de Servicios de Red e Internet.
 | [Actividad_5](/Tema_1/Actividad_5.md) | Directiva directory |
 | [Actividad_6](/Tema_1/Actividad_6.md) | Expresiones regulares |
 
-
+## Practica Servidores Web 1er Trimestre
+| Apartado  |  Descripción  |
+| ---------- |  -----------  |
+| [Punto 0](/Tema_1/Actividad0.md) | Preparación de la máquina virtual |
+| [Punto 1](/Tema_1/Actividad_1.md) | Instalación del servidor web Apache |
+| [Punto 2](/Tema_1/Actividad_3.md) | Instalación de PHP y MySQL |
+| [Punto 3](/Tema_1/Actividad_4) | Instalación y configuración de WordPress |
+| [Punto 4](/Tema_1/scripts/script3.sh) | Activación del módulo WSGI |
+| [Punto 5](/Tema_1/Actividad_3.md) | Creación de una aplicación python |
+| [Punto 6](/Tema_1/Actividad_4.md) | Acceso a la aplicación python mediante autenticación |
+| [Punto 7](/Tema_1/Actividad_5.md) | Instalación y configuración de AWStats |
+| [Punto 8](/Tema_1/Actividad_6.md) | Instalación de un segundo servidor web con Nginx |
 
 
