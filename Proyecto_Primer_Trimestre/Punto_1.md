@@ -14,7 +14,18 @@ Le damos a guardar y salir.
 
 Una vez terminado, hacemos una verificación de que la máquina virtual reconoce los dominios y resuelve correctamente, usando el comando ping. Es una forma de comprobar si el sistema operativo traduce el nombre del dominio a la dirección IP local (127.0.0.1). 
 
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/b9977224-0b3f-4bf0-a4fe-d7baee57c997" /> <br/>
+<img height="460" alt="image" src="https://github.com/user-attachments/assets/b9977224-0b3f-4bf0-a4fe-d7baee57c997" /> <br/>
 
-Vemos que los dominios están bien configurados.
+Vemos que los dominios están bien configurados. <br/> <br/>
+
+## Vamos a instalar Apache.
+
+<img height="20" alt="image" src="https://github.com/user-attachments/assets/a1071f9c-9d21-4c6b-b621-18e663cfb5b4" />
+
+Vamos a hacer una verificación rápida del buen funcionamiento de Apache. Desde nuestro navegador escribimos http://localhost y tenemos que ver la página web predeterminada de Apache. 
+
+<img  height="300" alt="image" src="https://github.com/user-attachments/assets/024d4442-f9d6-4c58-929c-7bd361d83a61" />
+
+
+
 
