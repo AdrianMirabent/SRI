@@ -6,9 +6,9 @@ Vamos a configurar antes que nada los nombres de dominio en mi máquina virtual 
 
 Abrimos el archivo /etc/hosts con privilegios de administrador y añado ya los tres dominios que voy a utilizar en la práctica. Añado tres nuevas líneas: 
 
-<img width="731" height="30" alt="image" src="https://github.com/user-attachments/assets/bc696a1b-50e5-41cf-8d9c-13138705e6db" />
+<img height="25" alt="image" src="https://github.com/user-attachments/assets/bc696a1b-50e5-41cf-8d9c-13138705e6db" />
 
-<img width="997" height="379" alt="image" src="https://github.com/user-attachments/assets/d96354bf-04f9-44b9-8372-f05046873c62" />
+<img height="250" alt="image" src="https://github.com/user-attachments/assets/d96354bf-04f9-44b9-8372-f05046873c62" />
 
 Le damos a guardar y salir. 
 
