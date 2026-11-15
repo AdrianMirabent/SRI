@@ -42,4 +42,30 @@ Ahora vamos a verificar su funcionamiento. Nos vamos al navegador y escribimos h
 
 <img height="120" alt="image" src="https://github.com/user-attachments/assets/ce188bed-085c-4737-bbf2-ba2cd8758c76" />
 
+## 2º Instalación de PHP y PHP-FPM
+
+Nginx no procesa código PHP por sí mismo, por lo que necesita el gestor de procesos FastCGI (php-fpm) y el conector para MySQL.
+
+<img height="23" alt="image" src="https://github.com/user-attachments/assets/40457ea3-1144-4654-b3ac-8a57e70079f9" />
+
+Ahora tenemos que modifica el fichero de configuración del sitio web.
+
+<img height="350" alt="image" src="https://github.com/user-attachments/assets/c547cf1d-a4c4-4c4a-950f-9a9dc5b0fe36" />
+
+A continuación, vamos a crear un archivo de prueba info.php en la carpeta raiz para comprobar que php responde correctamente. 
+
+<img height="120" alt="image" src="https://github.com/user-attachments/assets/d63431bd-6778-405b-8e17-683c208641b4" />
+
+Compruebo  que la sintaxis es correcta y reinicio Nginx.
+
+<img height="95" alt="image" src="https://github.com/user-attachments/assets/5422e428-790b-42f2-aad4-a45e5c82089a" />
+
+Por último, me voy al navegador y escribo http://servidor2.centro.intranet:8080/info.php. Vemos que todo va correcto. 
+
+<img height="250" alt="image" src="https://github.com/user-attachments/assets/6c41abf7-380b-40ce-b9c0-ab86e62efa3c" />
+
+
+
+
+
 
