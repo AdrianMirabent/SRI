@@ -10,7 +10,7 @@ Una vez terminada la instalación de Ubuntu, nos vamos al terminal.
 
 Lo primero que vamos a hacer es una actualización de todos los paquetes, con: 
 
-<img height="25" alt="image" src="https://github.com/user-attachments/assets/6a9f7a79-56a4-4194-99e1-2f19685c03ea" />
+<img height="22" alt="image" src="https://github.com/user-attachments/assets/6a9f7a79-56a4-4194-99e1-2f19685c03ea" />
 
 <img height="20" alt="image" src="https://github.com/user-attachments/assets/f9f676f0-ccb7-4db3-ba09-9a4e0bff8375" />
 
