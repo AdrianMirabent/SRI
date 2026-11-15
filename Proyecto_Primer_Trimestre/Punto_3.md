@@ -12,8 +12,8 @@ Accedemos a la consola de MySQL y hacemos lo siguiente:
 * Creamos un nuevo usuario, que vamos a llamar wp_user, y vamos a usar mysql_native_password como método de autenticación predeterminado. Y definimos una contraseña, que va a ser Mirabent1234.
 * Damos permiso a este usuario para la base de datos wordpress_db que hemos creado.
 
-<img width="1196" height="547" alt="image" src="https://github.com/user-attachments/assets/39c16ffd-092e-454c-ab51-e3ec5bd7cf51" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/39c16ffd-092e-454c-ab51-e3ec5bd7cf51" />
 
 Por último, le decimos a MySQL que vuelva a leer y cargar las tablas de permisos de forma inmediata. Y salimos de la consola MySQL. 
 
-<img width="1186" height="155" alt="image" src="https://github.com/user-attachments/assets/669afca5-b504-48b2-95d1-e054c11359b2" />
+<img height="100" alt="image" src="https://github.com/user-attachments/assets/669afca5-b504-48b2-95d1-e054c11359b2" />
