@@ -72,7 +72,12 @@ http://regexone.com
 
 <img width="849" height="253" alt="image" src="https://github.com/user-attachments/assets/a21e48fc-1ae0-4999-9ce3-923a0ffff6ed" />
 
-
+Esto que van a ver aquí abajo son posibles soluciones a los apartados: 
+||
+||
+||
+||
+VV
 ### Directorios en /www/ cuyo nombre consista en tres dígitos.
 
     ^/www/\d{3}$
