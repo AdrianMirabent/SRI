@@ -10,7 +10,7 @@ Vamos a comprobar que podemos usar el archivo. Nos vamos al navegador. Y escribi
 
 ## Ejemplo 1: Reescribir URL
 
-<img width="1111" height="253" alt="image" src="https://github.com/user-attachments/assets/c62c57aa-b3a0-4c72-b542-0dc38646674a" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/c62c57aa-b3a0-4c72-b542-0dc38646674a" />
 
 
 
