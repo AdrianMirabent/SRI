@@ -12,7 +12,7 @@ Vamos a comprobar que podemos usar el archivo. Nos vamos al navegador. Y escribi
 
 Habilitamos el módulo rewrite y restauramos Apache. 
 
-<img width="1058" height="216" alt="image" src="https://github.com/user-attachments/assets/58c8f366-c2e5-4439-8250-a59cae7505ed" />
+<img height="150" alt="image" src="https://github.com/user-attachments/assets/58c8f366-c2e5-4439-8250-a59cae7505ed" />
 
 
 <img height="160" alt="image" src="https://github.com/user-attachments/assets/c62c57aa-b3a0-4c72-b542-0dc38646674a" />
