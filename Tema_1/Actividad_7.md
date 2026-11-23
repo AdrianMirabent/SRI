@@ -1,4 +1,4 @@
-# Actividad 1.7 Reescritura
+# Actividad 7
 
 Antes que nada, nos vamos a la carpeta /var/www/html e introducimos el siguiente fichero php:
 
