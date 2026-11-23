@@ -6,7 +6,7 @@ Antes que nada, nos vamos a la carpeta /var/www/html e introducimos el siguiente
 
 Vamos a comprobar que podemos usar el archivo. Nos vamos al navegador. Y escribimos lo siguiente:
 
-<img width="1112" height="177" alt="image" src="https://github.com/user-attachments/assets/eb6c08aa-8faf-4c06-842a-780ce2eacb7d" />
+<img height="100" alt="image" src="https://github.com/user-attachments/assets/eb6c08aa-8faf-4c06-842a-780ce2eacb7d" />
 
 Ejemplo 1: Reescribir URL
 
