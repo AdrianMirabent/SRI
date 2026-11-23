@@ -2,7 +2,7 @@
 
 Antes que nada, nos vamos a la carpeta /var/www/html e introducimos el siguiente fichero php:
 
-<img height="250" alt="image" src="https://github.com/user-attachments/assets/5d2a6f10-42f1-414c-a1ee-6a125f7fd8e1" />
+<img height="250" alt="image" src="https://github.com/user-attachments/assets/5d2a6f10-42f1-414c-a1ee-6a125f7fd8e1" /> <br/>
 
 Vamos a comprobar que podemos usar el archivo. Nos vamos al navegador. Y escribimos lo siguiente:
 
