@@ -14,8 +14,9 @@ Habilitamos el módulo rewrite y restauramos Apache.
 
 <img height="150" alt="image" src="https://github.com/user-attachments/assets/58c8f366-c2e5-4439-8250-a59cae7505ed" />
 
+A continuación nos vamos a /etc/apache2 e introducimos lo siguiente en apache2.conf:
 
-<img height="160" alt="image" src="https://github.com/user-attachments/assets/c62c57aa-b3a0-4c72-b542-0dc38646674a" />
+<img height="130" alt="image" src="https://github.com/user-attachments/assets/c62c57aa-b3a0-4c72-b542-0dc38646674a" />
 
 
 
