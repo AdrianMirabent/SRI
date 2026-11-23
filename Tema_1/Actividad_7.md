@@ -1,5 +1,7 @@
 # Actividad 7
 
+Yo no estoy usando .htaccess, así que estos cambios los aplicaremos sobre apache2.conf.
+
 Antes que nada, nos vamos a la carpeta /var/www/html e introducimos el siguiente fichero php:
 
 <img height="250" alt="image" src="https://github.com/user-attachments/assets/5d2a6f10-42f1-414c-a1ee-6a125f7fd8e1" /> <br/>
@@ -29,6 +31,14 @@ Nos vamos al navegador y llamamos al fichero pero ahora con extensión html.
 <img height="100" alt="image" src="https://github.com/user-attachments/assets/3a22bd90-be99-4068-83aa-a7944d57e672" />
 
 ## Ejemplo 2: Cambiar la extensión de los ficheros
+He cambiado que para los archivos que tengan la extensión .do se redirigan a .html. También he respetado la redirección anterior.
+<img width="1126" height="276" alt="image" src="https://github.com/user-attachments/assets/46ab2015-34e4-4e68-8832-c9673c96886d" />
+
+
+<img width="873" height="171" alt="image" src="https://github.com/user-attachments/assets/4093bdc7-8e85-476a-9292-1dee2b4e5f7f" />
+
+## Ejemplo 3: Crear URL amigables
+<img width="1188" height="339" alt="image" src="https://github.com/user-attachments/assets/8d503fb7-ff82-4b13-8254-0cc4c9d64fa1" />
 
 
 
