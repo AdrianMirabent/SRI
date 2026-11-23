@@ -6,6 +6,8 @@ Vamos a comprobar que podemos usar el archivo. Nos vamos al navegador. Y escribi
 
 <img width="1112" height="177" alt="image" src="https://github.com/user-attachments/assets/eb6c08aa-8faf-4c06-842a-780ce2eacb7d" />
 
+Ejemplo 1: Reescribir URL
+
 
 
 
