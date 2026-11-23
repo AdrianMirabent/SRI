@@ -54,10 +54,13 @@ Que empiece como condición la palabra buscar.
 <img width="1188" height="334" alt="image" src="https://github.com/user-attachments/assets/5e06a287-1a90-4b18-80a2-05601ab75f65" />
 <img width="1167" height="515" alt="image" src="https://github.com/user-attachments/assets/e69f92a7-aee7-4309-9460-d7a17f2037ae" />
 
+# Ejemplo 5: Uso del RewriteCond 
+He creado un archivo indice para Firefox.
+Ahora voy a añadir las condiciones de reescritura para que cuando detecte que el navegador es Firefox me muestre la página que he configurado. 
 
+<img width="1175" height="395" alt="image" src="https://github.com/user-attachments/assets/605683f8-b149-4080-b6c8-fa394f64241e" />
 
-
-
+<img width="713" height="205" alt="image" src="https://github.com/user-attachments/assets/fcdff86e-4c81-4ff6-a12e-ed87940b38bb" />
 
 
 
