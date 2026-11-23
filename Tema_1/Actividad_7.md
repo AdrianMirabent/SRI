@@ -1,3 +1,5 @@
+# Actividad 1.7 Reescritura
+
 Antes que nada, nos vamos a la carpeta /var/www/html e introducimos el siguiente fichero php:
 
 <img width="1128" height="401" alt="image" src="https://github.com/user-attachments/assets/5d2a6f10-42f1-414c-a1ee-6a125f7fd8e1" />
@@ -8,6 +10,7 @@ Vamos a comprobar que podemos usar el archivo. Nos vamos al navegador. Y escribi
 
 Ejemplo 1: Reescribir URL
 
+<img width="1111" height="253" alt="image" src="https://github.com/user-attachments/assets/c62c57aa-b3a0-4c72-b542-0dc38646674a" />
 
 
 
