@@ -1,3 +1,17 @@
+Antes que nada, nos vamos a la carpeta /var/www/html e introducimos el siguiente fichero php:
+
+<img width="1128" height="401" alt="image" src="https://github.com/user-attachments/assets/5d2a6f10-42f1-414c-a1ee-6a125f7fd8e1" />
+
+Vamos a comprobar que podemos usar el archivo. Nos vamos al navegador. Y escribimos lo siguiente:
+
+<img width="1112" height="177" alt="image" src="https://github.com/user-attachments/assets/eb6c08aa-8faf-4c06-842a-780ce2eacb7d" />
+
+
+
+
+
+
+
 <img width="644" height="79" alt="image" src="https://github.com/user-attachments/assets/cefd73cf-99b6-44f6-98e1-38971a6c5069" />
 <img width="526" height="21" alt="image" src="https://github.com/user-attachments/assets/dc6b1ba7-3dc5-4128-8198-580985d5f1be" />
 <img width="643" height="86" alt="image" src="https://github.com/user-attachments/assets/c00a0a41-9dc8-4f5b-84de-3a1790d3ccec" />
