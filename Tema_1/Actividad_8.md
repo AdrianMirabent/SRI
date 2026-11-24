@@ -69,7 +69,12 @@ Por último utilizamos de base este fichero para crear pruebas.com.conf. Y lo co
 
 Utilizamos la herramienta a2ensite para habilitar cada uno de nuestros sitios web. 
 
+<img width="960" height="227" alt="image" src="https://github.com/user-attachments/assets/ab3120c2-e072-447f-b222-8193369c7560" />
+
 Confirmamos que no hay errores de sintaxis. 
+
+<img width="1620" height="100" alt="image" src="https://github.com/user-attachments/assets/dfd0b61f-6f21-4316-82aa-bc55cdd03c30" />
+
 
 Y por último reiniciamos Apache para que todos los cambios surtan efecto.
 
