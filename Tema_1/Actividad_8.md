@@ -89,9 +89,15 @@ Introducimos nuestros dominios a los ya existentes.
 
 ## Paso 7 - Pruebas tus resultados.
 
-Nos vamos al archivo /et
+Nos vamos al navegador y para acceder al sitio web ejemplo.com escribimos lo siguiente: http://ejemplo.com. Vemos que accedemos a nuestro archivo index.html.
 
-<img width="1046" height="114" alt="image" src="https://github.com/user-attachments/assets/9ea0f157-0ed5-4c51-ab22-a13207ededbb" />
+<img height="85" alt="image" src="https://github.com/user-attachments/assets/76d1b8a5-7e67-42ba-8a2b-3ecb9656670f" /> <br/>
+
+Hacemos lo mismo para el sitio web pruebas.com. Vemos que también funciona. 
+
+<img height="85" alt="image" src="https://github.com/user-attachments/assets/05490d1b-9796-4e80-9ac7-8e51a3f873b5" />
+
+
 
 
 
