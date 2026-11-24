@@ -75,8 +75,9 @@ Confirmamos que no hay errores de sintaxis.
 
 <img width="1620" height="100" alt="image" src="https://github.com/user-attachments/assets/dfd0b61f-6f21-4316-82aa-bc55cdd03c30" />
 
-
 Y por último reiniciamos Apache para que todos los cambios surtan efecto.
+
+
 
 
 
