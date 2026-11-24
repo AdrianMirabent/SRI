@@ -24,7 +24,7 @@ Actividades del módulo de Servicios de Red e Internet.
 | [Actividad_5](/Tema_1/Actividad_5.md) | Directiva directory |
 | [Actividad_6](/Tema_1/Actividad_6.md) | Expresiones regulares |
 | [Actividad_7](/Tema_1/Actividad_7.md) | Rescritura de URL |
-| [Actividad_8](/Tema_1/Actividad_8.md) | Hosting virtual |
+| [Actividad_8](/Tema_1/Actividad_8.md) | Virtual Host |
 
 ## Practica Servidores Web 1er Trimestre
 | Apartado  |  Descripción  |
