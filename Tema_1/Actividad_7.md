@@ -60,7 +60,7 @@ Después de reiniciar Apache, nos vamos al navegador y lo comprobamos.
 
 <img height="150" alt="image" src="https://github.com/user-attachments/assets/79475b36-4aeb-464e-88fd-0c6795a54879" />
 
-# Ejemplo 4: Acortar URL
+## Ejemplo 4: Acortar URL
 
 Creamos la carpeta /busqueda en /var/www/html y dentro de ella creamos el fichero buscar.php. Este fichero nos permite obtener la página de búsqueda de Google con el parámetro dado.
 
@@ -78,19 +78,27 @@ Después de reiniciar Apache, nos vamos al navegador y lo comprobamos.
 
 <img height="35" alt="image" src="https://github.com/user-attachments/assets/1a17f206-19ea-4271-b54b-e4a14f655fb7" /><br>
 
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/e69f92a7-aee7-4309-9460-d7a17f2037ae" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/e69f92a7-aee7-4309-9460-d7a17f2037ae" /><br>
 
+## Ejemplo 5: Uso del RewriteCond 
 
-# Ejemplo 5: Uso del RewriteCond 
+La directiva RewriteCond nos permite especificar una condición que si se cumple se ejecuta la directiva RewriteRule posterior. 
 
-He creado un archivo indice para Firefox.
+Vamos a utilizar el parámetro %{HTTP\_USER\_AGENT} que nos da la información del cliente que accede.
+
+He creado previamente un archivo índice para Firefox en /var/www/html.
+
+<img height="160" alt="image" src="https://github.com/user-attachments/assets/2e10eb7a-aa27-453e-83b7-382d4293a034" />
+
 Ahora voy a añadir las condiciones de reescritura para que cuando detecte que el navegador es Firefox me muestre la página que he configurado. 
 
-<img width="1175" height="395" alt="image" src="https://github.com/user-attachments/assets/605683f8-b149-4080-b6c8-fa394f64241e" />
+<img height="250" alt="image" src="https://github.com/user-attachments/assets/605683f8-b149-4080-b6c8-fa394f64241e" />
 
-<img width="713" height="205" alt="image" src="https://github.com/user-attachments/assets/fcdff86e-4c81-4ff6-a12e-ed87940b38bb" />
+Después de reiniciar Apache, nos vamos al navegador y lo comprobamos.
 
+<img height="35" alt="image" src="https://github.com/user-attachments/assets/e1433100-ecaa-4f73-aa84-9e0218c02e29" /><br>
 
+<img height="100" alt="image" src="https://github.com/user-attachments/assets/fcdff86e-4c81-4ff6-a12e-ed87940b38bb" />
 
 
 
