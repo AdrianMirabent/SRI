@@ -80,6 +80,10 @@ Después de reiniciar Apache, nos vamos al navegador y lo comprobamos.
 
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/e69f92a7-aee7-4309-9460-d7a17f2037ae" /><br>
 
+Si no tenemos creado el fichero buscar.php, podemos configurarlo de la siguiente manera: 
+
+<img height="220" alt="image" src="https://github.com/user-attachments/assets/efde8061-4cb9-42cb-adeb-5b59d52acdd1" />
+
 ## Ejemplo 5: Uso del RewriteCond 
 
 La directiva RewriteCond nos permite especificar una condición que si se cumple se ejecuta la directiva RewriteRule posterior. 
