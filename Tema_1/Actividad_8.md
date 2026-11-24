@@ -65,6 +65,13 @@ Por último utilizamos de base este fichero para crear pruebas.com.conf. Y lo co
 
 <img height="160" alt="image" src="https://github.com/user-attachments/assets/def95e54-69e6-41b0-88cf-7f6047d4c1bb" />
 
+## Paso 5 - Habilitar los nuevos archivos Virtual Host.
+
+Utilizamos la herramienta a2ensite para habilitar cada uno de nuestros sitios web. 
+
+Confirmamos que no hay errores de sintaxis. 
+
+Y por último reiniciamos Apache para que todos los cambios surtan efecto.
 
 
 
