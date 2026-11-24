@@ -69,13 +69,19 @@ Por último utilizamos de base este fichero para crear pruebas.com.conf. Y lo co
 
 Utilizamos la herramienta a2ensite para habilitar cada uno de nuestros sitios web. 
 
-<img width="960" height="227" alt="image" src="https://github.com/user-attachments/assets/ab3120c2-e072-447f-b222-8193369c7560" />
+<img height="140" alt="image" src="https://github.com/user-attachments/assets/ab3120c2-e072-447f-b222-8193369c7560" />
 
 Confirmamos que no hay errores de sintaxis. 
 
-<img width="1620" height="100" alt="image" src="https://github.com/user-attachments/assets/dfd0b61f-6f21-4316-82aa-bc55cdd03c30" />
+<img height="70" alt="image" src="https://github.com/user-attachments/assets/dfd0b61f-6f21-4316-82aa-bc55cdd03c30" />
 
 Y por último reiniciamos Apache para que todos los cambios surtan efecto.
+
+<img  height="20" alt="image" src="https://github.com/user-attachments/assets/14d5ef91-7e35-4133-a5c4-ca6c5d68bbaa" />
+
+## Paso 5 - Configurar Archivos Locales
+
+Nos vamos al archivo /etc/hosts para configurar los dominios locales ejemplo.com y pruebas.com. 
 
 
 
