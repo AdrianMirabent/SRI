@@ -39,9 +39,9 @@ Vamos a crear un archivo index.html para cada Virtual Host.
 
 <img height="100" alt="image" src="https://github.com/user-attachments/assets/a4bebd10-6d8e-4d8f-a73a-b5426e4c07d2" />
 
-<img height="180" alt="image" src="https://github.com/user-attachments/assets/9ea04cf2-24aa-49d6-8b2b-754027a9ee1f" />
+<img height="180" alt="image" src="https://github.com/user-attachments/assets/c0683d8d-6269-45e2-8432-9cd5dba4aae8" />
 
-<img height="180" alt="image" src="https://github.com/user-attachments/assets/027912b0-0cc8-4ee1-812c-d741fa134194" />
+<img height="180" alt="image" src="https://github.com/user-attachments/assets/8425584d-80f8-4c4f-8d82-74d69597cd50" />
 
 ## Paso 4 - Crear nuevos archivos Virtual Host.
 
