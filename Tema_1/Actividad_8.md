@@ -79,11 +79,19 @@ Y por último reiniciamos Apache para que todos los cambios surtan efecto.
 
 <img  height="20" alt="image" src="https://github.com/user-attachments/assets/14d5ef91-7e35-4133-a5c4-ca6c5d68bbaa" />
 
-## Paso 5 - Configurar Archivos Locales
+## Paso 6 - Configurar Archivos Locales
 
 Nos vamos al archivo /etc/hosts para configurar los dominios locales ejemplo.com y pruebas.com. 
 
+Introducimos nuestros dominios a los ya existentes. 
 
+<img height="140" alt="image" src="https://github.com/user-attachments/assets/de376925-2672-4e53-b9aa-97c11ec191df" />
+
+## Paso 7 - Pruebas tus resultados.
+
+Nos vamos al archivo /et
+
+<img width="1046" height="114" alt="image" src="https://github.com/user-attachments/assets/9ea0f157-0ed5-4c51-ab22-a13207ededbb" />
 
 
 
