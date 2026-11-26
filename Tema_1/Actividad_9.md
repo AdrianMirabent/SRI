@@ -20,7 +20,7 @@ Ejercicios de autenticación básica.
 
 <img width="1109" height="144" alt="image" src="https://github.com/user-attachments/assets/d2164f3e-f93b-4425-aa11-2cb23be61ce1" />
 
-## Punto 3. Crea un directorio llamado privado 1 que permita el acceso a todos los usuarios.
+## Punto 3. Crea un directorio llamado privado1 que permita el acceso a todos los usuarios.
 
 <img width="969" height="32" alt="image" src="https://github.com/user-attachments/assets/9b55fbea-ae49-4160-8c9e-e826fbece24d" />
 
@@ -43,6 +43,15 @@ Ejercicios de autenticación básica.
 <img width="1124" height="499" alt="image" src="https://github.com/user-attachments/assets/978b17d3-9c6b-4173-ad1b-d6dd13494305" />
 
 <img width="1423" height="442" alt="image" src="https://github.com/user-attachments/assets/10b0d83b-3f89-46f6-b272-769c8caad27e" />
+
+## Punto 4. Crea un directorio llamado privado2 que permita el acceso sólo a los usuarios del grupo1.
+
+<img width="980" height="30" alt="image" src="https://github.com/user-attachments/assets/9d2d67bd-79f7-4cbd-8ec4-6b6b71a2b073" />
+
+<img width="1067" height="28" alt="image" src="https://github.com/user-attachments/assets/3fec489f-f37a-44a3-a73d-42f96c1265c2" />
+
+<img width="1180" height="262" alt="image" src="https://github.com/user-attachments/assets/30a8b67f-9078-47db-8ca7-0c30ed767b70" />
+
 
 
 
