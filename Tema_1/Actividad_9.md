@@ -40,6 +40,13 @@ Ejercicios de autenticación básica.
 
 <img width="1200" height="196" alt="image" src="https://github.com/user-attachments/assets/db7758d2-60e4-4286-8115-759d7f096869" />
 
+<img width="1124" height="499" alt="image" src="https://github.com/user-attachments/assets/978b17d3-9c6b-4173-ad1b-d6dd13494305" />
+
+<img width="1423" height="442" alt="image" src="https://github.com/user-attachments/assets/10b0d83b-3f89-46f6-b272-769c8caad27e" />
+
+
+
+
 
 
 
